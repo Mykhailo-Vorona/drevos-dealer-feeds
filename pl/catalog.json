@@ -1,0 +1,2287 @@
+{
+  "feed": "DREVOS universal dealer feed",
+  "version": "1.0",
+  "market": "PL",
+  "language": "pl",
+  "currency": "PLN",
+  "generated_at": "2026-10-29T10:36:10.035Z",
+  "statuses": [
+    "active",
+    "deleted"
+  ],
+  "stock_policy": "made_to_order; stock quantity is intentionally omitted",
+  "price_policy": "public retail prices from the source market",
+  "products": [
+    {
+      "id": "shopify:15865010389326",
+      "source_id": "15865010389326",
+      "market": "PL",
+      "language": "pl",
+      "currency": "PLN",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "big-2",
+      "handle": "big-2-0",
+      "url": "https://drevos.pl/products/big-2-0",
+      "title": "3-w-1 Big do wędzenia na gorąco, na zimno oraz suszenia",
+      "vendor": "DREVOS",
+      "product_type": "Wędzarnia elektryczna 3-w-1",
+      "categories": [
+        "standard"
+      ],
+      "tags": [
+        "_badge_Duża_pojemność",
+        "Big",
+        "Polska",
+        "Seria: Standard",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Big DREVOS - największa wędzarnia 3-w-1 do dużych partii</h2><p>Big to największy model DREVOS - do dużych partii, imprez, agroturystyki i sprzedaży. Komora 484 L mieści 50-60 kg produktu w jednym cyklu, a generator dymu, konwekcja i kontrola temperatury PID prowadzą wędzenie spokojnie, bez ciągłego pilnowania ognia.</p><h3>Najważniejsze parametry</h3><ul>\n<li>Cena: 5 700 zł brutto, w tym 23% VAT</li>\n<li>Cena netto: 4 634 zł</li>\n<li>Jednorazowy wsad: 50-60 kg</li>\n<li>Objętość komory: 484 L</li>\n<li>Wymiary zewnętrzne: 945 x 970 x 1700 mm</li>\n<li>Wymiary wewnętrzne: 635 x 610 x 1250 mm</li>\n<li>Materiał: drewno lipowe 16 mm + stal nierdzewna 0,5 mm</li>\n<li>Maksymalny pobór mocy: 4,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe</li>\n<li>Stabilna temperatura: do 100°C</li>\n<li>Generator dymu: do 8 godzin pracy</li>\n<li>Izolacja bazaltowa 55 mm, znak CE</li>\n</ul><h3>Do czego służy</h3><p>Big obsługuje wędzenie na gorąco, wędzenie na zimno i suszenie. Do mięsa, ryb, kiełbas, drobiu, sera i warzyw - w dużych, komercyjnych partiach.</p><h3>Dla kogo jest Big</h3><p>Dla osób i firm, które wędzą dużo: agroturystyka, restauracja, sprzedaż, duże imprezy i zapasy. Gdy Classic jest już za mały i potrzeba maksimum produktu w jednym cyklu.</p><h3>Czym różni się od innych modeli</h3><ul>\n<li>\n<strong>Big:</strong> 484 L, 50-60 kg - duże partie i sprzedaż.</li>\n<li>\n<strong>Classic:</strong> 225 L, 20-25 kg - bestseller dla rodziny z gośćmi.</li>\n<li>\n<strong>Big PRO:</strong> 488 L, 50-60 kg - wzmocniona wersja do intensywnej pracy komercyjnej.</li>\n</ul><h3>Dostawa i gwarancja</h3><p>Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.</p>",
+      "description_text": "Big DREVOS - największa wędzarnia 3-w-1 do dużych partii\nBig to największy model DREVOS - do dużych partii, imprez, agroturystyki i sprzedaży. Komora 484 L mieści 50-60 kg produktu w jednym cyklu, a generator dymu, konwekcja i kontrola temperatury PID prowadzą wędzenie spokojnie, bez ciągłego pilnowania ognia.\nNajważniejsze parametry\n\nCena: 5 700 zł brutto, w tym 23% VAT\n\nCena netto: 4 634 zł\n\nJednorazowy wsad: 50-60 kg\n\nObjętość komory: 484 L\n\nWymiary zewnętrzne: 945 x 970 x 1700 mm\n\nWymiary wewnętrzne: 635 x 610 x 1250 mm\n\nMateriał: drewno lipowe 16 mm + stal nierdzewna 0,5 mm\n\nMaksymalny pobór mocy: 4,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe\n\nStabilna temperatura: do 100°C\n\nGenerator dymu: do 8 godzin pracy\n\nIzolacja bazaltowa 55 mm, znak CE\n\nDo czego służy\nBig obsługuje wędzenie na gorąco, wędzenie na zimno i suszenie. Do mięsa, ryb, kiełbas, drobiu, sera i warzyw - w dużych, komercyjnych partiach.\nDla kogo jest Big\nDla osób i firm, które wędzą dużo: agroturystyka, restauracja, sprzedaż, duże imprezy i zapasy. Gdy Classic jest już za mały i potrzeba maksimum produktu w jednym cyklu.\nCzym różni się od innych modeli\n\nBig: 484 L, 50-60 kg - duże partie i sprzedaż.\n\nClassic: 225 L, 20-25 kg - bestseller dla rodziny z gośćmi.\n\nBig PRO: 488 L, 50-60 kg - wzmocniona wersja do intensywnej pracy komercyjnej.\n\nDostawa i gwarancja\nZakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Pojemność komory",
+          "value": "484 l"
+        },
+        {
+          "name": "Wsad jednorazowy",
+          "value": "50–60 kg"
+        },
+        {
+          "name": "Wymiary zewnętrzne (S×G×W)",
+          "value": "945 × 970 × 1700 mm"
+        },
+        {
+          "name": "Wymiary wewnętrzne (S×G×W)",
+          "value": "635 × 610 × 1250 mm"
+        },
+        {
+          "name": "Maksymalny pobór mocy",
+          "value": "4,3 kW"
+        },
+        {
+          "name": "Zakres temperatur",
+          "value": "od +15 do +100°C"
+        },
+        {
+          "name": "Zasilanie",
+          "value": "220–240 V~, 50 Hz, jednofazowe"
+        },
+        {
+          "name": "Materiał obudowy",
+          "value": "Lipa 16 mm + powłoka na bazie wody"
+        },
+        {
+          "name": "Materiał komory",
+          "value": "Stal nierdzewna 0,5 mm"
+        },
+        {
+          "name": "Generator dymu",
+          "value": "Standardowy, bez chłodnicy, zbiornik 2 l, do 8 godzin"
+        },
+        {
+          "name": "Funkcje",
+          "value": "Suszenie, wędzenie na gorąco i na zimno"
+        },
+        {
+          "name": "Znak bezpieczeństwa",
+          "value": "CE"
+        },
+        {
+          "name": "Grubość ścian / izolacji",
+          "value": "55 mm"
+        },
+        {
+          "name": "Gwarancja",
+          "value": "1 rok"
+        },
+        {
+          "name": "Poziomy montażu półek",
+          "value": "4 poziomy"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Kontroler PID REX C100",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Generator dymu (kolba 2 l) + konwekcja",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Haczyki stalowe + sznurek",
+          "quantity": "25 szt."
+        },
+        {
+          "name": "Poprzeczki",
+          "quantity": "12 szt."
+        },
+        {
+          "name": "Na początek drewno bukowe",
+          "quantity": "3 opakowania"
+        },
+        {
+          "name": "Instrukcje PL + 3 przepisy",
+          "quantity": "1 szt."
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Big"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-02-panel.jpg?v=1780758153",
+          "alt": "3-w-1 Big do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-01-front.jpg?v=1780758152",
+          "alt": "3-w-1 Big do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-03-interior.jpg?v=1780758152",
+          "alt": "3-w-1 Big do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-04-side.jpg?v=1780758151",
+          "alt": "3-w-1 Big do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-05-detail.jpg?v=1780758152",
+          "alt": "3-w-1 Big do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-06-close.jpg?v=1780758152",
+          "alt": "3-w-1 Big do wędzenia na gorąco, na zimno oraz suszenia"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59820667306318",
+          "sku": "BIG",
+          "ean": null,
+          "title": "Big",
+          "options": {
+            "Model": "Big"
+          },
+          "price": "5700.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T10:43:41+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865071829326",
+      "source_id": "15865071829326",
+      "market": "PL",
+      "language": "pl",
+      "currency": "PLN",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "big-pro",
+      "handle": "big-pro",
+      "url": "https://drevos.pl/products/big-pro",
+      "title": "3-w-1 Big PRO do wędzenia na gorąco, na zimno oraz suszenia",
+      "vendor": "DREVOS",
+      "product_type": "Wędzarnia elektryczna 3-w-1",
+      "categories": [
+        "pro"
+      ],
+      "tags": [
+        "_badge_PRO",
+        "Big PRO",
+        "Polska",
+        "PRO",
+        "Seria: PRO",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Big PRO DREVOS - wędzarnia 3-w-1</h2><p>Big PRO to model z linii DREVOS z generatorem dymu, konwekcją i kontrolą temperatury PID. Prowadzi wędzenie na gorąco, na zimno i suszenie spokojnie, bez ciągłego pilnowania ognia.</p><h3>Najważniejsze parametry</h3><ul>\n<li>Cena: 8 300 zł brutto, w tym 23% VAT</li>\n<li>Cena netto: 6 748 zł</li>\n<li>Jednorazowy wsad: 50-60 kg</li>\n<li>Objętość komory: 488 L</li>\n<li>Wymiary zewnętrzne: 1015 x 885 x 1813 mm</li>\n<li>Wymiary wewnętrzne: 640 x 610 x 1250 mm</li>\n<li>Materiał: drewno lipowe 16 mm + stal nierdzewna 0,5 mm</li>\n<li>Maksymalny pobór mocy: 4,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe</li>\n<li>Generator dymu: z separatorem kondensatu i chłodnicą, kolba 2,7 l, do 10 godzin</li>\n<li>Stabilna temperatura: do 100°C, znak CE</li>\n</ul><h3>Do czego służy</h3><p>Obsługuje wędzenie na gorąco, na zimno, suszenie i kontrolę temperatury - do mięsa, ryb, kiełbas, drobiu, sera i warzyw.</p><h3>Czym różni się od innych modeli</h3><ul>\n<li>\n<strong>Big PRO:</strong> 488 L, 50-60 kg, generator dymu PRO 2,7 l z separatorem kondensatu. Premium do małego biznesu.</li>\n<li>\n<strong>Big:</strong> 484 L, 50-60 kg - podstawowa duża wersja bez generatora PRO, 5 700 zł.</li>\n<li>\n<strong>Classic PRO:</strong> 225 L, 20-25 kg - mniejszy model PRO do regularnego wędzenia, 7 700 zł.</li>\n</ul><h3>Dostawa i gwarancja</h3><p>Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.</p>",
+      "description_text": "Big PRO DREVOS - wędzarnia 3-w-1\nBig PRO to model z linii DREVOS z generatorem dymu, konwekcją i kontrolą temperatury PID. Prowadzi wędzenie na gorąco, na zimno i suszenie spokojnie, bez ciągłego pilnowania ognia.\nNajważniejsze parametry\n\nCena: 8 300 zł brutto, w tym 23% VAT\n\nCena netto: 6 748 zł\n\nJednorazowy wsad: 50-60 kg\n\nObjętość komory: 488 L\n\nWymiary zewnętrzne: 1015 x 885 x 1813 mm\n\nWymiary wewnętrzne: 640 x 610 x 1250 mm\n\nMateriał: drewno lipowe 16 mm + stal nierdzewna 0,5 mm\n\nMaksymalny pobór mocy: 4,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe\n\nGenerator dymu: z separatorem kondensatu i chłodnicą, kolba 2,7 l, do 10 godzin\n\nStabilna temperatura: do 100°C, znak CE\n\nDo czego służy\nObsługuje wędzenie na gorąco, na zimno, suszenie i kontrolę temperatury - do mięsa, ryb, kiełbas, drobiu, sera i warzyw.\nCzym różni się od innych modeli\n\nBig PRO: 488 L, 50-60 kg, generator dymu PRO 2,7 l z separatorem kondensatu. Premium do małego biznesu.\n\nBig: 484 L, 50-60 kg - podstawowa duża wersja bez generatora PRO, 5 700 zł.\n\nClassic PRO: 225 L, 20-25 kg - mniejszy model PRO do regularnego wędzenia, 7 700 zł.\n\nDostawa i gwarancja\nZakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Pojemność komory",
+          "value": "465 l"
+        },
+        {
+          "name": "Wsad jednorazowy",
+          "value": "50–60 kg"
+        },
+        {
+          "name": "Wymiary zewnętrzne (S×G×W)",
+          "value": "1015 × 885 × 1813 mm"
+        },
+        {
+          "name": "Wymiary wewnętrzne (S×G×W)",
+          "value": "640 × 610 × 1250 mm"
+        },
+        {
+          "name": "Maksymalny pobór mocy",
+          "value": "4,3 kW"
+        },
+        {
+          "name": "Zakres temperatur",
+          "value": "od +15 do +100°C"
+        },
+        {
+          "name": "Zasilanie",
+          "value": "220–240 V~, 50 Hz, jednofazowe"
+        },
+        {
+          "name": "Materiał obudowy",
+          "value": "Lipa 16 mm + powłoka na bazie wody"
+        },
+        {
+          "name": "Materiał komory",
+          "value": "Stal nierdzewna 0,5 mm"
+        },
+        {
+          "name": "Generator dymu",
+          "value": "Z kolektorem kondensatu i chłodnicą, zbiornik 2,75 l, do 10 godzin"
+        },
+        {
+          "name": "Funkcje",
+          "value": "Suszenie, wędzenie na gorąco i na zimno"
+        },
+        {
+          "name": "Znak bezpieczeństwa",
+          "value": "CE"
+        },
+        {
+          "name": "Grubość ścian / izolacji",
+          "value": "55 mm"
+        },
+        {
+          "name": "Gwarancja",
+          "value": "1 rok"
+        },
+        {
+          "name": "Poziomy montażu półek",
+          "value": "4 poziomy"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Generator dymu „Kwadrat”",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Haki",
+          "quantity": "30 szt."
+        },
+        {
+          "name": "Półki mobilne",
+          "quantity": "4 szt."
+        },
+        {
+          "name": "Poprzeczki",
+          "quantity": "12 szt."
+        },
+        {
+          "name": "Termometr do produktów",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Instrukcja",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zbiór przepisów i porad",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zrębki",
+          "quantity": "3 opakowania"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Big PRO"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-open-door.jpg?v=1781272570",
+          "alt": "3-w-1 Big PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-01-front.jpg?v=1780758804",
+          "alt": "3-w-1 Big PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-02-panel.jpg?v=1780758804",
+          "alt": "3-w-1 Big PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-03-interior.jpg?v=1780758805",
+          "alt": "3-w-1 Big PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-04-side.jpg?v=1780758804",
+          "alt": "3-w-1 Big PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-05-detail.jpg?v=1780758804",
+          "alt": "3-w-1 Big PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 7,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-06-close.jpg?v=1780758804",
+          "alt": "3-w-1 Big PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821068058958",
+          "sku": "BIGPRO",
+          "ean": null,
+          "title": "Big PRO",
+          "options": {
+            "Model": "Big PRO"
+          },
+          "price": "8300.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T10:43:41+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15849015837006",
+      "source_id": "15849015837006",
+      "market": "PL",
+      "language": "pl",
+      "currency": "PLN",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "classic-2",
+      "handle": "classic-2-0",
+      "url": "https://drevos.pl/products/classic-2-0",
+      "title": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia",
+      "vendor": "DREVOS",
+      "product_type": "Wędzarnia elektryczna 3-w-1",
+      "categories": [
+        "standard"
+      ],
+      "tags": [
+        "_badge_Wybór_nr_1",
+        "Classic",
+        "Polska",
+        "Seria: Standard",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Classic DREVOS - domowa wędzarnia 3-w-1 z dużym zapasem pojemności</h2><p>Classic to model dla osób, które wędzą regularnie i chcą mieć wygodną, estetyczną wędzarnię do ogrodu, domu jednorodzinnego lub małej pracowni. Komora 225 L mieści 20-25 kg produktu w jednym cyklu, a generator dymu, wentylator i kontrola temperatury pomagają prowadzić wędzenie spokojniej, bez ciągłego pilnowania ognia.</p><h3>Do czego służy</h3><p>Classic obsługuje wędzenie na gorąco, wędzenie na zimno, suszenie i kontrolę temperatury. To dobry wybór do mięsa, ryb, kiełbas, drobiu, sera, warzyw i domowych zapasów na sezon.</p><h3>Dla kogo jest Classic</h3><p>Dla rodzin, wędkarzy, myśliwych i pasjonatów, którzy chcą robić większe partie wędzonek bez budowania murowanej wędzarni. To także sensowny wybór dla osób, które cenią tradycyjny smak, ale chcą mieć bardziej przewidywalny proces, czystsze wnętrze ze stali nierdzewnej i lokalną obsługę w Polsce.</p>",
+      "description_text": "Classic DREVOS - domowa wędzarnia 3-w-1 z dużym zapasem pojemności\nClassic to model dla osób, które wędzą regularnie i chcą mieć wygodną, estetyczną wędzarnię do ogrodu, domu jednorodzinnego lub małej pracowni. Komora 225 L mieści 20-25 kg produktu w jednym cyklu, a generator dymu, wentylator i kontrola temperatury pomagają prowadzić wędzenie spokojniej, bez ciągłego pilnowania ognia.\nDo czego służy\nClassic obsługuje wędzenie na gorąco, wędzenie na zimno, suszenie i kontrolę temperatury. To dobry wybór do mięsa, ryb, kiełbas, drobiu, sera, warzyw i domowych zapasów na sezon.\nDla kogo jest Classic\nDla rodzin, wędkarzy, myśliwych i pasjonatów, którzy chcą robić większe partie wędzonek bez budowania murowanej wędzarni. To także sensowny wybór dla osób, które cenią tradycyjny smak, ale chcą mieć bardziej przewidywalny proces, czystsze wnętrze ze stali nierdzewnej i lokalną obsługę w Polsce.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Pojemność komory",
+          "value": "228 l"
+        },
+        {
+          "name": "Wsad jednorazowy",
+          "value": "20–25 kg"
+        },
+        {
+          "name": "Maksymalny pobór mocy",
+          "value": "2,3 kW"
+        },
+        {
+          "name": "Zasilanie",
+          "value": "220–240 V~, 50 Hz, jednofazowe"
+        },
+        {
+          "name": "Materiał obudowy",
+          "value": "Lipa 16 mm + powłoka na bazie wody"
+        },
+        {
+          "name": "Materiał komory",
+          "value": "Stal nierdzewna 0,5 mm"
+        },
+        {
+          "name": "Generator dymu",
+          "value": "Standardowy, bez chłodnicy, zbiornik 2 l, do 8 godzin"
+        },
+        {
+          "name": "Tryby",
+          "value": "Wędzenie na gorąco / na zimno + suszenie"
+        },
+        {
+          "name": "Wymiary zewnętrzne (S×G×W)",
+          "value": "730 × 780 × 1730 mm"
+        },
+        {
+          "name": "Wymiary wewnętrzne (S×G×W)",
+          "value": "445 × 410 × 1250 mm"
+        },
+        {
+          "name": "Zakres temperatur",
+          "value": "od +15 do +100°C"
+        },
+        {
+          "name": "Grubość ścian / izolacji",
+          "value": "55 mm"
+        },
+        {
+          "name": "Gwarancja",
+          "value": "1 rok"
+        },
+        {
+          "name": "Poziomy montażu półek",
+          "value": "3 poziomy"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Kontroler PID REX C100",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Generator dymu + wentylator (konwekcja 45 W)",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Haczyki stalowe + sznurek",
+          "quantity": "20 szt."
+        },
+        {
+          "name": "Poprzeczki",
+          "quantity": "9 szt."
+        },
+        {
+          "name": "Na początek drewno bukowe",
+          "quantity": "3 opakowania"
+        },
+        {
+          "name": "Drukowana instrukcja + 3 przepisy",
+          "quantity": "1 szt."
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Classic"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-12-open-chamber.jpg?v=1779815607",
+          "alt": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-01-front.jpg?v=1779815608",
+          "alt": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-02-panel.jpg?v=1779815607",
+          "alt": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-03-interior.jpg?v=1779815607",
+          "alt": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-04-side.jpg?v=1779815607",
+          "alt": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-05-smoke-generator.jpg?v=1779815607",
+          "alt": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 7,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-06-handles.jpg?v=1779815607",
+          "alt": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 8,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-07-fan.jpg?v=1779815607",
+          "alt": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 9,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-08-chamber-detail.jpg?v=1779815607",
+          "alt": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 10,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-09-generator-cap.jpg?v=1779815607",
+          "alt": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 11,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-10-thermometer.jpg?v=1779815607",
+          "alt": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 12,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-11-equipment.jpg?v=1779815607",
+          "alt": "3-w-1 Classic do wędzenia na gorąco, na zimno oraz suszenia"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59749570707790",
+          "sku": "CLASSIC2.0",
+          "ean": null,
+          "title": "Classic",
+          "options": {
+            "Model": "Classic"
+          },
+          "price": "4400.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T10:43:41+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865071665486",
+      "source_id": "15865071665486",
+      "market": "PL",
+      "language": "pl",
+      "currency": "PLN",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "classic-pro",
+      "handle": "classic-pro",
+      "url": "https://drevos.pl/products/classic-pro",
+      "title": "3-w-1 Classic PRO do wędzenia na gorąco, na zimno oraz suszenia",
+      "vendor": "DREVOS",
+      "product_type": "Wędzarnia elektryczna 3-w-1",
+      "categories": [
+        "pro"
+      ],
+      "tags": [
+        "_badge_PRO",
+        "Classic PRO",
+        "Polska",
+        "PRO",
+        "Seria: PRO",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Classic PRO DREVOS - wędzarnia 3-w-1</h2><p>Classic PRO to model z linii DREVOS z generatorem dymu, konwekcją i kontrolą temperatury PID. Prowadzi wędzenie na gorąco, na zimno i suszenie spokojnie, bez ciągłego pilnowania ognia.</p><h3>Najważniejsze parametry</h3><ul>\n<li>Cena: 7 700 zł brutto, w tym 23% VAT</li>\n<li>Cena netto: 6 260 zł</li>\n<li>Jednorazowy wsad: 20-25 kg</li>\n<li>Objętość komory: 225 L</li>\n<li>Wymiary zewnętrzne: 795 x 700 x 1810 mm</li>\n<li>Wymiary wewnętrzne: 440 x 410 x 1250 mm</li>\n<li>Materiał: drewno lipowe 16 mm + stal nierdzewna 0,5 mm</li>\n<li>Maksymalny pobór mocy: 2,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe</li>\n<li>Generator dymu: z separatorem kondensatu i chłodnicą, kolba 2,7 l, do 10 godzin</li>\n<li>Stabilna temperatura: do 100°C, znak CE</li>\n</ul><h3>Do czego służy</h3><p>Obsługuje wędzenie na gorąco, na zimno, suszenie i kontrolę temperatury - do mięsa, ryb, kiełbas, drobiu, sera i warzyw.</p><h3>Czym różni się od innych modeli</h3><ul>\n<li>\n<strong>Classic PRO:</strong> 225 L, 20-25 kg, generator dymu PRO 2,7 l z separatorem kondensatu. Premium do dużych partii.</li>\n<li>\n<strong>Classic:</strong> 225 L, 20-25 kg - wersja podstawowa bez generatora PRO, 4 400 zł.</li>\n<li>\n<strong>Big PRO:</strong> 488 L, 50-60 kg - największy model PRO do małego biznesu, 8 300 zł.</li>\n</ul><h3>Dostawa i gwarancja</h3><p>Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.</p>",
+      "description_text": "Classic PRO DREVOS - wędzarnia 3-w-1\nClassic PRO to model z linii DREVOS z generatorem dymu, konwekcją i kontrolą temperatury PID. Prowadzi wędzenie na gorąco, na zimno i suszenie spokojnie, bez ciągłego pilnowania ognia.\nNajważniejsze parametry\n\nCena: 7 700 zł brutto, w tym 23% VAT\n\nCena netto: 6 260 zł\n\nJednorazowy wsad: 20-25 kg\n\nObjętość komory: 225 L\n\nWymiary zewnętrzne: 795 x 700 x 1810 mm\n\nWymiary wewnętrzne: 440 x 410 x 1250 mm\n\nMateriał: drewno lipowe 16 mm + stal nierdzewna 0,5 mm\n\nMaksymalny pobór mocy: 2,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe\n\nGenerator dymu: z separatorem kondensatu i chłodnicą, kolba 2,7 l, do 10 godzin\n\nStabilna temperatura: do 100°C, znak CE\n\nDo czego służy\nObsługuje wędzenie na gorąco, na zimno, suszenie i kontrolę temperatury - do mięsa, ryb, kiełbas, drobiu, sera i warzyw.\nCzym różni się od innych modeli\n\nClassic PRO: 225 L, 20-25 kg, generator dymu PRO 2,7 l z separatorem kondensatu. Premium do dużych partii.\n\nClassic: 225 L, 20-25 kg - wersja podstawowa bez generatora PRO, 4 400 zł.\n\nBig PRO: 488 L, 50-60 kg - największy model PRO do małego biznesu, 8 300 zł.\n\nDostawa i gwarancja\nZakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Pojemność komory",
+          "value": "226 l"
+        },
+        {
+          "name": "Wsad jednorazowy",
+          "value": "20–25 kg"
+        },
+        {
+          "name": "Wymiary zewnętrzne (S×G×W)",
+          "value": "795 × 700 × 1810 mm"
+        },
+        {
+          "name": "Wymiary wewnętrzne (S×G×W)",
+          "value": "440 × 410 × 1250 mm"
+        },
+        {
+          "name": "Maksymalny pobór mocy",
+          "value": "2,3 kW"
+        },
+        {
+          "name": "Zakres temperatur",
+          "value": "od +15 do +100°C"
+        },
+        {
+          "name": "Zasilanie",
+          "value": "220–240 V~, 50 Hz, jednofazowe"
+        },
+        {
+          "name": "Materiał obudowy",
+          "value": "Lipa 16 mm + powłoka na bazie wody"
+        },
+        {
+          "name": "Materiał komory",
+          "value": "Stal nierdzewna 0,5 mm"
+        },
+        {
+          "name": "Generator dymu",
+          "value": "Z kolektorem kondensatu i chłodnicą, zbiornik 2,75 l, do 10 godzin"
+        },
+        {
+          "name": "Funkcje",
+          "value": "Suszenie, wędzenie na gorąco i na zimno"
+        },
+        {
+          "name": "Znak bezpieczeństwa",
+          "value": "CE"
+        },
+        {
+          "name": "Grubość ścian / izolacji",
+          "value": "55 mm"
+        },
+        {
+          "name": "Gwarancja",
+          "value": "1 rok"
+        },
+        {
+          "name": "Poziomy montażu półek",
+          "value": "3 poziomy"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Generator dymu „Kwadrat”",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Haki",
+          "quantity": "20 szt."
+        },
+        {
+          "name": "Półki mobilne",
+          "quantity": "3 szt."
+        },
+        {
+          "name": "Poprzeczki",
+          "quantity": "9 szt."
+        },
+        {
+          "name": "Termometr do produktów",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Instrukcja",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zbiór przepisów i porad",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zrębki",
+          "quantity": "3 opakowania"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Classic PRO"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-pro-02-panel.jpg?v=1780758801",
+          "alt": "3-w-1 Classic PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-pro-01-front.jpg?v=1780758801",
+          "alt": "3-w-1 Classic PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-pro-03-interior.jpg?v=1780758801",
+          "alt": "3-w-1 Classic PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-pro-04-side.jpg?v=1780758801",
+          "alt": "3-w-1 Classic PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-pro-05-detail.jpg?v=1780758802",
+          "alt": "3-w-1 Classic PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-pro-06-close.jpg?v=1780758801",
+          "alt": "3-w-1 Classic PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821066748238",
+          "sku": "CLASSICPRO",
+          "ean": null,
+          "title": "Classic PRO",
+          "options": {
+            "Model": "Classic PRO"
+          },
+          "price": "6930.00",
+          "compare_at_price": "7700.00"
+        }
+      ],
+      "source_updated_at": "2026-10-29T10:43:41+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865071501646",
+      "source_id": "15865071501646",
+      "market": "PL",
+      "language": "pl",
+      "currency": "PLN",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "family-pro",
+      "handle": "family-pro",
+      "url": "https://drevos.pl/products/family-pro",
+      "title": "3-w-1 Family PRO do wędzenia na gorąco, na zimno oraz suszenia",
+      "vendor": "DREVOS",
+      "product_type": "Wędzarnia elektryczna 3-w-1",
+      "categories": [
+        "pro"
+      ],
+      "tags": [
+        "_badge_PRO",
+        "Family PRO",
+        "Polska",
+        "PRO",
+        "Seria: PRO",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Family PRO DREVOS - wędzarnia 3-w-1</h2><p>Family PRO to model z linii DREVOS z generatorem dymu, konwekcją i kontrolą temperatury PID. Prowadzi wędzenie na gorąco, na zimno i suszenie spokojnie, bez ciągłego pilnowania ognia.</p><h3>Najważniejsze parametry</h3><ul>\n<li>Cena: 7 100 zł brutto, w tym 23% VAT</li>\n<li>Cena netto: 5 772 zł</li>\n<li>Jednorazowy wsad: 10-15 kg</li>\n<li>Objętość komory: 100 L</li>\n<li>Wymiary zewnętrzne: 679 x 523 x 1340 mm</li>\n<li>Materiał: drewno lipowe 16 mm + stal nierdzewna 0,5 mm</li>\n<li>Maksymalny pobór mocy: 2,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe</li>\n<li>Generator dymu: z separatorem kondensatu i chłodnicą, kolba 2,7 l, do 10 godzin</li>\n<li>Stabilna temperatura: do 100°C, znak CE</li>\n</ul><h3>Do czego służy</h3><p>Obsługuje wędzenie na gorąco, na zimno, suszenie i kontrolę temperatury - do mięsa, ryb, kiełbas, drobiu, sera i warzyw.</p><h3>Czym różni się od innych modeli</h3><ul>\n<li>\n<strong>Family PRO:</strong> 100 L, 10-15 kg, generator dymu PRO 2,7 l z separatorem kondensatu. Premium do rodziny i hobby.</li>\n<li>\n<strong>Family:</strong> 100 L, 10-15 kg - wersja podstawowa bez generatora PRO, 3 800 zł.</li>\n<li>\n<strong>Classic PRO:</strong> 225 L, 20-25 kg - większy model PRO do dużych partii, 7 700 zł.</li>\n</ul><h3>Dostawa i gwarancja</h3><p>Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.</p>",
+      "description_text": "Family PRO DREVOS - wędzarnia 3-w-1\nFamily PRO to model z linii DREVOS z generatorem dymu, konwekcją i kontrolą temperatury PID. Prowadzi wędzenie na gorąco, na zimno i suszenie spokojnie, bez ciągłego pilnowania ognia.\nNajważniejsze parametry\n\nCena: 7 100 zł brutto, w tym 23% VAT\n\nCena netto: 5 772 zł\n\nJednorazowy wsad: 10-15 kg\n\nObjętość komory: 100 L\n\nWymiary zewnętrzne: 679 x 523 x 1340 mm\n\nMateriał: drewno lipowe 16 mm + stal nierdzewna 0,5 mm\n\nMaksymalny pobór mocy: 2,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe\n\nGenerator dymu: z separatorem kondensatu i chłodnicą, kolba 2,7 l, do 10 godzin\n\nStabilna temperatura: do 100°C, znak CE\n\nDo czego służy\nObsługuje wędzenie na gorąco, na zimno, suszenie i kontrolę temperatury - do mięsa, ryb, kiełbas, drobiu, sera i warzyw.\nCzym różni się od innych modeli\n\nFamily PRO: 100 L, 10-15 kg, generator dymu PRO 2,7 l z separatorem kondensatu. Premium do rodziny i hobby.\n\nFamily: 100 L, 10-15 kg - wersja podstawowa bez generatora PRO, 3 800 zł.\n\nClassic PRO: 225 L, 20-25 kg - większy model PRO do dużych partii, 7 700 zł.\n\nDostawa i gwarancja\nZakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Pojemność komory",
+          "value": "98 l"
+        },
+        {
+          "name": "Wsad jednorazowy",
+          "value": "10–15 kg"
+        },
+        {
+          "name": "Wymiary zewnętrzne (S×G×W)",
+          "value": "730 × 525 × 1350 mm"
+        },
+        {
+          "name": "Maksymalny pobór mocy",
+          "value": "2,3 kW"
+        },
+        {
+          "name": "Zakres temperatur",
+          "value": "od +15 do +100°C"
+        },
+        {
+          "name": "Zasilanie",
+          "value": "220–240 V~, 50 Hz, jednofazowe"
+        },
+        {
+          "name": "Materiał obudowy",
+          "value": "Lipa 16 mm + powłoka na bazie wody"
+        },
+        {
+          "name": "Materiał komory",
+          "value": "Stal nierdzewna 0,5 mm"
+        },
+        {
+          "name": "Generator dymu",
+          "value": "Z kolektorem kondensatu i chłodnicą, zbiornik 2,75 l, do 10 godzin"
+        },
+        {
+          "name": "Funkcje",
+          "value": "Suszenie, wędzenie na gorąco i na zimno"
+        },
+        {
+          "name": "Znak bezpieczeństwa",
+          "value": "CE"
+        },
+        {
+          "name": "Wymiary wewnętrzne (S×G×W)",
+          "value": "370 × 320 × 850 mm"
+        },
+        {
+          "name": "Grubość ścian / izolacji",
+          "value": "55 mm"
+        },
+        {
+          "name": "Gwarancja",
+          "value": "1 rok"
+        },
+        {
+          "name": "Poziomy montażu półek",
+          "value": "3 poziomy"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Generator dymu „Kwadrat”",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Haki",
+          "quantity": "15 szt."
+        },
+        {
+          "name": "Półki mobilne",
+          "quantity": "2 szt."
+        },
+        {
+          "name": "Poprzeczki",
+          "quantity": "6 szt."
+        },
+        {
+          "name": "Termometr do produktów",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Instrukcja",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zbiór przepisów i porad",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zrębki",
+          "quantity": "3 opakowania"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Family PRO"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-pro-02-panel.jpg?v=1780758798",
+          "alt": "3-w-1 Family PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-pro-03-interior.jpg?v=1780758798",
+          "alt": "3-w-1 Family PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-pro-01-front.jpg?v=1780758798",
+          "alt": "3-w-1 Family PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-pro-04-side.jpg?v=1780758798",
+          "alt": "3-w-1 Family PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-pro-05-detail.jpg?v=1780758798",
+          "alt": "3-w-1 Family PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-pro-06-close.jpg?v=1780758798",
+          "alt": "3-w-1 Family PRO do wędzenia na gorąco, na zimno oraz suszenia"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821066551630",
+          "sku": "FAMILYPRO",
+          "ean": null,
+          "title": "Family PRO",
+          "options": {
+            "Model": "Family PRO"
+          },
+          "price": "7100.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T10:43:41+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15864859492686",
+      "source_id": "15864859492686",
+      "market": "PL",
+      "language": "pl",
+      "currency": "PLN",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "mini-2",
+      "handle": "mini-2-0",
+      "url": "https://drevos.pl/products/mini-2-0",
+      "title": "3-w-1 Mini do wędzenia na gorąco, na zimno oraz suszenia",
+      "vendor": "DREVOS",
+      "product_type": "Wędzarnia elektryczna 3-w-1",
+      "categories": [
+        "standard"
+      ],
+      "tags": [
+        "_badge_Kompaktowy",
+        "Mini",
+        "Polska",
+        "Seria: Standard",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Mini DREVOS - kompaktowa wędzarnia 3-w-1 do domu, balkonu i działki</h2><p>Mini to najmniejszy model DREVOS - idealny na pierwszą wędzarnię i dla mniejszej rodziny 2-4 osoby. Komora 65 L mieści 5-7 kg produktu w jednym cyklu, a generator dymu, konwekcja i kontrola temperatury PID pomagają prowadzić wędzenie spokojnie, bez ciągłego pilnowania ognia.</p><h3>Najważniejsze parametry</h3><ul>\n<li>Cena: 3 100 zł brutto, w tym 23% VAT</li>\n<li>Cena netto: 2 520 zł</li>\n<li>Jednorazowy wsad: 5-7 kg</li>\n<li>Objętość komory: 65 L</li>\n<li>Wymiary zewnętrzne: 670 x 655 x 1065 mm</li>\n<li>Wymiary wewnętrzne: 325 x 315 x 660 mm</li>\n<li>Materiał: drewno lipowe 16 mm + stal nierdzewna</li>\n<li>Maksymalny pobór mocy: 2,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe</li>\n<li>Stabilna temperatura: do 100°C</li>\n<li>Generator dymu: do 8 godzin pracy</li>\n</ul><h3>Do czego służy</h3><p>Mini obsługuje wędzenie na gorąco, wędzenie na zimno, suszenie i kontrolę temperatury. To dobry wybór do mięsa, ryb, kiełbas, drobiu, sera i warzyw - w mniejszych, domowych partiach.</p><h3>Dla kogo jest Mini</h3><p>Dla osób, które zaczynają przygodę z wędzeniem, mieszkają w mieszkaniu, na balkonie lub mają działkę ROD, gdzie murowana wędzarnia i otwarty ogień są zabronione. Elektryczna, bez ognia, kompaktowa.</p><h3>Czym różni się od innych modeli</h3><ul>\n<li>\n<strong>Mini:</strong> najmniejszy model 65 L, 5-7 kg - pierwsza wędzarnia i mała rodzina.</li>\n<li>\n<strong>Family:</strong> większy model 100 L, 10-15 kg dla rodziny i większego zapasu.</li>\n<li>\n<strong>Classic:</strong> 225 L, 20-25 kg - balans pojemności, wygody i ceny do regularnego wędzenia.</li>\n</ul><h3>Dostawa i gwarancja</h3><p>Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.</p>",
+      "description_text": "Mini DREVOS - kompaktowa wędzarnia 3-w-1 do domu, balkonu i działki\nMini to najmniejszy model DREVOS - idealny na pierwszą wędzarnię i dla mniejszej rodziny 2-4 osoby. Komora 65 L mieści 5-7 kg produktu w jednym cyklu, a generator dymu, konwekcja i kontrola temperatury PID pomagają prowadzić wędzenie spokojnie, bez ciągłego pilnowania ognia.\nNajważniejsze parametry\n\nCena: 3 100 zł brutto, w tym 23% VAT\n\nCena netto: 2 520 zł\n\nJednorazowy wsad: 5-7 kg\n\nObjętość komory: 65 L\n\nWymiary zewnętrzne: 670 x 655 x 1065 mm\n\nWymiary wewnętrzne: 325 x 315 x 660 mm\n\nMateriał: drewno lipowe 16 mm + stal nierdzewna\n\nMaksymalny pobór mocy: 2,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe\n\nStabilna temperatura: do 100°C\n\nGenerator dymu: do 8 godzin pracy\n\nDo czego służy\nMini obsługuje wędzenie na gorąco, wędzenie na zimno, suszenie i kontrolę temperatury. To dobry wybór do mięsa, ryb, kiełbas, drobiu, sera i warzyw - w mniejszych, domowych partiach.\nDla kogo jest Mini\nDla osób, które zaczynają przygodę z wędzeniem, mieszkają w mieszkaniu, na balkonie lub mają działkę ROD, gdzie murowana wędzarnia i otwarty ogień są zabronione. Elektryczna, bez ognia, kompaktowa.\nCzym różni się od innych modeli\n\nMini: najmniejszy model 65 L, 5-7 kg - pierwsza wędzarnia i mała rodzina.\n\nFamily: większy model 100 L, 10-15 kg dla rodziny i większego zapasu.\n\nClassic: 225 L, 20-25 kg - balans pojemności, wygody i ceny do regularnego wędzenia.\n\nDostawa i gwarancja\nZakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Pojemność komory",
+          "value": "67 l"
+        },
+        {
+          "name": "Wsad jednorazowy",
+          "value": "5–7 kg"
+        },
+        {
+          "name": "Maksymalny pobór mocy",
+          "value": "2,3 kW"
+        },
+        {
+          "name": "Zakres temperatur",
+          "value": "od +15 do +100°C"
+        },
+        {
+          "name": "Zasilanie",
+          "value": "220–240 V~, 50 Hz, jednofazowe"
+        },
+        {
+          "name": "Materiał obudowy",
+          "value": "Lipa 16 mm + powłoka na bazie wody"
+        },
+        {
+          "name": "Materiał komory",
+          "value": "Stal nierdzewna 0,5 mm"
+        },
+        {
+          "name": "Generator dymu",
+          "value": "Standardowy, bez chłodnicy, zbiornik 2 l, do 8 godzin"
+        },
+        {
+          "name": "Tryby",
+          "value": "Wędzenie na gorąco / na zimno + suszenie"
+        },
+        {
+          "name": "Wymiary zewnętrzne (S×G×W)",
+          "value": "670 × 655 × 1065 mm"
+        },
+        {
+          "name": "Wymiary wewnętrzne (S×G×W)",
+          "value": "325 × 315 × 660 mm"
+        },
+        {
+          "name": "Grubość ścian / izolacji",
+          "value": "55 mm"
+        },
+        {
+          "name": "Gwarancja",
+          "value": "1 rok"
+        },
+        {
+          "name": "Poziomy montażu półek",
+          "value": "1 poziom"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Generator dymu standardowego",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Haki",
+          "quantity": "10 szt."
+        },
+        {
+          "name": "Komin",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Poprzeczki",
+          "quantity": "3 szt."
+        },
+        {
+          "name": "Termometr do produktów",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Instrukcja",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zbiór przepisów i porad",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zrębki",
+          "quantity": "3 opakowania"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Mini"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-02-panel.jpg?v=1780756831",
+          "alt": "3-w-1 Mini do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-01-front.jpg?v=1780756831",
+          "alt": "3-w-1 Mini do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-03-interior.jpg?v=1780756831",
+          "alt": "3-w-1 Mini do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-04-side.jpg?v=1780756831",
+          "alt": "3-w-1 Mini do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-05-detail.jpg?v=1780756831",
+          "alt": "3-w-1 Mini do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-06-close.jpg?v=1780756831",
+          "alt": "3-w-1 Mini do wędzenia na gorąco, na zimno oraz suszenia"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59819977015630",
+          "sku": "MINI",
+          "ean": null,
+          "title": "Mini",
+          "options": {
+            "Model": "Mini"
+          },
+          "price": "3100.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T10:43:41+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15864979194190",
+      "source_id": "15864979194190",
+      "market": "PL",
+      "language": "pl",
+      "currency": "PLN",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "family-2",
+      "handle": "family-2-0",
+      "url": "https://drevos.pl/products/family-2-0",
+      "title": "Family do wędzenia na gorąco, na zimno oraz suszenia",
+      "vendor": "DREVOS",
+      "product_type": "Wędzarnia elektryczna 3-w-1",
+      "categories": [
+        "standard"
+      ],
+      "tags": [
+        "_badge_Hit_sprzedaży",
+        "Family",
+        "Polska",
+        "Seria: Standard",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Family DREVOS - wędzarnia 3-w-1 do domu, ogrodu i działki</h2><p>Family to wygodny model DREVOS dla rodziny 2-4 osoby i większego zapasu. Komora 100 L mieści 10-15 kg produktu w jednym cyklu, a generator dymu, konwekcja i kontrola temperatury PID prowadzą wędzenie spokojnie, bez ciągłego pilnowania ognia.</p><h3>Najważniejsze parametry</h3><ul>\n<li>Cena: 3 800 zł brutto, w tym 23% VAT</li>\n<li>Cena netto: 3 089 zł</li>\n<li>Jednorazowy wsad: 10-15 kg</li>\n<li>Objętość komory: 100 L</li>\n<li>Wymiary zewnętrzne: 570 x 655 x 1255 mm</li>\n<li>Materiał: drewno lipowe 16 mm + stal nierdzewna</li>\n<li>Maksymalny pobór mocy: 2,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe</li>\n<li>Stabilna temperatura: do 100°C</li>\n<li>Generator dymu: do 8 godzin pracy</li>\n</ul><h3>Do czego służy</h3><p>Family obsługuje wędzenie na gorąco, wędzenie na zimno, suszenie i kontrolę temperatury. Dobry wybór do mięsa, ryb, kiełbas, drobiu, sera i warzyw - w większych, rodzinnych partiach.</p><h3>Dla kogo jest Family</h3><p>Dla rodziny 2-4 osoby, która chce zapas na tydzień-dwa, do regularnego wędzenia w weekendy, na działkę ROD lub taras, gdzie zabroniony jest otwarty ogień. Gdy Mini jest już za mała, a duży Classic jeszcze niepotrzebny.</p><h3>Czym różni się od innych modeli</h3><ul>\n<li>\n<strong>Family:</strong> 100 L, 10-15 kg - rodzina i większy zapas.</li>\n<li>\n<strong>Classic:</strong> 225 L, 20-25 kg - bestseller do regularnego wędzenia.</li>\n<li>\n<strong>Big:</strong> 484 L, 50-60 kg - maksymalny model do dużych partii i sprzedaży.</li>\n</ul><h3>Dostawa i gwarancja</h3><p>Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.</p>",
+      "description_text": "Family DREVOS - wędzarnia 3-w-1 do domu, ogrodu i działki\nFamily to wygodny model DREVOS dla rodziny 2-4 osoby i większego zapasu. Komora 100 L mieści 10-15 kg produktu w jednym cyklu, a generator dymu, konwekcja i kontrola temperatury PID prowadzą wędzenie spokojnie, bez ciągłego pilnowania ognia.\nNajważniejsze parametry\n\nCena: 3 800 zł brutto, w tym 23% VAT\n\nCena netto: 3 089 zł\n\nJednorazowy wsad: 10-15 kg\n\nObjętość komory: 100 L\n\nWymiary zewnętrzne: 570 x 655 x 1255 mm\n\nMateriał: drewno lipowe 16 mm + stal nierdzewna\n\nMaksymalny pobór mocy: 2,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe\n\nStabilna temperatura: do 100°C\n\nGenerator dymu: do 8 godzin pracy\n\nDo czego służy\nFamily obsługuje wędzenie na gorąco, wędzenie na zimno, suszenie i kontrolę temperatury. Dobry wybór do mięsa, ryb, kiełbas, drobiu, sera i warzyw - w większych, rodzinnych partiach.\nDla kogo jest Family\nDla rodziny 2-4 osoby, która chce zapas na tydzień-dwa, do regularnego wędzenia w weekendy, na działkę ROD lub taras, gdzie zabroniony jest otwarty ogień. Gdy Mini jest już za mała, a duży Classic jeszcze niepotrzebny.\nCzym różni się od innych modeli\n\nFamily: 100 L, 10-15 kg - rodzina i większy zapas.\n\nClassic: 225 L, 20-25 kg - bestseller do regularnego wędzenia.\n\nBig: 484 L, 50-60 kg - maksymalny model do dużych partii i sprzedaży.\n\nDostawa i gwarancja\nZakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Pojemność komory",
+          "value": "100 l"
+        },
+        {
+          "name": "Wsad jednorazowy",
+          "value": "10–15 kg"
+        },
+        {
+          "name": "Maksymalny pobór mocy",
+          "value": "2,3 kW"
+        },
+        {
+          "name": "Zakres temperatur",
+          "value": "od +15 do +100°C"
+        },
+        {
+          "name": "Zasilanie",
+          "value": "220–240 V~, 50 Hz, jednofazowe"
+        },
+        {
+          "name": "Materiał obudowy",
+          "value": "Lipa 16 mm + powłoka na bazie wody"
+        },
+        {
+          "name": "Materiał komory",
+          "value": "Stal nierdzewna 0,5 mm"
+        },
+        {
+          "name": "Generator dymu",
+          "value": "Standardowy, bez chłodnicy, zbiornik 2 l, do 8 godzin"
+        },
+        {
+          "name": "Tryby",
+          "value": "Wędzenie na gorąco / na zimno + suszenie"
+        },
+        {
+          "name": "Wymiary zewnętrzne (S×G×W)",
+          "value": "615 × 655 × 1255 mm"
+        },
+        {
+          "name": "Wymiary wewnętrzne (S×G×W)",
+          "value": "375 × 315 × 850 mm"
+        },
+        {
+          "name": "Grubość ścian / izolacji",
+          "value": "55 mm"
+        },
+        {
+          "name": "Gwarancja",
+          "value": "1 rok"
+        },
+        {
+          "name": "Poziomy montażu półek",
+          "value": "2 poziomy"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Generator dymu standardowego",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Haki",
+          "quantity": "15 szt."
+        },
+        {
+          "name": "Komin",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Poprzeczki",
+          "quantity": "6 szt."
+        },
+        {
+          "name": "Termometr do produktów",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Instrukcja",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zbiór przepisów i porad",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zrębki",
+          "quantity": "3 opakowania"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Family"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-02-panel.jpg?v=1780757871",
+          "alt": "Family do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-01-front.jpg?v=1780757870",
+          "alt": "Family do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-03-interior.jpg?v=1780757871",
+          "alt": "Family do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-04-side.jpg?v=1780757871",
+          "alt": "Family do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-05-detail.jpg?v=1780757870",
+          "alt": "Family do wędzenia na gorąco, na zimno oraz suszenia"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-06-close.jpg?v=1780757870",
+          "alt": "Family do wędzenia na gorąco, na zimno oraz suszenia"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59820566151502",
+          "sku": "FAMILY",
+          "ean": null,
+          "title": "Family",
+          "options": {
+            "Model": "Family"
+          },
+          "price": "3800.00",
+          "compare_at_price": "4225.00"
+        }
+      ],
+      "source_updated_at": "2026-10-29T10:43:41+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865128321358",
+      "source_id": "15865128321358",
+      "market": "PL",
+      "language": "pl",
+      "currency": "PLN",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "old-school-family",
+      "handle": "oldschool",
+      "url": "https://drevos.pl/products/oldschool",
+      "title": "Old School Family – tradycyjna wędzarnia 3-w-1, 140 L",
+      "vendor": "DREVOS",
+      "product_type": "Wędzarnia tradycyjna",
+      "categories": [
+        "tradizini"
+      ],
+      "tags": [
+        "3-w-1",
+        "_badge_Tradycyjna",
+        "Old School Family",
+        "Polska",
+        "Seria: Tradycyjna",
+        "suszenie",
+        "tradycyjna",
+        "Wędzarnia tradycyjna",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Old School Family DREVOS - tradycyjna wędzarnia 3-w-1</h2><p>Old School Family to tradycyjna wędzarnia opalana drewnem. Nie ma grzałki elektrycznej ani automatycznego sterowania - temperaturę i intensywność dymu użytkownik reguluje ręcznie przez pracę paleniska i ciąg.</p><h3>Najważniejsze parametry</h3><ul>\n<li>Cena: 3 700 zł brutto, w tym 23% VAT</li>\n<li>Cena netto: 3 008 zł</li>\n<li>Jednorazowy wsad: 10-15 kg</li>\n<li>Objętość komory: 140 L</li>\n<li>Materiał: drewno lipowe + stal nierdzewna</li>\n<li>Sposób ogrzewania: tradycyjne palenisko na drewno</li>\n<li>Sterowanie temperaturą: ręczne</li>\n<li>Funkcje: wędzenie na gorąco, na zimno, suszenie - do 100°C</li>\n</ul><h3>Do czego służy</h3><p>Obsługuje wędzenie na gorąco, na zimno i suszenie - do mięsa, ryb, kiełbas, drobiu, sera i warzyw.</p><h3>Dostawa i gwarancja</h3><p>Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.</p>",
+      "description_text": "Old School Family DREVOS - tradycyjna wędzarnia 3-w-1\nOld School Family to tradycyjna wędzarnia opalana drewnem. Nie ma grzałki elektrycznej ani automatycznego sterowania - temperaturę i intensywność dymu użytkownik reguluje ręcznie przez pracę paleniska i ciąg.\nNajważniejsze parametry\n\nCena: 3 700 zł brutto, w tym 23% VAT\n\nCena netto: 3 008 zł\n\nJednorazowy wsad: 10-15 kg\n\nObjętość komory: 140 L\n\nMateriał: drewno lipowe + stal nierdzewna\n\nSposób ogrzewania: tradycyjne palenisko na drewno\n\nSterowanie temperaturą: ręczne\n\nFunkcje: wędzenie na gorąco, na zimno, suszenie - do 100°C\n\nDo czego służy\nObsługuje wędzenie na gorąco, na zimno i suszenie - do mięsa, ryb, kiełbas, drobiu, sera i warzyw.\nDostawa i gwarancja\nZakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Pojemność komory",
+          "value": "100 l"
+        },
+        {
+          "name": "Wsad jednorazowy",
+          "value": "10–15 kg"
+        },
+        {
+          "name": "Tryby",
+          "value": "Wędzenie na gorąco / na zimno + suszenie"
+        },
+        {
+          "name": "Źródło ciepła i dymu",
+          "value": "Palenisko na drewno"
+        },
+        {
+          "name": "Zasilanie elektryczne",
+          "value": "Nie wymaga"
+        },
+        {
+          "name": "Sterowanie",
+          "value": "Ręczne, bez automatyki"
+        },
+        {
+          "name": "Materiał obudowy",
+          "value": "Lipa 16 mm + powłoka na bazie wody"
+        },
+        {
+          "name": "Materiał komory",
+          "value": "Stal nierdzewna"
+        },
+        {
+          "name": "Miejsce użytkowania",
+          "value": "Ogród lub działka — zgodnie z lokalnymi przepisami i zasadami ppoż."
+        },
+        {
+          "name": "Wymiary zewnętrzne (S×G×W)",
+          "value": "615 × 655 × 1255 mm"
+        },
+        {
+          "name": "Wymiary wewnętrzne (S×G×W)",
+          "value": "375 × 315 × 850 mm"
+        },
+        {
+          "name": "Grubość ścian / izolacji",
+          "value": "55 mm"
+        },
+        {
+          "name": "Gwarancja",
+          "value": "1 rok"
+        },
+        {
+          "name": "Poziomy montażu półek",
+          "value": "2 poziomy"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Korpus Old School Family 100 l",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Tradycyjne palenisko na drewno z kanałem dymowym",
+          "quantity": "W zestawie"
+        },
+        {
+          "name": "Komin i elementy ciągu",
+          "quantity": "W zestawie"
+        },
+        {
+          "name": "Haki",
+          "quantity": "15 szt."
+        },
+        {
+          "name": "Poprzeczki",
+          "quantity": "6 szt."
+        },
+        {
+          "name": "Zrębki na pierwszy rozruch",
+          "quantity": "W zestawie"
+        },
+        {
+          "name": "Instrukcje, przepisy i wsparcie technologów",
+          "quantity": "W zestawie"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Old School Family"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/oldschool-02-panel.jpg?v=1780760534",
+          "alt": "Old School Family – tradycyjna wędzarnia 3-w-1, 140 L"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/oldschool-01-front.jpg?v=1780760534",
+          "alt": "Old School Family – tradycyjna wędzarnia 3-w-1, 140 L"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/oldschool-03-interior.jpg?v=1780760534",
+          "alt": "Old School Family – tradycyjna wędzarnia 3-w-1, 140 L"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/oldschool-04-side.jpg?v=1780760534",
+          "alt": "Old School Family – tradycyjna wędzarnia 3-w-1, 140 L"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/oldschool-05-detail.jpg?v=1780760534",
+          "alt": "Old School Family – tradycyjna wędzarnia 3-w-1, 140 L"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/oldschool-06-close.jpg?v=1780760534",
+          "alt": "Old School Family – tradycyjna wędzarnia 3-w-1, 140 L"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821269942606",
+          "sku": "OLDSCHOOLFAMILY",
+          "ean": null,
+          "title": "Old School Family",
+          "options": {
+            "Model": "Old School Family"
+          },
+          "price": "3700.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:38:56+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865100501326",
+      "source_id": "15865100501326",
+      "market": "PL",
+      "language": "pl",
+      "currency": "PLN",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "smoke-chamber-25",
+      "handle": "smoke-chamber-25",
+      "url": "https://drevos.pl/products/smoke-chamber-25",
+      "title": "Smoke Chamber 25 - profesjonalna komora wędzarnicza 160 L, 20-25 kg",
+      "vendor": "DREVOS",
+      "product_type": "Profesjonalna komora wędzarnicza",
+      "categories": [
+        "smoke-chamber"
+      ],
+      "tags": [
+        "_badge_Do_gastronomii",
+        "komora wędzarnicza",
+        "Polska",
+        "PRO",
+        "produkcja",
+        "Seria: Smoke Chamber",
+        "Smoke Chamber 25",
+        "suszenie",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Smoke Chamber 25 DREVOS - komora wędzarnicza 5-w-1</h2><p>Smoke Chamber 25 łączy suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie i gotowanie na parze. Wbudowany generator pary wchodzi w skład wyposażenia podstawowego.</p><h3>Najważniejsze parametry</h3><ul>\n<li>Cena bez szkła: 9 100 zł brutto, w tym 23% VAT</li>\n<li>Cena ze szkłem: 9 500 zł brutto, w tym 23% VAT</li>\n<li>Cena netto bez szkła: 7 398 zł</li>\n<li>Cena netto ze szkłem: 7 724 zł</li>\n<li>Jednorazowy wsad: 20-25 kg</li>\n<li>Objętość komory: 160 L</li>\n<li>Wymiary zewnętrzne: 860 x 630 x 1180 mm</li>\n<li>Wymiary wewnętrzne: 440 x 430 x 830 mm</li>\n<li>Materiał komory i obudowy: stal nierdzewna 0,8 mm</li>\n<li>Maksymalny pobór mocy: 2,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe</li>\n<li>Generator dymu: z separatorem kondensatu i chłodnicą, kolba 2,7 l, do 10 godzin</li>\n<li>Generator pary: wbudowany, w zestawie podstawowym</li>\n<li>Stabilna temperatura: do 150°C (z funkcją pieczenia), znak CE</li>\n</ul><h3>Do czego służy</h3><p>Obsługuje pięć funkcji: suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie i gotowanie na parze. Wbudowany generator pary jest częścią wyposażenia podstawowego.</p><h3>Czym różni się od innych modeli</h3><ul>\n<li>\n<strong>Smoke Chamber 25:</strong> 160 L, 20-25 kg, generator dymu PRO 2,7 l. Stacjonarna komora do regularnego wędzenia i małej produkcji.</li>\n<li>\n<strong>Big PRO:</strong> 488 L, 50-60 kg - mobilna szafa PRO do domu i małego biznesu, 8 300 zł.</li>\n<li>\n<strong>Smoke Chamber 50:</strong> 360 L, do 50 kg - większa komora do produkcji i HoReCa, od 10 400 zł.</li>\n</ul><h3>Dostawa i gwarancja</h3><p>Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.</p>",
+      "description_text": "Smoke Chamber 25 DREVOS - komora wędzarnicza 5-w-1\nSmoke Chamber 25 łączy suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie i gotowanie na parze. Wbudowany generator pary wchodzi w skład wyposażenia podstawowego.\nNajważniejsze parametry\n\nCena bez szkła: 9 100 zł brutto, w tym 23% VAT\n\nCena ze szkłem: 9 500 zł brutto, w tym 23% VAT\n\nCena netto bez szkła: 7 398 zł\n\nCena netto ze szkłem: 7 724 zł\n\nJednorazowy wsad: 20-25 kg\n\nObjętość komory: 160 L\n\nWymiary zewnętrzne: 860 x 630 x 1180 mm\n\nWymiary wewnętrzne: 440 x 430 x 830 mm\n\nMateriał komory i obudowy: stal nierdzewna 0,8 mm\n\nMaksymalny pobór mocy: 2,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe\n\nGenerator dymu: z separatorem kondensatu i chłodnicą, kolba 2,7 l, do 10 godzin\n\nGenerator pary: wbudowany, w zestawie podstawowym\n\nStabilna temperatura: do 150°C (z funkcją pieczenia), znak CE\n\nDo czego służy\nObsługuje pięć funkcji: suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie i gotowanie na parze. Wbudowany generator pary jest częścią wyposażenia podstawowego.\nCzym różni się od innych modeli\n\nSmoke Chamber 25: 160 L, 20-25 kg, generator dymu PRO 2,7 l. Stacjonarna komora do regularnego wędzenia i małej produkcji.\n\nBig PRO: 488 L, 50-60 kg - mobilna szafa PRO do domu i małego biznesu, 8 300 zł.\n\nSmoke Chamber 50: 360 L, do 50 kg - większa komora do produkcji i HoReCa, od 10 400 zł.\n\nDostawa i gwarancja\nZakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Pojemność komory",
+          "value": "160 l"
+        },
+        {
+          "name": "Wsad jednorazowy",
+          "value": "25 kg"
+        },
+        {
+          "name": "Wymiary zewnętrzne (S×G×W)",
+          "value": "860 × 630 × 1180 mm"
+        },
+        {
+          "name": "Wymiary wewnętrzne (S×G×W)",
+          "value": "440 × 430 × 830 mm"
+        },
+        {
+          "name": "Maksymalny pobór mocy",
+          "value": "2,3 kW"
+        },
+        {
+          "name": "Zakres temperatur",
+          "value": "od +15 do +150°C"
+        },
+        {
+          "name": "Zasilanie",
+          "value": "220–240 V~, 50 Hz, jednofazowe"
+        },
+        {
+          "name": "Materiał obudowy",
+          "value": "Stal nierdzewna 0,8 mm"
+        },
+        {
+          "name": "Materiał komory",
+          "value": "Stal nierdzewna 0,8 mm"
+        },
+        {
+          "name": "Generator dymu",
+          "value": "Z kolektorem kondensatu i chłodnicą, zbiornik 2,75 l, do 10 godzin"
+        },
+        {
+          "name": "Generator pary",
+          "value": "Wbudowany, w zestawie podstawowym"
+        },
+        {
+          "name": "Funkcje",
+          "value": "Suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie, gotowanie na parze"
+        },
+        {
+          "name": "Znak bezpieczeństwa",
+          "value": "CE"
+        },
+        {
+          "name": "Gwarancja",
+          "value": "1 rok"
+        },
+        {
+          "name": "Poziomy montażu półek",
+          "value": "4 poziomy"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Generator dymu „Kwadrat”",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Wbudowany generator pary (zestaw podstawowy)",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Haki",
+          "quantity": "25 szt."
+        },
+        {
+          "name": "Półki mobilne",
+          "quantity": "2 szt."
+        },
+        {
+          "name": "Poprzeczki",
+          "quantity": "16 szt."
+        },
+        {
+          "name": "Termometr do produktów",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Instrukcja",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zbiór przepisów i porad",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zrębki",
+          "quantity": "3 opakowania"
+        }
+      ],
+      "options": [
+        {
+          "name": "Wariant",
+          "values": [
+            "Bez szkła",
+            "Ze szkłem"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-25-01-front.jpg?v=1780759883",
+          "alt": "Smoke Chamber 25 - profesjonalna komora wędzarnicza 160 L, 20-25 kg"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-25-03-interior.jpg?v=1780759883",
+          "alt": "Smoke Chamber 25 - profesjonalna komora wędzarnicza 160 L, 20-25 kg"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-25-02-panel.jpg?v=1780759884",
+          "alt": "Smoke Chamber 25 - profesjonalna komora wędzarnicza 160 L, 20-25 kg"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-25-04-side.jpg?v=1780759883",
+          "alt": "Smoke Chamber 25 - profesjonalna komora wędzarnicza 160 L, 20-25 kg"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-25-05-detail.jpg?v=1780759883",
+          "alt": "Smoke Chamber 25 - profesjonalna komora wędzarnicza 160 L, 20-25 kg"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-25-06-close.jpg?v=1780759883",
+          "alt": "Smoke Chamber 25 - profesjonalna komora wędzarnicza 160 L, 20-25 kg"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821147259214",
+          "sku": "SMOKECHAMBER25",
+          "ean": null,
+          "title": "Bez szkła",
+          "options": {
+            "Wariant": "Bez szkła"
+          },
+          "price": "9100.00",
+          "compare_at_price": null
+        },
+        {
+          "id": "61065636184398",
+          "sku": "SMOKECHAMBER25-GLASS",
+          "ean": null,
+          "title": "Ze szkłem",
+          "options": {
+            "Wariant": "Ze szkłem"
+          },
+          "price": "9500.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:38:56+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865100861774",
+      "source_id": "15865100861774",
+      "market": "PL",
+      "language": "pl",
+      "currency": "PLN",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "smoke-chamber-50",
+      "handle": "smoke-chamber-50",
+      "url": "https://drevos.pl/products/smoke-chamber-50",
+      "title": "Smoke Chamber 50 - profesjonalna komora wędzarnicza 360 L, do 50 kg",
+      "vendor": "DREVOS",
+      "product_type": "Profesjonalna komora wędzarnicza",
+      "categories": [
+        "smoke-chamber"
+      ],
+      "tags": [
+        "_badge_Dla_restauracji",
+        "HoReCa",
+        "komora wędzarnicza",
+        "Polska",
+        "PRO",
+        "produkcja",
+        "Seria: Smoke Chamber",
+        "Smoke Chamber 50",
+        "suszenie",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Smoke Chamber 50 DREVOS - komora wędzarnicza 5-w-1</h2><p>Smoke Chamber 50 łączy suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie i gotowanie na parze. Wbudowany generator pary wchodzi w skład wyposażenia podstawowego.</p><h3>Najważniejsze parametry</h3><ul>\n<li>Cena bez szkła: 10 400 zł brutto, w tym 23% VAT</li>\n<li>Cena ze szkłem: 10 900 zł brutto, w tym 23% VAT</li>\n<li>Cena netto bez szkła: 8 455 zł</li>\n<li>Cena netto ze szkłem: 8 862 zł</li>\n<li>Jednorazowy wsad: do 50 kg</li>\n<li>Objętość komory: 360 L</li>\n<li>Wymiary zewnętrzne: 1040 x 780 x 1370 mm</li>\n<li>Wymiary wewnętrzne: 600 x 600 x 1000 mm</li>\n<li>Materiał komory i obudowy: stal nierdzewna 0,8 mm</li>\n<li>Maksymalny pobór mocy: 4,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe</li>\n<li>Generator dymu: z separatorem kondensatu i chłodnicą, kolba 2,7 l, do 10 godzin</li>\n<li>Generator pary: wbudowany, w zestawie podstawowym</li>\n<li>Stabilna temperatura: do 150°C (z funkcją pieczenia), znak CE</li>\n</ul><h3>Do czego służy</h3><p>Obsługuje pięć funkcji: suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie i gotowanie na parze. Wbudowany generator pary jest częścią wyposażenia podstawowego.</p><h3>Czym różni się od innych modeli</h3><ul>\n<li>\n<strong>Smoke Chamber 50:</strong> 360 L, do 50 kg, 4,3 kW, generator dymu PRO 2,7 l. Komora do produkcji i HoReCa.</li>\n<li>\n<strong>Smoke Chamber 25:</strong> 160 L, 20-25 kg - mniejsza komora do regularnego wędzenia i małej produkcji, od 9 100 zł.</li>\n<li>\n<strong>Smoke Chamber 50+ do 80 kg:</strong> 540 L, do 80 kg - największa komora do hurtu i produkcji, 12 100 zł.</li>\n</ul><h3>Dostawa i gwarancja</h3><p>Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.</p>",
+      "description_text": "Smoke Chamber 50 DREVOS - komora wędzarnicza 5-w-1\nSmoke Chamber 50 łączy suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie i gotowanie na parze. Wbudowany generator pary wchodzi w skład wyposażenia podstawowego.\nNajważniejsze parametry\n\nCena bez szkła: 10 400 zł brutto, w tym 23% VAT\n\nCena ze szkłem: 10 900 zł brutto, w tym 23% VAT\n\nCena netto bez szkła: 8 455 zł\n\nCena netto ze szkłem: 8 862 zł\n\nJednorazowy wsad: do 50 kg\n\nObjętość komory: 360 L\n\nWymiary zewnętrzne: 1040 x 780 x 1370 mm\n\nWymiary wewnętrzne: 600 x 600 x 1000 mm\n\nMateriał komory i obudowy: stal nierdzewna 0,8 mm\n\nMaksymalny pobór mocy: 4,3 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe\n\nGenerator dymu: z separatorem kondensatu i chłodnicą, kolba 2,7 l, do 10 godzin\n\nGenerator pary: wbudowany, w zestawie podstawowym\n\nStabilna temperatura: do 150°C (z funkcją pieczenia), znak CE\n\nDo czego służy\nObsługuje pięć funkcji: suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie i gotowanie na parze. Wbudowany generator pary jest częścią wyposażenia podstawowego.\nCzym różni się od innych modeli\n\nSmoke Chamber 50: 360 L, do 50 kg, 4,3 kW, generator dymu PRO 2,7 l. Komora do produkcji i HoReCa.\n\nSmoke Chamber 25: 160 L, 20-25 kg - mniejsza komora do regularnego wędzenia i małej produkcji, od 9 100 zł.\n\nSmoke Chamber 50+ do 80 kg: 540 L, do 80 kg - największa komora do hurtu i produkcji, 12 100 zł.\n\nDostawa i gwarancja\nZakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Pojemność komory",
+          "value": "360 l"
+        },
+        {
+          "name": "Wsad jednorazowy",
+          "value": "50 kg"
+        },
+        {
+          "name": "Wymiary zewnętrzne (S×G×W)",
+          "value": "1040 × 780 × 1370 mm"
+        },
+        {
+          "name": "Wymiary wewnętrzne (S×G×W)",
+          "value": "600 × 600 × 1000 mm"
+        },
+        {
+          "name": "Maksymalny pobór mocy",
+          "value": "4,3 kW"
+        },
+        {
+          "name": "Zakres temperatur",
+          "value": "od +15 do +150°C"
+        },
+        {
+          "name": "Zasilanie",
+          "value": "220–240 V~, 50 Hz, jednofazowe"
+        },
+        {
+          "name": "Materiał obudowy",
+          "value": "Stal nierdzewna 0,8 mm"
+        },
+        {
+          "name": "Materiał komory",
+          "value": "Stal nierdzewna 0,8 mm"
+        },
+        {
+          "name": "Generator dymu",
+          "value": "Z kolektorem kondensatu i chłodnicą, zbiornik 2,75 l, do 10 godzin"
+        },
+        {
+          "name": "Generator pary",
+          "value": "Wbudowany, w zestawie podstawowym"
+        },
+        {
+          "name": "Funkcje",
+          "value": "Suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie, gotowanie na parze"
+        },
+        {
+          "name": "Znak bezpieczeństwa",
+          "value": "CE"
+        },
+        {
+          "name": "Gwarancja",
+          "value": "1 rok"
+        },
+        {
+          "name": "Poziomy montażu półek",
+          "value": "4 poziomy"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Generator dymu „Kwadrat”",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Wbudowany generator pary (zestaw podstawowy)",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Haki",
+          "quantity": "25 szt."
+        },
+        {
+          "name": "Półki mobilne",
+          "quantity": "3 szt."
+        },
+        {
+          "name": "Poprzeczki",
+          "quantity": "20 szt."
+        },
+        {
+          "name": "Termometr do produktów",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Instrukcja",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zbiór przepisów i porad",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zrębki",
+          "quantity": "3 opakowania"
+        }
+      ],
+      "options": [
+        {
+          "name": "Wariant",
+          "values": [
+            "Bez szkła",
+            "Ze szkłem"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-50-02-panel.jpg?v=1780759892",
+          "alt": "Smoke Chamber 50 - profesjonalna komora wędzarnicza 360 L, do 50 kg"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-50-01-front.jpg?v=1780759892",
+          "alt": "Smoke Chamber 50 - profesjonalna komora wędzarnicza 360 L, do 50 kg"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-50-03-interior.jpg?v=1780759892",
+          "alt": "Smoke Chamber 50 - profesjonalna komora wędzarnicza 360 L, do 50 kg"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-50-04-side.jpg?v=1780759892",
+          "alt": "Smoke Chamber 50 - profesjonalna komora wędzarnicza 360 L, do 50 kg"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-50-05-detail.jpg?v=1780759892",
+          "alt": "Smoke Chamber 50 - profesjonalna komora wędzarnicza 360 L, do 50 kg"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-50-06-close.jpg?v=1780759892",
+          "alt": "Smoke Chamber 50 - profesjonalna komora wędzarnicza 360 L, do 50 kg"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821147717966",
+          "sku": "SMOKECHAMBER50",
+          "ean": null,
+          "title": "Bez szkła",
+          "options": {
+            "Wariant": "Bez szkła"
+          },
+          "price": "10400.00",
+          "compare_at_price": null
+        },
+        {
+          "id": "61065684451662",
+          "sku": "SMOKECHAMBER50-GLASS",
+          "ean": null,
+          "title": "Ze szkłem",
+          "options": {
+            "Wariant": "Ze szkłem"
+          },
+          "price": "10900.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:38:56+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865100992846",
+      "source_id": "15865100992846",
+      "market": "PL",
+      "language": "pl",
+      "currency": "PLN",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "smoke-chamber-80",
+      "handle": "smoke-chamber-80",
+      "url": "https://drevos.pl/products/smoke-chamber-80",
+      "title": "Smoke Chamber 50+ do 80 kg",
+      "vendor": "DREVOS",
+      "product_type": "Profesjonalna komora wędzarnicza",
+      "categories": [
+        "smoke-chamber"
+      ],
+      "tags": [
+        "_badge_Maks._80_kg",
+        "HoReCa",
+        "hurt",
+        "komora wędzarnicza",
+        "Polska",
+        "PRO",
+        "produkcja",
+        "Seria: Smoke Chamber",
+        "Smoke Chamber 50+ do 80 kg",
+        "suszenie",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Smoke Chamber 50+ do 80 kg DREVOS - komora wędzarnicza 5-w-1</h2><p>Smoke Chamber 50+ do 80 kg łączy suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie i gotowanie na parze. Wbudowany generator pary wchodzi w skład wyposażenia podstawowego.</p><h3>Najważniejsze parametry</h3><ul>\n<li>Cena: 12 100 zł brutto, w tym 23% VAT</li>\n<li>Cena netto: 9 837 zł</li>\n<li>Jednorazowy wsad: do 80 kg</li>\n<li>Objętość komory: 540 L</li>\n<li>Wymiary zewnętrzne: 1070 x 780 x 1770 mm</li>\n<li>Wymiary wewnętrzne: 600 x 600 x 1500 mm</li>\n<li>Materiał komory i obudowy: stal nierdzewna 0,8 mm</li>\n<li>Maksymalny pobór mocy: 5,7 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe</li>\n<li>Generator dymu: z separatorem kondensatu i chłodnicą, kolba 2,7 l, do 10 godzin</li>\n<li>Generator pary: wbudowany, w zestawie podstawowym</li>\n<li>Stabilna temperatura: do 150°C (z funkcją pieczenia), znak CE</li>\n</ul><h3>Do czego służy</h3><p>Obsługuje pięć funkcji: suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie i gotowanie na parze. Wbudowany generator pary jest częścią wyposażenia podstawowego.</p><h3>Czym różni się od innych modeli</h3><ul>\n<li>\n<strong>Smoke Chamber 50+ do 80 kg:</strong> 540 L, do 80 kg, 5,7 kW, generator dymu PRO 2,7 l. Największa komora do produkcji i hurtu.</li>\n<li>\n<strong>Smoke Chamber 50:</strong> 360 L, do 50 kg - komora do produkcji i HoReCa, od 10 400 zł.</li>\n<li>\n<strong>Smoke Chamber 25:</strong> 160 L, 20-25 kg - komora do regularnego wędzenia i małej produkcji, od 9 100 zł.</li>\n</ul><h3>Dostawa i gwarancja</h3><p>Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.</p>",
+      "description_text": "Smoke Chamber 50+ do 80 kg DREVOS - komora wędzarnicza 5-w-1\nSmoke Chamber 50+ do 80 kg łączy suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie i gotowanie na parze. Wbudowany generator pary wchodzi w skład wyposażenia podstawowego.\nNajważniejsze parametry\n\nCena: 12 100 zł brutto, w tym 23% VAT\n\nCena netto: 9 837 zł\n\nJednorazowy wsad: do 80 kg\n\nObjętość komory: 540 L\n\nWymiary zewnętrzne: 1070 x 780 x 1770 mm\n\nWymiary wewnętrzne: 600 x 600 x 1500 mm\n\nMateriał komory i obudowy: stal nierdzewna 0,8 mm\n\nMaksymalny pobór mocy: 5,7 kW; zasilanie: 220-240 V~, 50 Hz, jednofazowe\n\nGenerator dymu: z separatorem kondensatu i chłodnicą, kolba 2,7 l, do 10 godzin\n\nGenerator pary: wbudowany, w zestawie podstawowym\n\nStabilna temperatura: do 150°C (z funkcją pieczenia), znak CE\n\nDo czego służy\nObsługuje pięć funkcji: suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie i gotowanie na parze. Wbudowany generator pary jest częścią wyposażenia podstawowego.\nCzym różni się od innych modeli\n\nSmoke Chamber 50+ do 80 kg: 540 L, do 80 kg, 5,7 kW, generator dymu PRO 2,7 l. Największa komora do produkcji i hurtu.\n\nSmoke Chamber 50: 360 L, do 50 kg - komora do produkcji i HoReCa, od 10 400 zł.\n\nSmoke Chamber 25: 160 L, 20-25 kg - komora do regularnego wędzenia i małej produkcji, od 9 100 zł.\n\nDostawa i gwarancja\nZakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Pojemność komory",
+          "value": "540 l"
+        },
+        {
+          "name": "Wsad jednorazowy",
+          "value": "80 kg"
+        },
+        {
+          "name": "Wymiary zewnętrzne (S×G×W)",
+          "value": "1070 × 780 × 1770 mm"
+        },
+        {
+          "name": "Wymiary wewnętrzne (S×G×W)",
+          "value": "600 × 600 × 1500 mm"
+        },
+        {
+          "name": "Maksymalny pobór mocy",
+          "value": "5,7 kW"
+        },
+        {
+          "name": "Zakres temperatur",
+          "value": "od +15 do +150°C"
+        },
+        {
+          "name": "Zasilanie",
+          "value": "220–240 V~, 50 Hz, jednofazowe"
+        },
+        {
+          "name": "Materiał obudowy",
+          "value": "Stal nierdzewna 0,8 mm"
+        },
+        {
+          "name": "Materiał komory",
+          "value": "Stal nierdzewna 0,8 mm"
+        },
+        {
+          "name": "Generator dymu",
+          "value": "Kwadratowy, z chłodnicą"
+        },
+        {
+          "name": "Generator pary",
+          "value": "Wbudowany, w zestawie podstawowym"
+        },
+        {
+          "name": "Funkcje",
+          "value": "Suszenie, wędzenie na gorąco, wędzenie na zimno, pieczenie, gotowanie na parze"
+        },
+        {
+          "name": "Znak bezpieczeństwa",
+          "value": "CE"
+        },
+        {
+          "name": "Grubość ścian / izolacji",
+          "value": "38 mm"
+        },
+        {
+          "name": "Gwarancja",
+          "value": "1 rok"
+        },
+        {
+          "name": "Poziomy montażu półek",
+          "value": "6 poziomów"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Generator dymu „Kwadrat”",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Wbudowany generator pary (zestaw podstawowy)",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Haki",
+          "quantity": "80 szt."
+        },
+        {
+          "name": "Półki mobilne",
+          "quantity": "4 szt."
+        },
+        {
+          "name": "Poprzeczki",
+          "quantity": "24 szt."
+        },
+        {
+          "name": "Termometr do produktów",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Instrukcja",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zbiór przepisów i porad",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Zrębki",
+          "quantity": "3 opakowania"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Smoke Chamber 50 +"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-80-02-panel.jpg?v=1780759896",
+          "alt": "Smoke Chamber 50+ do 80 kg"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-80-04-side.jpg?v=1780759897",
+          "alt": "Smoke Chamber 50+ do 80 kg"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-80-03-interior.jpg?v=1780759896",
+          "alt": "Smoke Chamber 50+ do 80 kg"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-80-01-front.jpg?v=1780759896",
+          "alt": "Smoke Chamber 50+ do 80 kg"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-80-05-detail.jpg?v=1780759896",
+          "alt": "Smoke Chamber 50+ do 80 kg"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-80-06-close.jpg?v=1780759896",
+          "alt": "Smoke Chamber 50+ do 80 kg"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821147816270",
+          "sku": "SMOKECHAMBER80",
+          "ean": null,
+          "title": "Smoke Chamber 50 +",
+          "options": {
+            "Model": "Smoke Chamber 50 +"
+          },
+          "price": "12100.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:38:56+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865130910030",
+      "source_id": "15865130910030",
+      "market": "PL",
+      "language": "pl",
+      "currency": "PLN",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": null,
+      "handle": "start",
+      "url": "https://drevos.pl/products/start",
+      "title": "START Family - kompaktowa wędzarnia elektryczna 3-w-1, 100 L",
+      "vendor": "DREVOS",
+      "product_type": "Wędzarnia elektryczna 3-w-1",
+      "categories": [
+        "standard"
+      ],
+      "tags": [
+        "3-w-1",
+        "_badge_Na_start",
+        "dom",
+        "Polska",
+        "Seria: Standard",
+        "START Family",
+        "suszenie",
+        "wędzarnia elektryczna",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>START Family DREVOS - wędzarnia elektryczna 3-w-1</h2><p>START Family to kompaktowa wędzarnia elektryczna 3-w-1 marki DREVOS - do wędzenia na gorąco, na zimno i suszenia. Regulator PID steruje temperaturą, a wentylator konwekcyjny wspomaga równomierny obieg ciepła i dymu.</p><h3>Najważniejsze parametry</h3><ul>\n<li>Cena: 2 200 zł brutto, w tym 23% VAT</li>\n<li>Cena netto: 1 789 zł</li>\n<li>Jednorazowy wsad: 10-15 kg</li>\n<li>Objętość komory: 100 L</li>\n<li>Materiał: drewno lipowe + stal nierdzewna</li>\n<li>Konstrukcja komory: nieocieplona</li>\n<li>Sterowanie temperaturą: regulator PID</li>\n<li>Obieg powietrza: wentylator konwekcyjny</li>\n<li>Zasilanie: 220-240 V~, 50 Hz, jednofazowe</li>\n<li>Generator dymu: do 8 godzin na jednym zasypie zrębków</li>\n<li>Funkcje: wędzenie na gorąco, na zimno, suszenie - do 100°C</li>\n</ul><h3>Do czego służy</h3><p>Obsługuje wędzenie na gorąco, na zimno i suszenie - do mięsa, ryb, kiełbas, drobiu, sera i warzyw.</p><h3>Dostawa i gwarancja</h3><p>Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.</p>",
+      "description_text": "START Family DREVOS - wędzarnia elektryczna 3-w-1\nSTART Family to kompaktowa wędzarnia elektryczna 3-w-1 marki DREVOS - do wędzenia na gorąco, na zimno i suszenia. Regulator PID steruje temperaturą, a wentylator konwekcyjny wspomaga równomierny obieg ciepła i dymu.\nNajważniejsze parametry\n\nCena: 2 200 zł brutto, w tym 23% VAT\n\nCena netto: 1 789 zł\n\nJednorazowy wsad: 10-15 kg\n\nObjętość komory: 100 L\n\nMateriał: drewno lipowe + stal nierdzewna\n\nKonstrukcja komory: nieocieplona\n\nSterowanie temperaturą: regulator PID\n\nObieg powietrza: wentylator konwekcyjny\n\nZasilanie: 220-240 V~, 50 Hz, jednofazowe\n\nGenerator dymu: do 8 godzin na jednym zasypie zrębków\n\nFunkcje: wędzenie na gorąco, na zimno, suszenie - do 100°C\n\nDo czego służy\nObsługuje wędzenie na gorąco, na zimno i suszenie - do mięsa, ryb, kiełbas, drobiu, sera i warzyw.\nDostawa i gwarancja\nZakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce. Koszt oraz termin dostawy zależy od adresu i gabarytów zamówienia.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Pojemność komory",
+          "value": "100 l"
+        },
+        {
+          "name": "Wsad jednorazowy",
+          "value": "10–15 kg"
+        },
+        {
+          "name": "Zakres temperatur",
+          "value": "od +15 do +100°C"
+        },
+        {
+          "name": "Tryby",
+          "value": "Wędzenie na gorąco / na zimno + suszenie"
+        },
+        {
+          "name": "Ciepło",
+          "value": "Elektryczne, regulowane do 100°C"
+        },
+        {
+          "name": "Sterowanie",
+          "value": "Regulator PID"
+        },
+        {
+          "name": "Konwekcja",
+          "value": "Tak — wentylator w komorze"
+        },
+        {
+          "name": "Konstrukcja komory",
+          "value": "Nieocieplona"
+        },
+        {
+          "name": "Zasilanie",
+          "value": "220–240 V~, 50 Hz, jednofazowe"
+        },
+        {
+          "name": "Generator dymu",
+          "value": "Do 8 godzin na jednym załadunku zrębków"
+        },
+        {
+          "name": "Materiał obudowy",
+          "value": "Lipa 16 mm + powłoka na bazie wody"
+        },
+        {
+          "name": "Materiał komory",
+          "value": "Stal nierdzewna"
+        },
+        {
+          "name": "Format użycia",
+          "value": "Dom, ogród, działka, ROD, taras"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Korpus START Family 100 l",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Generator dymu na zrębkach",
+          "quantity": "1 szt."
+        },
+        {
+          "name": "Komin i elementy trakcyjne",
+          "quantity": "W zestawie"
+        },
+        {
+          "name": "Haczyki i drążki",
+          "quantity": "W zestawie"
+        },
+        {
+          "name": "Zrębki na pierwszy rozruch",
+          "quantity": "W zestawie"
+        },
+        {
+          "name": "Instrukcje, przepisy i wsparcie technologów",
+          "quantity": "W zestawie"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "START Family"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/start-02-panel.jpg?v=1780760607",
+          "alt": "START Family - kompaktowa wędzarnia elektryczna 3-w-1, 100 L"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/start-01-front.jpg?v=1780760607",
+          "alt": "START Family - kompaktowa wędzarnia elektryczna 3-w-1, 100 L"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/start-03-interior.jpg?v=1780760607",
+          "alt": "START Family - kompaktowa wędzarnia elektryczna 3-w-1, 100 L"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/start-04-side.jpg?v=1780760607",
+          "alt": "START Family - kompaktowa wędzarnia elektryczna 3-w-1, 100 L"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/start-05-detail.jpg?v=1780760607",
+          "alt": "START Family - kompaktowa wędzarnia elektryczna 3-w-1, 100 L"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/start-06-close.jpg?v=1780760608",
+          "alt": "START Family - kompaktowa wędzarnia elektryczna 3-w-1, 100 L"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821274005838",
+          "sku": "STARTFAMILY",
+          "ean": null,
+          "title": "START Family",
+          "options": {
+            "Model": "START Family"
+          },
+          "price": "2200.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T10:43:41+01:00",
+      "deleted_at": null
+    }
+  ]
+}

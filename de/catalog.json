@@ -1,0 +1,2107 @@
+{
+  "feed": "DREVOS universal dealer feed",
+  "version": "1.0",
+  "market": "DE",
+  "language": "de",
+  "currency": "EUR",
+  "generated_at": "2026-10-29T10:36:10.035Z",
+  "statuses": [
+    "active",
+    "deleted"
+  ],
+  "stock_policy": "made_to_order; stock quantity is intentionally omitted",
+  "price_policy": "public retail prices from the source market",
+  "products": [
+    {
+      "id": "shopify:15865010389326",
+      "source_id": "15865010389326",
+      "market": "DE",
+      "language": "de",
+      "currency": "EUR",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "big-2",
+      "handle": "big-2-0",
+      "url": "https://drevos.de/products/big-2-0",
+      "title": "Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L",
+      "vendor": "DREVOS",
+      "product_type": "Elektrischer Räucherofen 3-in-1",
+      "categories": [
+        "standard"
+      ],
+      "tags": [
+        "_badge_Duża_pojemność",
+        "Big",
+        "Polska",
+        "Seria: Standard",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Big DREVOS</h2><p>Großes Modell für umfangreiche Chargen, Agrotourismus oder kleine Verkaufsproduktionen.</p><h3>Technische Kerndaten</h3><ul><li>Kammervolumen: 484 L</li><li>Beladung pro Durchgang: 50–60 kg</li><li>Maximale Leistungsaufnahme des gesamten Geräts: 4,3 kW</li><li>Stromversorgung: 220–240 V~, 50 Hz, einphasig</li><li>Material: Holzkorpus mit Edelstahl-Innenfläche</li><li>Rauchführung: Standard-Rauchgenerator, bis zu 8 Stunden</li></ul><h3>Funktionen</h3><p>Heißräuchern, Kalträuchern und Trocknen.</p><h3>Lieferung und Support</h3><p>24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</p>",
+      "description_text": "Big DREVOS\nGroßes Modell für umfangreiche Chargen, Agrotourismus oder kleine Verkaufsproduktionen.\nTechnische Kerndaten\nKammervolumen: 484 L\nBeladung pro Durchgang: 50–60 kg\nMaximale Leistungsaufnahme des gesamten Geräts: 4,3 kW\nStromversorgung: 220–240 V~, 50 Hz, einphasig\nMaterial: Holzkorpus mit Edelstahl-Innenfläche\nRauchführung: Standard-Rauchgenerator, bis zu 8 Stunden\nFunktionen\nHeißräuchern, Kalträuchern und Trocknen.\nLieferung und Support\n24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Fassungsvermögen der Kammer",
+          "value": "484 l"
+        },
+        {
+          "name": "Einmalige Beladung",
+          "value": "50–60 kg"
+        },
+        {
+          "name": "Außenmaße (B×T×H)",
+          "value": "945 × 970 × 1700 mm"
+        },
+        {
+          "name": "Innenmaße (B×T×H)",
+          "value": "635 × 610 × 1250 mm"
+        },
+        {
+          "name": "Maximale Leistungsaufnahme",
+          "value": "4,3 kW"
+        },
+        {
+          "name": "Temperaturbereich",
+          "value": "von +15 bis +100 °C"
+        },
+        {
+          "name": "Stromversorgung",
+          "value": "220–240 V~, 50 Hz, einphasig"
+        },
+        {
+          "name": "Material des Gehäuses",
+          "value": "Lindenholz 16 mm + Beschichtung auf Wasserbasis"
+        },
+        {
+          "name": "Material der Kammer",
+          "value": "Edelstahl 0,5 mm"
+        },
+        {
+          "name": "Räuchergenerator",
+          "value": "Standard, ohne Kühler, Behälter 2 l, bis zu 8 Stunden"
+        },
+        {
+          "name": "Funktionen",
+          "value": "Trocknen, Heiß- und Kalträuchern"
+        },
+        {
+          "name": "Sicherheitszeichen",
+          "value": "CE"
+        },
+        {
+          "name": "Wand- / Isolierstärke",
+          "value": "55 mm"
+        },
+        {
+          "name": "Garantie",
+          "value": "1 Jahr"
+        },
+        {
+          "name": "Ebenen für Einlegeböden",
+          "value": "4 Ebenen"
+        }
+      ],
+      "kit": [
+        {
+          "name": "PID-Regler REX C100",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Räuchergenerator (2-l-Kolben) + Konvektion",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Stahlhaken + Schnur",
+          "quantity": "25 Stk."
+        },
+        {
+          "name": "Querstangen",
+          "quantity": "12 Stk."
+        },
+        {
+          "name": "Buchenholz für den Anfang",
+          "quantity": "3 Pakete"
+        },
+        {
+          "name": "Anleitung (PL) + 3 Rezepte",
+          "quantity": "1 Stk."
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Big"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-02-panel.jpg?v=1780758153",
+          "alt": "Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-01-front.jpg?v=1780758152",
+          "alt": "Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-03-interior.jpg?v=1780758152",
+          "alt": "Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-04-side.jpg?v=1780758151",
+          "alt": "Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-05-detail.jpg?v=1780758152",
+          "alt": "Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-06-close.jpg?v=1780758152",
+          "alt": "Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59820667306318",
+          "sku": "BIG",
+          "ean": null,
+          "title": "Big",
+          "options": {
+            "Model": "Big"
+          },
+          "price": "1700.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:39:00+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865071829326",
+      "source_id": "15865071829326",
+      "market": "DE",
+      "language": "de",
+      "currency": "EUR",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "big-pro",
+      "handle": "big-pro",
+      "url": "https://drevos.de/products/big-pro",
+      "title": "Big PRO DREVOS – elektrischer Räucherofen 3-in-1, 488 L",
+      "vendor": "DREVOS",
+      "product_type": "Elektrischer Räucherofen 3-in-1 PRO",
+      "categories": [
+        "pro"
+      ],
+      "tags": [
+        "_badge_PRO",
+        "Big PRO",
+        "Polska",
+        "PRO",
+        "Seria: PRO",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Big PRO DREVOS</h2><p>Großes PRO-Modell für intensive, regelmäßige Chargen.</p><h3>Technische Kerndaten</h3><ul><li>Kammervolumen: 488 L</li><li>Beladung pro Durchgang: 50–60 kg</li><li>Maximale Leistungsaufnahme des gesamten Geräts: 4,3 kW</li><li>Stromversorgung: 220–240 V~, 50 Hz, einphasig</li><li>Material: Holzkorpus mit 0,5 mm starker Edelstahl-Innenfläche</li><li>Rauchführung: Rauchgenerator mit Kondensatsammler und Kühler, Behälter 2,7 L, bis zu 10 Stunden</li></ul><h3>Funktionen</h3><p>Heißräuchern, Kalträuchern und Trocknen.</p><h3>Lieferung und Support</h3><p>24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</p>",
+      "description_text": "Big PRO DREVOS\nGroßes PRO-Modell für intensive, regelmäßige Chargen.\nTechnische Kerndaten\nKammervolumen: 488 L\nBeladung pro Durchgang: 50–60 kg\nMaximale Leistungsaufnahme des gesamten Geräts: 4,3 kW\nStromversorgung: 220–240 V~, 50 Hz, einphasig\nMaterial: Holzkorpus mit 0,5 mm starker Edelstahl-Innenfläche\nRauchführung: Rauchgenerator mit Kondensatsammler und Kühler, Behälter 2,7 L, bis zu 10 Stunden\nFunktionen\nHeißräuchern, Kalträuchern und Trocknen.\nLieferung und Support\n24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Fassungsvermögen der Kammer",
+          "value": "465 l"
+        },
+        {
+          "name": "Einmalige Beladung",
+          "value": "50–60 kg"
+        },
+        {
+          "name": "Außenmaße (B×T×H)",
+          "value": "1015 × 885 × 1813 mm"
+        },
+        {
+          "name": "Innenmaße (B×T×H)",
+          "value": "640 × 610 × 1250 mm"
+        },
+        {
+          "name": "Maximale Leistungsaufnahme",
+          "value": "4,3 kW"
+        },
+        {
+          "name": "Temperaturbereich",
+          "value": "von +15 bis +100 °C"
+        },
+        {
+          "name": "Stromversorgung",
+          "value": "220–240 V~, 50 Hz, einphasig"
+        },
+        {
+          "name": "Material des Gehäuses",
+          "value": "Lindenholz 16 mm + Beschichtung auf Wasserbasis"
+        },
+        {
+          "name": "Material der Kammer",
+          "value": "Edelstahl 0,5 mm"
+        },
+        {
+          "name": "Räuchergenerator",
+          "value": "Mit Kondensatsammler und Kühler, Behälter 2,75 l, bis zu 10 Stunden"
+        },
+        {
+          "name": "Funktionen",
+          "value": "Trocknen, Heiß- und Kalträuchern"
+        },
+        {
+          "name": "Sicherheitszeichen",
+          "value": "CE"
+        },
+        {
+          "name": "Wand- / Isolierstärke",
+          "value": "55 mm"
+        },
+        {
+          "name": "Garantie",
+          "value": "1 Jahr"
+        },
+        {
+          "name": "Ebenen für Einlegeböden",
+          "value": "4 Ebenen"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Räuchergenerator „Quadrat“",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Haken",
+          "quantity": "30 Stk."
+        },
+        {
+          "name": "Bewegliche Einschübe",
+          "quantity": "4 Stk."
+        },
+        {
+          "name": "Querstangen",
+          "quantity": "12 Stk."
+        },
+        {
+          "name": "Produktthermometer",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Anleitung",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Sammlung von Rezepten und Tipps",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Räucherchips",
+          "quantity": "3 Pakete"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Big PRO"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-open-door.jpg?v=1781272570",
+          "alt": "Big PRO DREVOS – elektrischer Räucherofen 3-in-1, 488 L"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-01-front.jpg?v=1780758804",
+          "alt": "Big PRO DREVOS – elektrischer Räucherofen 3-in-1, 488 L"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-02-panel.jpg?v=1780758804",
+          "alt": "Big PRO DREVOS – elektrischer Räucherofen 3-in-1, 488 L"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-03-interior.jpg?v=1780758805",
+          "alt": "Big PRO DREVOS – elektrischer Räucherofen 3-in-1, 488 L"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-04-side.jpg?v=1780758804",
+          "alt": "Big PRO DREVOS – elektrischer Räucherofen 3-in-1, 488 L"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-05-detail.jpg?v=1780758804",
+          "alt": "Big PRO DREVOS – elektrischer Räucherofen 3-in-1, 488 L"
+        },
+        {
+          "position": 7,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-pro-06-close.jpg?v=1780758804",
+          "alt": "Big PRO DREVOS – elektrischer Räucherofen 3-in-1, 488 L"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821068058958",
+          "sku": "BIGPRO",
+          "ean": null,
+          "title": "Big PRO",
+          "options": {
+            "Model": "Big PRO"
+          },
+          "price": "2300.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:39:01+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15849015837006",
+      "source_id": "15849015837006",
+      "market": "DE",
+      "language": "de",
+      "currency": "EUR",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "classic-2",
+      "handle": "classic-2-0",
+      "url": "https://drevos.de/products/classic-2-0",
+      "title": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L",
+      "vendor": "DREVOS",
+      "product_type": "Elektrischer Räucherofen 3-in-1",
+      "categories": [
+        "standard"
+      ],
+      "tags": [
+        "_badge_Wybór_nr_1",
+        "Classic",
+        "Polska",
+        "Seria: Standard",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Classic DREVOS</h2><p>Modell für größere, regelmäßige Chargen zu Hause oder in einer kleinen Manufaktur.</p><h3>Technische Kerndaten</h3><ul><li>Kammervolumen: 225 L</li><li>Beladung pro Durchgang: 20–25 kg</li><li>Maximale Leistungsaufnahme des gesamten Geräts: 2,3 kW</li><li>Stromversorgung: 220–240 V~, 50 Hz, einphasig</li><li>Material: Holzkorpus mit Edelstahl-Innenfläche</li><li>Rauchführung: Standard-Rauchgenerator, bis zu 8 Stunden</li></ul><h3>Funktionen</h3><p>Heißräuchern, Kalträuchern und Trocknen.</p><h3>Lieferung und Support</h3><p>24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</p>",
+      "description_text": "Classic DREVOS\nModell für größere, regelmäßige Chargen zu Hause oder in einer kleinen Manufaktur.\nTechnische Kerndaten\nKammervolumen: 225 L\nBeladung pro Durchgang: 20–25 kg\nMaximale Leistungsaufnahme des gesamten Geräts: 2,3 kW\nStromversorgung: 220–240 V~, 50 Hz, einphasig\nMaterial: Holzkorpus mit Edelstahl-Innenfläche\nRauchführung: Standard-Rauchgenerator, bis zu 8 Stunden\nFunktionen\nHeißräuchern, Kalträuchern und Trocknen.\nLieferung und Support\n24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Fassungsvermögen der Kammer",
+          "value": "228 l"
+        },
+        {
+          "name": "Einmalige Beladung",
+          "value": "20–25 kg"
+        },
+        {
+          "name": "Maximale Leistungsaufnahme",
+          "value": "2,3 kW"
+        },
+        {
+          "name": "Stromversorgung",
+          "value": "220–240 V~, 50 Hz, einphasig"
+        },
+        {
+          "name": "Material des Gehäuses",
+          "value": "Lindenholz 16 mm + Beschichtung auf Wasserbasis"
+        },
+        {
+          "name": "Material der Kammer",
+          "value": "Edelstahl 0,5 mm"
+        },
+        {
+          "name": "Räuchergenerator",
+          "value": "Standard, ohne Kühler, Behälter 2 l, bis zu 8 Stunden"
+        },
+        {
+          "name": "Betriebsarten",
+          "value": "Heiß-/Kalträuchern + Trocknen"
+        },
+        {
+          "name": "Außenmaße (B×T×H)",
+          "value": "730 × 780 × 1730 mm"
+        },
+        {
+          "name": "Innenmaße (B×T×H)",
+          "value": "445 × 410 × 1250 mm"
+        },
+        {
+          "name": "Temperaturbereich",
+          "value": "von +15 bis +100 °C"
+        },
+        {
+          "name": "Wand- / Isolierstärke",
+          "value": "55 mm"
+        },
+        {
+          "name": "Garantie",
+          "value": "1 Jahr"
+        },
+        {
+          "name": "Ebenen für Einlegeböden",
+          "value": "3 Ebenen"
+        }
+      ],
+      "kit": [
+        {
+          "name": "PID-Regler REX C100",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Räuchergenerator + Ventilator (Konvektion 45 W)",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Stahlhaken + Schnur",
+          "quantity": "20 Stk."
+        },
+        {
+          "name": "Querstangen",
+          "quantity": "9 Stk."
+        },
+        {
+          "name": "Buchenholz für den Anfang",
+          "quantity": "3 Pakete"
+        },
+        {
+          "name": "Gedruckte Anleitung + 3 Rezepte",
+          "quantity": "1 Stk."
+        }
+      ],
+      "options": [
+        {
+          "name": "Modell",
+          "values": [
+            "Klassiker"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-12-open-chamber.jpg?v=1779815607",
+          "alt": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-01-front.jpg?v=1779815608",
+          "alt": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-02-panel.jpg?v=1779815607",
+          "alt": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-03-interior.jpg?v=1779815607",
+          "alt": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-04-side.jpg?v=1779815607",
+          "alt": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-05-smoke-generator.jpg?v=1779815607",
+          "alt": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 7,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-06-handles.jpg?v=1779815607",
+          "alt": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 8,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-07-fan.jpg?v=1779815607",
+          "alt": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 9,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-08-chamber-detail.jpg?v=1779815607",
+          "alt": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 10,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-09-generator-cap.jpg?v=1779815607",
+          "alt": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 11,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-10-thermometer.jpg?v=1779815607",
+          "alt": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 12,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-2-0-11-equipment.jpg?v=1779815607",
+          "alt": "Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59749570707790",
+          "sku": "CLASSIC2.0",
+          "ean": null,
+          "title": "Klassiker",
+          "options": {
+            "Modell": "Klassiker"
+          },
+          "price": "1300.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:39:00+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865071665486",
+      "source_id": "15865071665486",
+      "market": "DE",
+      "language": "de",
+      "currency": "EUR",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "classic-pro",
+      "handle": "classic-pro",
+      "url": "https://drevos.de/products/classic-pro",
+      "title": "Classic PRO DREVOS – elektrischer Räucherofen 3-in-1, 225 L",
+      "vendor": "DREVOS",
+      "product_type": "Elektrischer Räucherofen 3-in-1 PRO",
+      "categories": [
+        "pro"
+      ],
+      "tags": [
+        "_badge_PRO",
+        "Classic PRO",
+        "Polska",
+        "PRO",
+        "Seria: PRO",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Classic PRO DREVOS</h2><p>PRO-Modell für größere und häufigere Chargen mit PID-Regler und Konvektion.</p><h3>Technische Kerndaten</h3><ul><li>Kammervolumen: 225 L</li><li>Beladung pro Durchgang: 20–25 kg</li><li>Maximale Leistungsaufnahme des gesamten Geräts: 2,3 kW</li><li>Stromversorgung: 220–240 V~, 50 Hz, einphasig</li><li>Material: Holzkorpus mit 0,5 mm starker Edelstahl-Innenfläche</li><li>Rauchführung: Rauchgenerator mit Kondensatsammler und Kühler, Behälter 2,7 L, bis zu 10 Stunden</li></ul><h3>Funktionen</h3><p>Heißräuchern, Kalträuchern und Trocknen.</p><h3>Lieferung und Support</h3><p>24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</p>",
+      "description_text": "Classic PRO DREVOS\nPRO-Modell für größere und häufigere Chargen mit PID-Regler und Konvektion.\nTechnische Kerndaten\nKammervolumen: 225 L\nBeladung pro Durchgang: 20–25 kg\nMaximale Leistungsaufnahme des gesamten Geräts: 2,3 kW\nStromversorgung: 220–240 V~, 50 Hz, einphasig\nMaterial: Holzkorpus mit 0,5 mm starker Edelstahl-Innenfläche\nRauchführung: Rauchgenerator mit Kondensatsammler und Kühler, Behälter 2,7 L, bis zu 10 Stunden\nFunktionen\nHeißräuchern, Kalträuchern und Trocknen.\nLieferung und Support\n24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Fassungsvermögen der Kammer",
+          "value": "226 l"
+        },
+        {
+          "name": "Einmalige Beladung",
+          "value": "20–25 kg"
+        },
+        {
+          "name": "Außenmaße (B×T×H)",
+          "value": "795 × 700 × 1810 mm"
+        },
+        {
+          "name": "Innenmaße (B×T×H)",
+          "value": "440 × 410 × 1250 mm"
+        },
+        {
+          "name": "Maximale Leistungsaufnahme",
+          "value": "2,3 kW"
+        },
+        {
+          "name": "Temperaturbereich",
+          "value": "von +15 bis +100 °C"
+        },
+        {
+          "name": "Stromversorgung",
+          "value": "220–240 V~, 50 Hz, einphasig"
+        },
+        {
+          "name": "Material des Gehäuses",
+          "value": "Lindenholz 16 mm + Beschichtung auf Wasserbasis"
+        },
+        {
+          "name": "Material der Kammer",
+          "value": "Edelstahl 0,5 mm"
+        },
+        {
+          "name": "Räuchergenerator",
+          "value": "Mit Kondensatsammler und Kühler, Behälter 2,75 l, bis zu 10 Stunden"
+        },
+        {
+          "name": "Funktionen",
+          "value": "Trocknen, Heiß- und Kalträuchern"
+        },
+        {
+          "name": "Sicherheitszeichen",
+          "value": "CE"
+        },
+        {
+          "name": "Wand- / Isolierstärke",
+          "value": "55 mm"
+        },
+        {
+          "name": "Garantie",
+          "value": "1 Jahr"
+        },
+        {
+          "name": "Ebenen für Einlegeböden",
+          "value": "3 Ebenen"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Räuchergenerator „Quadrat“",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Haken",
+          "quantity": "20 Stk."
+        },
+        {
+          "name": "Bewegliche Einschübe",
+          "quantity": "3 Stk."
+        },
+        {
+          "name": "Querstangen",
+          "quantity": "9 Stk."
+        },
+        {
+          "name": "Produktthermometer",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Anleitung",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Sammlung von Rezepten und Tipps",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Räucherchips",
+          "quantity": "3 Pakete"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Classic PRO"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-pro-02-panel.jpg?v=1780758801",
+          "alt": "Classic PRO DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-pro-01-front.jpg?v=1780758801",
+          "alt": "Classic PRO DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-pro-03-interior.jpg?v=1780758801",
+          "alt": "Classic PRO DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-pro-04-side.jpg?v=1780758801",
+          "alt": "Classic PRO DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-pro-05-detail.jpg?v=1780758802",
+          "alt": "Classic PRO DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/classic-pro-06-close.jpg?v=1780758801",
+          "alt": "Classic PRO DREVOS – elektrischer Räucherofen 3-in-1, 225 L"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821066748238",
+          "sku": "CLASSICPRO",
+          "ean": null,
+          "title": "Classic PRO",
+          "options": {
+            "Model": "Classic PRO"
+          },
+          "price": "1890.00",
+          "compare_at_price": "2100.00"
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:39:01+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15864979194190",
+      "source_id": "15864979194190",
+      "market": "DE",
+      "language": "de",
+      "currency": "EUR",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "family-2",
+      "handle": "family-2-0",
+      "url": "https://drevos.de/products/family-2-0",
+      "title": "Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L",
+      "vendor": "DREVOS",
+      "product_type": "Elektrischer Räucherofen 3-in-1",
+      "categories": [
+        "standard"
+      ],
+      "tags": [
+        "_badge_Hit_sprzedaży",
+        "Family",
+        "Polska",
+        "Seria: Standard",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Family DREVOS</h2><p>Familienmodell für regelmäßige Chargen zu Hause oder im Garten.</p><h3>Technische Kerndaten</h3><ul><li>Kammervolumen: 100 L</li><li>Beladung pro Durchgang: 10–15 kg</li><li>Maximale Leistungsaufnahme des gesamten Geräts: 2,3 kW</li><li>Stromversorgung: 220–240 V~, 50 Hz, einphasig</li><li>Material: Holzkorpus mit Edelstahl-Innenfläche</li><li>Rauchführung: Standard-Rauchgenerator, bis zu 8 Stunden</li></ul><h3>Funktionen</h3><p>Heißräuchern, Kalträuchern und Trocknen.</p><h3>Lieferung und Support</h3><p>24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</p>",
+      "description_text": "Family DREVOS\nFamilienmodell für regelmäßige Chargen zu Hause oder im Garten.\nTechnische Kerndaten\nKammervolumen: 100 L\nBeladung pro Durchgang: 10–15 kg\nMaximale Leistungsaufnahme des gesamten Geräts: 2,3 kW\nStromversorgung: 220–240 V~, 50 Hz, einphasig\nMaterial: Holzkorpus mit Edelstahl-Innenfläche\nRauchführung: Standard-Rauchgenerator, bis zu 8 Stunden\nFunktionen\nHeißräuchern, Kalträuchern und Trocknen.\nLieferung und Support\n24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Fassungsvermögen der Kammer",
+          "value": "100 l"
+        },
+        {
+          "name": "Einmalige Beladung",
+          "value": "10–15 kg"
+        },
+        {
+          "name": "Maximale Leistungsaufnahme",
+          "value": "2,3 kW"
+        },
+        {
+          "name": "Temperaturbereich",
+          "value": "von +15 bis +100 °C"
+        },
+        {
+          "name": "Stromversorgung",
+          "value": "220–240 V~, 50 Hz, einphasig"
+        },
+        {
+          "name": "Material des Gehäuses",
+          "value": "Lindenholz 16 mm + Beschichtung auf Wasserbasis"
+        },
+        {
+          "name": "Material der Kammer",
+          "value": "Edelstahl 0,5 mm"
+        },
+        {
+          "name": "Räuchergenerator",
+          "value": "Standard, ohne Kühler, Behälter 2 l, bis zu 8 Stunden"
+        },
+        {
+          "name": "Betriebsarten",
+          "value": "Heiß-/Kalträuchern + Trocknen"
+        },
+        {
+          "name": "Außenmaße (B×T×H)",
+          "value": "615 × 655 × 1255 mm"
+        },
+        {
+          "name": "Innenmaße (B×T×H)",
+          "value": "375 × 315 × 850 mm"
+        },
+        {
+          "name": "Wand- / Isolierstärke",
+          "value": "55 mm"
+        },
+        {
+          "name": "Garantie",
+          "value": "1 Jahr"
+        },
+        {
+          "name": "Ebenen für Einlegeböden",
+          "value": "2 Ebenen"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Standard-Räuchergenerator",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Haken",
+          "quantity": "15 Stk."
+        },
+        {
+          "name": "Schornstein",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Querstangen",
+          "quantity": "6 Stk."
+        },
+        {
+          "name": "Produktthermometer",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Anleitung",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Sammlung von Rezepten und Tipps",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Räucherchips",
+          "quantity": "3 Pakete"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Family"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-02-panel.jpg?v=1780757871",
+          "alt": "Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-01-front.jpg?v=1780757870",
+          "alt": "Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-03-interior.jpg?v=1780757871",
+          "alt": "Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-04-side.jpg?v=1780757871",
+          "alt": "Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-05-detail.jpg?v=1780757870",
+          "alt": "Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-06-close.jpg?v=1780757870",
+          "alt": "Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59820566151502",
+          "sku": "FAMILY",
+          "ean": null,
+          "title": "Family",
+          "options": {
+            "Model": "Family"
+          },
+          "price": "1100.00",
+          "compare_at_price": "1220.00"
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:39:00+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865071501646",
+      "source_id": "15865071501646",
+      "market": "DE",
+      "language": "de",
+      "currency": "EUR",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "family-pro",
+      "handle": "family-pro",
+      "url": "https://drevos.de/products/family-pro",
+      "title": "Family PRO DREVOS – elektrischer Räucherofen 3-in-1, 100 L",
+      "vendor": "DREVOS",
+      "product_type": "Elektrischer Räucherofen 3-in-1 PRO",
+      "categories": [
+        "pro"
+      ],
+      "tags": [
+        "_badge_PRO",
+        "Family PRO",
+        "Polska",
+        "PRO",
+        "Seria: PRO",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Family PRO DREVOS</h2><p>Kompaktes PRO-Modell für regelmäßigen Einsatz mit PID-Regler und Konvektion.</p><h3>Technische Kerndaten</h3><ul><li>Kammervolumen: 100 L</li><li>Beladung pro Durchgang: 10–15 kg</li><li>Maximale Leistungsaufnahme des gesamten Geräts: 2,3 kW</li><li>Stromversorgung: 220–240 V~, 50 Hz, einphasig</li><li>Material: Holzkorpus mit 0,5 mm starker Edelstahl-Innenfläche</li><li>Rauchführung: Rauchgenerator mit Kondensatsammler und Kühler, Behälter 2,7 L, bis zu 10 Stunden</li></ul><h3>Funktionen</h3><p>Heißräuchern, Kalträuchern und Trocknen.</p><h3>Lieferung und Support</h3><p>24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</p>",
+      "description_text": "Family PRO DREVOS\nKompaktes PRO-Modell für regelmäßigen Einsatz mit PID-Regler und Konvektion.\nTechnische Kerndaten\nKammervolumen: 100 L\nBeladung pro Durchgang: 10–15 kg\nMaximale Leistungsaufnahme des gesamten Geräts: 2,3 kW\nStromversorgung: 220–240 V~, 50 Hz, einphasig\nMaterial: Holzkorpus mit 0,5 mm starker Edelstahl-Innenfläche\nRauchführung: Rauchgenerator mit Kondensatsammler und Kühler, Behälter 2,7 L, bis zu 10 Stunden\nFunktionen\nHeißräuchern, Kalträuchern und Trocknen.\nLieferung und Support\n24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Fassungsvermögen der Kammer",
+          "value": "98 l"
+        },
+        {
+          "name": "Einmalige Beladung",
+          "value": "10–15 kg"
+        },
+        {
+          "name": "Außenmaße (B×T×H)",
+          "value": "730 × 525 × 1350 mm"
+        },
+        {
+          "name": "Maximale Leistungsaufnahme",
+          "value": "2,3 kW"
+        },
+        {
+          "name": "Temperaturbereich",
+          "value": "von +15 bis +100 °C"
+        },
+        {
+          "name": "Stromversorgung",
+          "value": "220–240 V~, 50 Hz, einphasig"
+        },
+        {
+          "name": "Material des Gehäuses",
+          "value": "Lindenholz 16 mm + Beschichtung auf Wasserbasis"
+        },
+        {
+          "name": "Material der Kammer",
+          "value": "Edelstahl 0,5 mm"
+        },
+        {
+          "name": "Räuchergenerator",
+          "value": "Mit Kondensatsammler und Kühler, Behälter 2,75 l, bis zu 10 Stunden"
+        },
+        {
+          "name": "Funktionen",
+          "value": "Trocknen, Heiß- und Kalträuchern"
+        },
+        {
+          "name": "Sicherheitszeichen",
+          "value": "CE"
+        },
+        {
+          "name": "Innenmaße (B×T×H)",
+          "value": "370 × 320 × 850 mm"
+        },
+        {
+          "name": "Wand- / Isolierstärke",
+          "value": "55 mm"
+        },
+        {
+          "name": "Garantie",
+          "value": "1 Jahr"
+        },
+        {
+          "name": "Ebenen für Einlegeböden",
+          "value": "3 Ebenen"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Räuchergenerator „Quadrat“",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Haken",
+          "quantity": "15 Stk."
+        },
+        {
+          "name": "Bewegliche Einschübe",
+          "quantity": "2 Stk."
+        },
+        {
+          "name": "Querstangen",
+          "quantity": "6 Stk."
+        },
+        {
+          "name": "Produktthermometer",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Anleitung",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Sammlung von Rezepten und Tipps",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Räucherchips",
+          "quantity": "3 Pakete"
+        }
+      ],
+      "options": [
+        {
+          "name": "Modell",
+          "values": [
+            "Familie PRO"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-pro-02-panel.jpg?v=1780758798",
+          "alt": "Family PRO DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-pro-03-interior.jpg?v=1780758798",
+          "alt": "Family PRO DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-pro-01-front.jpg?v=1780758798",
+          "alt": "Family PRO DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-pro-04-side.jpg?v=1780758798",
+          "alt": "Family PRO DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-pro-05-detail.jpg?v=1780758798",
+          "alt": "Family PRO DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/family-pro-06-close.jpg?v=1780758798",
+          "alt": "Family PRO DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821066551630",
+          "sku": "FAMILYPRO",
+          "ean": null,
+          "title": "Familie PRO",
+          "options": {
+            "Modell": "Familie PRO"
+          },
+          "price": "2000.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:39:01+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15864859492686",
+      "source_id": "15864859492686",
+      "market": "DE",
+      "language": "de",
+      "currency": "EUR",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "mini-2",
+      "handle": "mini-2-0",
+      "url": "https://drevos.de/products/mini-2-0",
+      "title": "Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L",
+      "vendor": "DREVOS",
+      "product_type": "Elektrischer Räucherofen 3-in-1",
+      "categories": [
+        "standard"
+      ],
+      "tags": [
+        "_badge_Kompaktowy",
+        "Mini",
+        "Polska",
+        "Seria: Standard",
+        "suszenie",
+        "wędzarnia drewniana",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Mini DREVOS</h2><p>Kompaktes Einstiegsmodell für kleinere Chargen zu Hause oder im Garten.</p><h3>Technische Kerndaten</h3><ul><li>Kammervolumen: 65 L</li><li>Beladung pro Durchgang: 5–7 kg</li><li>Maximale Leistungsaufnahme des gesamten Geräts: 2,3 kW</li><li>Stromversorgung: 220–240 V~, 50 Hz, einphasig</li><li>Material: Holzkorpus mit Edelstahl-Innenfläche</li><li>Rauchführung: Standard-Rauchgenerator, bis zu 8 Stunden</li></ul><h3>Funktionen</h3><p>Heißräuchern, Kalträuchern und Trocknen.</p><h3>Lieferung und Support</h3><p>24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</p>",
+      "description_text": "Mini DREVOS\nKompaktes Einstiegsmodell für kleinere Chargen zu Hause oder im Garten.\nTechnische Kerndaten\nKammervolumen: 65 L\nBeladung pro Durchgang: 5–7 kg\nMaximale Leistungsaufnahme des gesamten Geräts: 2,3 kW\nStromversorgung: 220–240 V~, 50 Hz, einphasig\nMaterial: Holzkorpus mit Edelstahl-Innenfläche\nRauchführung: Standard-Rauchgenerator, bis zu 8 Stunden\nFunktionen\nHeißräuchern, Kalträuchern und Trocknen.\nLieferung und Support\n24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Fassungsvermögen der Kammer",
+          "value": "67 l"
+        },
+        {
+          "name": "Einmalige Beladung",
+          "value": "5–7 kg"
+        },
+        {
+          "name": "Maximale Leistungsaufnahme",
+          "value": "2,3 kW"
+        },
+        {
+          "name": "Temperaturbereich",
+          "value": "von +15 bis +100 °C"
+        },
+        {
+          "name": "Stromversorgung",
+          "value": "220–240 V~, 50 Hz, einphasig"
+        },
+        {
+          "name": "Material des Gehäuses",
+          "value": "Lindenholz 16 mm + Beschichtung auf Wasserbasis"
+        },
+        {
+          "name": "Material der Kammer",
+          "value": "Edelstahl 0,5 mm"
+        },
+        {
+          "name": "Räuchergenerator",
+          "value": "Standard, ohne Kühler, Behälter 2 l, bis zu 8 Stunden"
+        },
+        {
+          "name": "Betriebsarten",
+          "value": "Heiß-/Kalträuchern + Trocknen"
+        },
+        {
+          "name": "Außenmaße (B×T×H)",
+          "value": "670 × 655 × 1065 mm"
+        },
+        {
+          "name": "Innenmaße (B×T×H)",
+          "value": "325 × 315 × 660 mm"
+        },
+        {
+          "name": "Wand- / Isolierstärke",
+          "value": "55 mm"
+        },
+        {
+          "name": "Garantie",
+          "value": "1 Jahr"
+        },
+        {
+          "name": "Ebenen für Einlegeböden",
+          "value": "1 Ebene"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Standard-Räuchergenerator",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Haken",
+          "quantity": "10 Stk."
+        },
+        {
+          "name": "Schornstein",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Querstangen",
+          "quantity": "3 Stk."
+        },
+        {
+          "name": "Produktthermometer",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Anleitung",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Sammlung von Rezepten und Tipps",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Räucherchips",
+          "quantity": "3 Pakete"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Mini"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-02-panel.jpg?v=1780756831",
+          "alt": "Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-01-front.jpg?v=1780756831",
+          "alt": "Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-03-interior.jpg?v=1780756831",
+          "alt": "Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-04-side.jpg?v=1780756831",
+          "alt": "Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-05-detail.jpg?v=1780756831",
+          "alt": "Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-06-close.jpg?v=1780756831",
+          "alt": "Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59819977015630",
+          "sku": "MINI",
+          "ean": null,
+          "title": "Mini",
+          "options": {
+            "Model": "Mini"
+          },
+          "price": "880.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:39:00+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865100501326",
+      "source_id": "15865100501326",
+      "market": "DE",
+      "language": "de",
+      "currency": "EUR",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "smoke-chamber-25",
+      "handle": "smoke-chamber-25",
+      "url": "https://drevos.de/products/smoke-chamber-25",
+      "title": "Smoke Chamber 25 DREVOS – professionelle Räucherkammer 5-in-1",
+      "vendor": "DREVOS",
+      "product_type": "Professionelle Räucherkammer 5-in-1",
+      "categories": [
+        "smoke-chamber"
+      ],
+      "tags": [
+        "_badge_Do_gastronomii",
+        "komora wędzarnicza",
+        "Polska",
+        "PRO",
+        "produkcja",
+        "Seria: Smoke Chamber",
+        "Smoke Chamber 25",
+        "suszenie",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Smoke Chamber 25 DREVOS</h2><p>Professionelle 5-in-1-Kammer zum Trocknen, Heiß- und Kalträuchern, Backen und Dampfgaren. Der eingebaute Dampfgenerator gehört zur Grundausstattung.</p><h3>Technische Kerndaten</h3><ul><li>Kammervolumen: 160 L</li><li>Beladung pro Durchgang: 20–25 kg</li><li>Maximale Leistungsaufnahme des gesamten Geräts: 2,3 kW</li><li>Stromversorgung: 220–240 V~, 50 Hz, einphasig</li><li>Material: Gehäuse und Kammer aus 0,8 mm starkem Edelstahl</li><li>Rauchführung: Rauchgenerator mit Kondensatsammler und Kühler, Behälter 2,7 L, bis zu 10 Stunden</li><li>Dampfgenerator: eingebaut und in der Grundausstattung enthalten</li></ul><h3>Funktionen</h3><p>Trocknen, Heißräuchern, Kalträuchern, Backen und Dampfgaren.</p><h3>Lieferung und Support</h3><p>24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</p>",
+      "description_text": "Smoke Chamber 25 DREVOS\nProfessionelle 5-in-1-Kammer zum Trocknen, Heiß- und Kalträuchern, Backen und Dampfgaren. Der eingebaute Dampfgenerator gehört zur Grundausstattung.\nTechnische Kerndaten\nKammervolumen: 160 L\nBeladung pro Durchgang: 20–25 kg\nMaximale Leistungsaufnahme des gesamten Geräts: 2,3 kW\nStromversorgung: 220–240 V~, 50 Hz, einphasig\nMaterial: Gehäuse und Kammer aus 0,8 mm starkem Edelstahl\nRauchführung: Rauchgenerator mit Kondensatsammler und Kühler, Behälter 2,7 L, bis zu 10 Stunden\nDampfgenerator: eingebaut und in der Grundausstattung enthalten\nFunktionen\nTrocknen, Heißräuchern, Kalträuchern, Backen und Dampfgaren.\nLieferung und Support\n24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Fassungsvermögen der Kammer",
+          "value": "160 l"
+        },
+        {
+          "name": "Einmalige Beladung",
+          "value": "25 kg"
+        },
+        {
+          "name": "Außenmaße (B×T×H)",
+          "value": "860 × 630 × 1180 mm"
+        },
+        {
+          "name": "Innenmaße (B×T×H)",
+          "value": "440 × 430 × 830 mm"
+        },
+        {
+          "name": "Maximale Leistungsaufnahme",
+          "value": "2,3 kW"
+        },
+        {
+          "name": "Temperaturbereich",
+          "value": "von +15 bis +150 °C"
+        },
+        {
+          "name": "Stromversorgung",
+          "value": "220–240 V~, 50 Hz, einphasig"
+        },
+        {
+          "name": "Material des Gehäuses",
+          "value": "Edelstahl 0,8 mm"
+        },
+        {
+          "name": "Material der Kammer",
+          "value": "Edelstahl 0,8 mm"
+        },
+        {
+          "name": "Räuchergenerator",
+          "value": "Mit Kondensatsammler und Kühler, Behälter 2,75 l, bis zu 10 Stunden"
+        },
+        {
+          "name": "Dampfgenerator",
+          "value": "Eingebaut, in der Grundausstattung enthalten"
+        },
+        {
+          "name": "Funktionen",
+          "value": "Trocknen, Heißräuchern, Kalträuchern, Backen, Dampfgaren"
+        },
+        {
+          "name": "Sicherheitszeichen",
+          "value": "CE"
+        },
+        {
+          "name": "Garantie",
+          "value": "1 Jahr"
+        },
+        {
+          "name": "Ebenen für Einlegeböden",
+          "value": "4 Ebenen"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Räuchergenerator „Quadrat“",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Integrierter Dampfgenerator (Basis-Lieferumfang)",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Haken",
+          "quantity": "25 Stk."
+        },
+        {
+          "name": "Bewegliche Einschübe",
+          "quantity": "2 Stk."
+        },
+        {
+          "name": "Querstangen",
+          "quantity": "16 Stk."
+        },
+        {
+          "name": "Produktthermometer",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Anleitung",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Sammlung von Rezepten und Tipps",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Räucherchips",
+          "quantity": "3 Pakete"
+        }
+      ],
+      "options": [
+        {
+          "name": "Wariant",
+          "values": [
+            "Bez szkła",
+            "Ze szkłem"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-25-01-front.jpg?v=1780759883",
+          "alt": "Smoke Chamber 25 DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-25-03-interior.jpg?v=1780759883",
+          "alt": "Smoke Chamber 25 DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-25-02-panel.jpg?v=1780759884",
+          "alt": "Smoke Chamber 25 DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-25-04-side.jpg?v=1780759883",
+          "alt": "Smoke Chamber 25 DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-25-05-detail.jpg?v=1780759883",
+          "alt": "Smoke Chamber 25 DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-25-06-close.jpg?v=1780759883",
+          "alt": "Smoke Chamber 25 DREVOS – professionelle Räucherkammer 5-in-1"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821147259214",
+          "sku": "SMOKECHAMBER25",
+          "ean": null,
+          "title": "Bez szkła",
+          "options": {
+            "Wariant": "Bez szkła"
+          },
+          "price": "2520.00",
+          "compare_at_price": null
+        },
+        {
+          "id": "61065636184398",
+          "sku": "SMOKECHAMBER25-GLASS",
+          "ean": null,
+          "title": "Ze szkłem",
+          "options": {
+            "Wariant": "Ze szkłem"
+          },
+          "price": "2625.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:39:01+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865100992846",
+      "source_id": "15865100992846",
+      "market": "DE",
+      "language": "de",
+      "currency": "EUR",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "smoke-chamber-80",
+      "handle": "smoke-chamber-80",
+      "url": "https://drevos.de/products/smoke-chamber-80",
+      "title": "Smoke Chamber 50 + DREVOS – professionelle Räucherkammer 5-in-1",
+      "vendor": "DREVOS",
+      "product_type": "Professionelle Räucherkammer 5-in-1",
+      "categories": [
+        "smoke-chamber"
+      ],
+      "tags": [
+        "_badge_Maks._80_kg",
+        "HoReCa",
+        "hurt",
+        "komora wędzarnicza",
+        "Polska",
+        "PRO",
+        "produkcja",
+        "Seria: Smoke Chamber",
+        "Smoke Chamber 50+ do 80 kg",
+        "suszenie",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Smoke Chamber 50 + DREVOS</h2><p>Professionelle 5-in-1-Kammer zum Trocknen, Heiß- und Kalträuchern, Backen und Dampfgaren. Der eingebaute Dampfgenerator gehört zur Grundausstattung.</p><h3>Technische Kerndaten</h3><ul><li>Kammervolumen: 540 L</li><li>Beladung pro Durchgang: bis 80 kg</li><li>Maximale Leistungsaufnahme des gesamten Geräts: 5,7 kW</li><li>Stromversorgung: 220–240 V~, 50 Hz, einphasig</li><li>Material: Gehäuse und Kammer aus 0,8 mm starkem Edelstahl</li><li>Rauchführung: Rauchgenerator mit Kondensatsammler und Kühler, Behälter 2,7 L, bis zu 10 Stunden</li><li>Dampfgenerator: eingebaut und in der Grundausstattung enthalten</li></ul><h3>Funktionen</h3><p>Trocknen, Heißräuchern, Kalträuchern, Backen und Dampfgaren.</p><h3>Lieferung und Support</h3><p>24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</p>",
+      "description_text": "Smoke Chamber 50 + DREVOS\nProfessionelle 5-in-1-Kammer zum Trocknen, Heiß- und Kalträuchern, Backen und Dampfgaren. Der eingebaute Dampfgenerator gehört zur Grundausstattung.\nTechnische Kerndaten\nKammervolumen: 540 L\nBeladung pro Durchgang: bis 80 kg\nMaximale Leistungsaufnahme des gesamten Geräts: 5,7 kW\nStromversorgung: 220–240 V~, 50 Hz, einphasig\nMaterial: Gehäuse und Kammer aus 0,8 mm starkem Edelstahl\nRauchführung: Rauchgenerator mit Kondensatsammler und Kühler, Behälter 2,7 L, bis zu 10 Stunden\nDampfgenerator: eingebaut und in der Grundausstattung enthalten\nFunktionen\nTrocknen, Heißräuchern, Kalträuchern, Backen und Dampfgaren.\nLieferung und Support\n24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Fassungsvermögen der Kammer",
+          "value": "540 l"
+        },
+        {
+          "name": "Einmalige Beladung",
+          "value": "80 kg"
+        },
+        {
+          "name": "Außenmaße (B×T×H)",
+          "value": "1070 × 780 × 1770 mm"
+        },
+        {
+          "name": "Innenmaße (B×T×H)",
+          "value": "600 × 600 × 1500 mm"
+        },
+        {
+          "name": "Maximale Leistungsaufnahme",
+          "value": "5,7 kW"
+        },
+        {
+          "name": "Temperaturbereich",
+          "value": "von +15 bis +150 °C"
+        },
+        {
+          "name": "Stromversorgung",
+          "value": "220–240 V~, 50 Hz, einphasig"
+        },
+        {
+          "name": "Material des Gehäuses",
+          "value": "Edelstahl 0,8 mm"
+        },
+        {
+          "name": "Material der Kammer",
+          "value": "Edelstahl 0,8 mm"
+        },
+        {
+          "name": "Räuchergenerator",
+          "value": "Quadratisch, mit Kühler"
+        },
+        {
+          "name": "Dampfgenerator",
+          "value": "Eingebaut, in der Grundausstattung enthalten"
+        },
+        {
+          "name": "Funktionen",
+          "value": "Trocknen, Heißräuchern, Kalträuchern, Backen, Dampfgaren"
+        },
+        {
+          "name": "Sicherheitszeichen",
+          "value": "CE"
+        },
+        {
+          "name": "Wand- / Isolierstärke",
+          "value": "38 mm"
+        },
+        {
+          "name": "Garantie",
+          "value": "1 Jahr"
+        },
+        {
+          "name": "Ebenen für Einlegeböden",
+          "value": "6 Ebenen"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Räuchergenerator „Quadrat“",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Integrierter Dampfgenerator (Basis-Lieferumfang)",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Haken",
+          "quantity": "80 Stk."
+        },
+        {
+          "name": "Bewegliche Einschübe",
+          "quantity": "4 Stk."
+        },
+        {
+          "name": "Querstangen",
+          "quantity": "24 Stk."
+        },
+        {
+          "name": "Produktthermometer",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Anleitung",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Sammlung von Rezepten und Tipps",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Räucherchips",
+          "quantity": "3 Pakete"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "Smoke Chamber 50 +"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-80-02-panel.jpg?v=1780759896",
+          "alt": "Smoke Chamber 50 + DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-80-04-side.jpg?v=1780759897",
+          "alt": "Smoke Chamber 50 + DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-80-03-interior.jpg?v=1780759896",
+          "alt": "Smoke Chamber 50 + DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-80-01-front.jpg?v=1780759896",
+          "alt": "Smoke Chamber 50 + DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-80-05-detail.jpg?v=1780759896",
+          "alt": "Smoke Chamber 50 + DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-80-06-close.jpg?v=1780759896",
+          "alt": "Smoke Chamber 50 + DREVOS – professionelle Räucherkammer 5-in-1"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821147816270",
+          "sku": "SMOKECHAMBER80",
+          "ean": null,
+          "title": "Smoke Chamber 50 +",
+          "options": {
+            "Model": "Smoke Chamber 50 +"
+          },
+          "price": "3255.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:39:01+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865100861774",
+      "source_id": "15865100861774",
+      "market": "DE",
+      "language": "de",
+      "currency": "EUR",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "smoke-chamber-50",
+      "handle": "smoke-chamber-50",
+      "url": "https://drevos.de/products/smoke-chamber-50",
+      "title": "Smoke Chamber 50 DREVOS – professionelle Räucherkammer 5-in-1",
+      "vendor": "DREVOS",
+      "product_type": "Professionelle Räucherkammer 5-in-1",
+      "categories": [
+        "smoke-chamber"
+      ],
+      "tags": [
+        "_badge_Dla_restauracji",
+        "HoReCa",
+        "komora wędzarnicza",
+        "Polska",
+        "PRO",
+        "produkcja",
+        "Seria: Smoke Chamber",
+        "Smoke Chamber 50",
+        "suszenie",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>Smoke Chamber 50 DREVOS</h2><p>Professionelle 5-in-1-Kammer zum Trocknen, Heiß- und Kalträuchern, Backen und Dampfgaren. Der eingebaute Dampfgenerator gehört zur Grundausstattung.</p><h3>Technische Kerndaten</h3><ul><li>Kammervolumen: 360 L</li><li>Beladung pro Durchgang: bis 50 kg</li><li>Maximale Leistungsaufnahme des gesamten Geräts: 4,3 kW</li><li>Stromversorgung: 220–240 V~, 50 Hz, einphasig</li><li>Material: Gehäuse und Kammer aus 0,8 mm starkem Edelstahl</li><li>Rauchführung: Rauchgenerator mit Kondensatsammler und Kühler, Behälter 2,7 L, bis zu 10 Stunden</li><li>Dampfgenerator: eingebaut und in der Grundausstattung enthalten</li></ul><h3>Funktionen</h3><p>Trocknen, Heißräuchern, Kalträuchern, Backen und Dampfgaren.</p><h3>Lieferung und Support</h3><p>24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</p>",
+      "description_text": "Smoke Chamber 50 DREVOS\nProfessionelle 5-in-1-Kammer zum Trocknen, Heiß- und Kalträuchern, Backen und Dampfgaren. Der eingebaute Dampfgenerator gehört zur Grundausstattung.\nTechnische Kerndaten\nKammervolumen: 360 L\nBeladung pro Durchgang: bis 50 kg\nMaximale Leistungsaufnahme des gesamten Geräts: 4,3 kW\nStromversorgung: 220–240 V~, 50 Hz, einphasig\nMaterial: Gehäuse und Kammer aus 0,8 mm starkem Edelstahl\nRauchführung: Rauchgenerator mit Kondensatsammler und Kühler, Behälter 2,7 L, bis zu 10 Stunden\nDampfgenerator: eingebaut und in der Grundausstattung enthalten\nFunktionen\nTrocknen, Heißräuchern, Kalträuchern, Backen und Dampfgaren.\nLieferung und Support\n24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Fassungsvermögen der Kammer",
+          "value": "360 l"
+        },
+        {
+          "name": "Einmalige Beladung",
+          "value": "50 kg"
+        },
+        {
+          "name": "Außenmaße (B×T×H)",
+          "value": "1040 × 780 × 1370 mm"
+        },
+        {
+          "name": "Innenmaße (B×T×H)",
+          "value": "600 × 600 × 1000 mm"
+        },
+        {
+          "name": "Maximale Leistungsaufnahme",
+          "value": "4,3 kW"
+        },
+        {
+          "name": "Temperaturbereich",
+          "value": "von +15 bis +150 °C"
+        },
+        {
+          "name": "Stromversorgung",
+          "value": "220–240 V~, 50 Hz, einphasig"
+        },
+        {
+          "name": "Material des Gehäuses",
+          "value": "Edelstahl 0,8 mm"
+        },
+        {
+          "name": "Material der Kammer",
+          "value": "Edelstahl 0,8 mm"
+        },
+        {
+          "name": "Räuchergenerator",
+          "value": "Mit Kondensatsammler und Kühler, Behälter 2,75 l, bis zu 10 Stunden"
+        },
+        {
+          "name": "Dampfgenerator",
+          "value": "Eingebaut, in der Grundausstattung enthalten"
+        },
+        {
+          "name": "Funktionen",
+          "value": "Trocknen, Heißräuchern, Kalträuchern, Backen, Dampfgaren"
+        },
+        {
+          "name": "Sicherheitszeichen",
+          "value": "CE"
+        },
+        {
+          "name": "Garantie",
+          "value": "1 Jahr"
+        },
+        {
+          "name": "Ebenen für Einlegeböden",
+          "value": "4 Ebenen"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Räuchergenerator „Quadrat“",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Integrierter Dampfgenerator (Basis-Lieferumfang)",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Haken",
+          "quantity": "25 Stk."
+        },
+        {
+          "name": "Bewegliche Einschübe",
+          "quantity": "3 Stk."
+        },
+        {
+          "name": "Querstangen",
+          "quantity": "20 Stk."
+        },
+        {
+          "name": "Produktthermometer",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Anleitung",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Sammlung von Rezepten und Tipps",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Räucherchips",
+          "quantity": "3 Pakete"
+        }
+      ],
+      "options": [
+        {
+          "name": "Wariant",
+          "values": [
+            "Ohne Sichtfenster",
+            "Mit Sichtfenster"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-50-02-panel.jpg?v=1780759892",
+          "alt": "Smoke Chamber 50 DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-50-01-front.jpg?v=1780759892",
+          "alt": "Smoke Chamber 50 DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-50-03-interior.jpg?v=1780759892",
+          "alt": "Smoke Chamber 50 DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-50-04-side.jpg?v=1780759892",
+          "alt": "Smoke Chamber 50 DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-50-05-detail.jpg?v=1780759892",
+          "alt": "Smoke Chamber 50 DREVOS – professionelle Räucherkammer 5-in-1"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/smoke-chamber-50-06-close.jpg?v=1780759892",
+          "alt": "Smoke Chamber 50 DREVOS – professionelle Räucherkammer 5-in-1"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821147717966",
+          "sku": "SMOKECHAMBER50",
+          "ean": null,
+          "title": "Ohne Sichtfenster",
+          "options": {
+            "Wariant": "Ohne Sichtfenster"
+          },
+          "price": "2835.00",
+          "compare_at_price": null
+        },
+        {
+          "id": "61065684451662",
+          "sku": "SMOKECHAMBER50-GLASS",
+          "ean": null,
+          "title": "Mit Sichtfenster",
+          "options": {
+            "Wariant": "Mit Sichtfenster"
+          },
+          "price": "2940.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:39:01+01:00",
+      "deleted_at": null
+    },
+    {
+      "id": "shopify:15865130910030",
+      "source_id": "15865130910030",
+      "market": "DE",
+      "language": "de",
+      "currency": "EUR",
+      "platform": "Shopify",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": null,
+      "handle": "start",
+      "url": "https://drevos.de/products/start",
+      "title": "START Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L",
+      "vendor": "DREVOS",
+      "product_type": "Elektrischer Räucherofen 3-in-1",
+      "categories": [
+        "standard"
+      ],
+      "tags": [
+        "3-w-1",
+        "_badge_Na_start",
+        "dom",
+        "Polska",
+        "Seria: Standard",
+        "START Family",
+        "suszenie",
+        "wędzarnia elektryczna",
+        "wędzenie na gorąco",
+        "wędzenie na zimno"
+      ],
+      "description_html": "<h2>START Family DREVOS</h2><p>Kompaktes Einstiegsmodell mit PID-Regler und Konvektion. Die Kammer ist nicht isoliert.</p><h3>Technische Kerndaten</h3><ul><li>Kammervolumen: 100 L</li><li>Beladung pro Durchgang: 10–15 kg</li><li>Stromversorgung: 220–240 V~, 50 Hz, einphasig</li><li>Material: Holzkorpus mit Edelstahl-Innenfläche; nicht isolierte Kammer</li><li>Rauchführung: Standard-Rauchgenerator, bis zu 8 Stunden</li></ul><h3>Funktionen</h3><p>Heißräuchern, Kalträuchern und Trocknen.</p><h3>Lieferung und Support</h3><p>24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</p>",
+      "description_text": "START Family DREVOS\nKompaktes Einstiegsmodell mit PID-Regler und Konvektion. Die Kammer ist nicht isoliert.\nTechnische Kerndaten\nKammervolumen: 100 L\nBeladung pro Durchgang: 10–15 kg\nStromversorgung: 220–240 V~, 50 Hz, einphasig\nMaterial: Holzkorpus mit Edelstahl-Innenfläche; nicht isolierte Kammer\nRauchführung: Standard-Rauchgenerator, bis zu 8 Stunden\nFunktionen\nHeißräuchern, Kalträuchern und Trocknen.\nLieferung und Support\n24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.",
+      "seo": {
+        "title": null,
+        "description": null
+      },
+      "attributes": [
+        {
+          "name": "Fassungsvermögen der Kammer",
+          "value": "100 l"
+        },
+        {
+          "name": "Einmalige Beladung",
+          "value": "10–15 kg"
+        },
+        {
+          "name": "Temperaturbereich",
+          "value": "von +15 bis +100 °C"
+        },
+        {
+          "name": "Betriebsarten",
+          "value": "Heiß-/Kalträuchern + Trocknen"
+        },
+        {
+          "name": "Wärme",
+          "value": "Elektrisch, regelbar bis 100 °C"
+        },
+        {
+          "name": "Steuerung",
+          "value": "PID-Regler"
+        },
+        {
+          "name": "Konvektion",
+          "value": "Ja — Ventilator in der Kammer"
+        },
+        {
+          "name": "Kammerausführung",
+          "value": "Nicht isoliert"
+        },
+        {
+          "name": "Stromversorgung",
+          "value": "220–240 V~, 50 Hz, einphasig"
+        },
+        {
+          "name": "Räuchergenerator",
+          "value": "Bis zu 8 Stunden pro Spänefüllung"
+        },
+        {
+          "name": "Material des Gehäuses",
+          "value": "Lindenholz 16 mm + Beschichtung auf Wasserbasis"
+        },
+        {
+          "name": "Material der Kammer",
+          "value": "Edelstahl"
+        },
+        {
+          "name": "Einsatzbereich",
+          "value": "Haus, Garten, Grundstück, Kleingarten, Terrasse"
+        }
+      ],
+      "kit": [
+        {
+          "name": "Gehäuse START Family 100 l",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Räuchergenerator für Holzchips",
+          "quantity": "1 Stk."
+        },
+        {
+          "name": "Schornstein und Zugelemente",
+          "quantity": "Im Lieferumfang"
+        },
+        {
+          "name": "Haken und Stangen",
+          "quantity": "Im Lieferumfang"
+        },
+        {
+          "name": "Räucherchips für die erste Inbetriebnahme",
+          "quantity": "Im Lieferumfang"
+        },
+        {
+          "name": "Anleitungen, Rezepte und Unterstützung durch Technologen",
+          "quantity": "Im Lieferumfang"
+        }
+      ],
+      "options": [
+        {
+          "name": "Model",
+          "values": [
+            "START Family"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/start-02-panel.jpg?v=1780760607",
+          "alt": "START Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 2,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/start-01-front.jpg?v=1780760607",
+          "alt": "START Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 3,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/start-03-interior.jpg?v=1780760607",
+          "alt": "START Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 4,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/start-04-side.jpg?v=1780760607",
+          "alt": "START Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 5,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/start-05-detail.jpg?v=1780760607",
+          "alt": "START Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        },
+        {
+          "position": 6,
+          "src": "https://cdn.shopify.com/s/files/1/1039/9478/6126/files/start-06-close.jpg?v=1780760608",
+          "alt": "START Family DREVOS – elektrischer Räucherofen 3-in-1, 100 L"
+        }
+      ],
+      "variants": [
+        {
+          "id": "59821274005838",
+          "sku": "STARTFAMILY",
+          "ean": null,
+          "title": "START Family",
+          "options": {
+            "Model": "START Family"
+          },
+          "price": "610.00",
+          "compare_at_price": null
+        }
+      ],
+      "source_updated_at": "2026-10-29T11:39:00+01:00",
+      "deleted_at": null
+    }
+  ]
+}

@@ -1,16 +1,17 @@
 {
   "feed": "DREVOS universal dealer feed",
-  "version": "1.1",
+  "version": "1.2",
   "market": "UA",
   "language": "uk",
   "currency": "UAH",
-  "generated_at": "2026-10-29T12:29:28.899Z",
+  "generated_at": "2026-10-29T15:04:39.371Z",
   "statuses": [
     "active",
     "deleted"
   ],
   "stock_policy": "made_to_order; stock quantity is intentionally omitted",
   "price_policy": "regular public retail prices before source-site discounts; promotional prices are intentionally excluded",
+  "image_policy": "source product images; Weblium images use an HTTPS compatibility proxy so dealer browsers and importers can open them",
   "products": [
     {
       "id": "weblium:66c13d6d-1af9-4bf2-a032-ea7a1f4cd139",
@@ -84,32 +85,32 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/eeb02f6a-92dc-437a-8511-21212cb3ca06/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Feeb02f6a-92dc-437a-8511-21212cb3ca06%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня  Біг PRO для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/33d0a91e-e511-45a6-983f-ab3b5d994370/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F33d0a91e-e511-45a6-983f-ab3b5d994370%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня  Біг PRO для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/b24f4d15-f24b-4c6a-8af4-c03225c8539b/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fb24f4d15-f24b-4c6a-8af4-c03225c8539b%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня  Біг PRO для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/ad094685-e817-476e-9a60-13fc9d5c2974/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fad094685-e817-476e-9a60-13fc9d5c2974%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня  Біг PRO для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/5b2d7261-d756-4686-93d0-63b9296537e9/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F5b2d7261-d756-4686-93d0-63b9296537e9%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня  Біг PRO для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/1f162259-f1a1-4286-8440-cd3f15f0e9af/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F1f162259-f1a1-4286-8440-cd3f15f0e9af%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня  Біг PRO для гарячого та холодного копчення, сушіння"
         }
       ],
@@ -199,37 +200,37 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/f26ab363-c220-4e1a-8575-322c8fe2a781/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Ff26ab363-c220-4e1a-8575-322c8fe2a781%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня 3 в 1 Сімейна 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/273bccf9-d391-4562-b3d5-bb0a63e34e79/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F273bccf9-d391-4562-b3d5-bb0a63e34e79%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня 3 в 1 Сімейна 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/62bce37d-18f9-4225-9610-0a7e08608728/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F62bce37d-18f9-4225-9610-0a7e08608728%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня 3 в 1 Сімейна 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/af58906b-d79f-4f35-8df1-2ba3932038ff/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Faf58906b-d79f-4f35-8df1-2ba3932038ff%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня 3 в 1 Сімейна 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/80ebe3fd-2f3a-48cb-8794-1179db4cb840/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F80ebe3fd-2f3a-48cb-8794-1179db4cb840%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня 3 в 1 Сімейна 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/e6f458b1-4086-42e3-810d-d69467fea9a0/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fe6f458b1-4086-42e3-810d-d69467fea9a0%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня 3 в 1 Сімейна 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 7,
-          "src": "https://e-c.storage.googleapis.com/res/927f9fb3-dfe3-4ff7-89eb-6886c71236e5/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F927f9fb3-dfe3-4ff7-89eb-6886c71236e5%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня 3 в 1 Сімейна 2.0 для гарячого та холодного копчення, сушіння"
         }
       ],
@@ -319,32 +320,32 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/f645d3d5-e701-4eaa-8469-9ce7b7f88e5d/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Ff645d3d5-e701-4eaa-8469-9ce7b7f88e5d%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Біг 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/0280583b-3bfe-4937-977d-53a49f6586e4/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F0280583b-3bfe-4937-977d-53a49f6586e4%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Біг 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/1317083f-6464-4455-ba33-85bcbbce9f95/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F1317083f-6464-4455-ba33-85bcbbce9f95%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Біг 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/9e23ac3a-02fe-408c-9a63-b74025bdc5e5/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F9e23ac3a-02fe-408c-9a63-b74025bdc5e5%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Біг 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/86d88976-1b33-4752-952f-c9459ee46490/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F86d88976-1b33-4752-952f-c9459ee46490%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Біг 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/d6b16e82-1aa3-4a2e-a153-3470b7c42f78/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fd6b16e82-1aa3-4a2e-a153-3470b7c42f78%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Біг 2.0 для гарячого та холодного копчення, сушіння"
         }
       ],
@@ -434,32 +435,32 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/e5506198-3ac0-46ae-8e2f-fa32e01e9299/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fe5506198-3ac0-46ae-8e2f-fa32e01e9299%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Класік 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/6887d8b4-cc91-484c-b985-8a5ce87d7925/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F6887d8b4-cc91-484c-b985-8a5ce87d7925%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Класік 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/fff061d5-eb21-43e2-b774-0d00c20ac0ba/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Ffff061d5-eb21-43e2-b774-0d00c20ac0ba%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Класік 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/7c22adcb-1ccc-4ca8-af13-486ed12d5114/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F7c22adcb-1ccc-4ca8-af13-486ed12d5114%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Класік 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/ee5c6fe4-950f-4dc7-bd77-980a5925f920/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fee5c6fe4-950f-4dc7-bd77-980a5925f920%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Класік 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/b32ec3be-b7ee-4422-850c-571fc6aa37ef/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fb32ec3be-b7ee-4422-850c-571fc6aa37ef%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Класік 2.0 для гарячого та холодного копчення, сушіння"
         }
       ],
@@ -549,32 +550,32 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/be508d7a-210d-44d4-853b-e60c83b79ec1/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fbe508d7a-210d-44d4-853b-e60c83b79ec1%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Класік PRO   для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/2481496d-07ca-493b-94de-fa1f0f422418/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F2481496d-07ca-493b-94de-fa1f0f422418%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Класік PRO   для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/e21b50ee-aa82-4694-8d3b-94811e3416b9/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fe21b50ee-aa82-4694-8d3b-94811e3416b9%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Класік PRO   для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/c3784310-d8bc-45a8-a014-10500d4dba64/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fc3784310-d8bc-45a8-a014-10500d4dba64%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Класік PRO   для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/b8d4c4a4-6473-4d7b-8696-68f2c31c1920/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fb8d4c4a4-6473-4d7b-8696-68f2c31c1920%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Класік PRO   для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/392a1a86-c538-4eb7-81b4-aee381780129/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F392a1a86-c538-4eb7-81b4-aee381780129%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Класік PRO   для гарячого та холодного копчення, сушіння"
         }
       ],
@@ -664,32 +665,32 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/9d257d41-3e43-404c-932c-2914ee2462bd/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F9d257d41-3e43-404c-932c-2914ee2462bd%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Міні 1.0 для гарячого та холодного копчення"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/863db869-e8f9-46a6-8c46-a2eb976a2810/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F863db869-e8f9-46a6-8c46-a2eb976a2810%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Міні 1.0 для гарячого та холодного копчення"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/34f19de9-f468-4730-a3fb-c51ff6c2dae8/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F34f19de9-f468-4730-a3fb-c51ff6c2dae8%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Міні 1.0 для гарячого та холодного копчення"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/051ba062-c87e-4d21-8ef7-e9716cb553ff/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F051ba062-c87e-4d21-8ef7-e9716cb553ff%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Міні 1.0 для гарячого та холодного копчення"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/790c0ac8-71af-4b06-bba9-2886891efb92/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F790c0ac8-71af-4b06-bba9-2886891efb92%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Міні 1.0 для гарячого та холодного копчення"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/0c35f927-05c5-40cf-84cc-0a1f6bed2253/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F0c35f927-05c5-40cf-84cc-0a1f6bed2253%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Міні 1.0 для гарячого та холодного копчення"
         }
       ],
@@ -779,32 +780,32 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/8bc76e9c-7789-4fcf-b010-6bb9fd723f8c/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F8bc76e9c-7789-4fcf-b010-6bb9fd723f8c%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Міні 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/1ad2b718-e6fd-4b40-bc3a-15c71e35fa07/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F1ad2b718-e6fd-4b40-bc3a-15c71e35fa07%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Міні 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/97789949-4267-4bed-b296-08d9cd8bb432/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F97789949-4267-4bed-b296-08d9cd8bb432%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Міні 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/9e068995-5d5c-4737-9408-a471843de1c5/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F9e068995-5d5c-4737-9408-a471843de1c5%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Міні 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/55cb43ab-9015-4ca7-84b6-8a8a2bc224ab/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F55cb43ab-9015-4ca7-84b6-8a8a2bc224ab%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Міні 2.0 для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/ff2fcc97-5660-4e10-a012-8d04b55e531b/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fff2fcc97-5660-4e10-a012-8d04b55e531b%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Міні 2.0 для гарячого та холодного копчення, сушіння"
         }
       ],
@@ -894,32 +895,32 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/d5dae8e5-10fa-46b8-b8a1-a5ca8bf6e2d1/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fd5dae8e5-10fa-46b8-b8a1-a5ca8bf6e2d1%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Сімейна 1.0 для гарячого та холодного копчення"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/0c20a6fc-9e14-445a-9ac6-81cfe90a4a36/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F0c20a6fc-9e14-445a-9ac6-81cfe90a4a36%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Сімейна 1.0 для гарячого та холодного копчення"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/ec0218dc-4657-454b-872e-41adec737d04/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fec0218dc-4657-454b-872e-41adec737d04%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Сімейна 1.0 для гарячого та холодного копчення"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/0229f198-6d60-4a6f-bf14-b5861436cdab/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F0229f198-6d60-4a6f-bf14-b5861436cdab%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Сімейна 1.0 для гарячого та холодного копчення"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/3ff134ac-6913-420a-8063-695f5cde2e24/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F3ff134ac-6913-420a-8063-695f5cde2e24%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Сімейна 1.0 для гарячого та холодного копчення"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/da3f19a4-bc91-46a6-b78a-a39774c21df0/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fda3f19a4-bc91-46a6-b78a-a39774c21df0%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Сімейна 1.0 для гарячого та холодного копчення"
         }
       ],
@@ -1009,32 +1010,32 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/dda12318-1a13-469d-882e-cf7f6fa94c0f/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fdda12318-1a13-469d-882e-cf7f6fa94c0f%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Сімейна PRO  для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/d72d814d-4ea8-492c-9e61-5aa9fed80a6e/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fd72d814d-4ea8-492c-9e61-5aa9fed80a6e%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Сімейна PRO  для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/9c19e034-5a1d-40db-92d4-7f7b274b9c69/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F9c19e034-5a1d-40db-92d4-7f7b274b9c69%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Сімейна PRO  для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/9e44d819-fe56-4866-bd37-d98bde195600/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F9e44d819-fe56-4866-bd37-d98bde195600%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Сімейна PRO  для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/956895c4-e766-4a67-9afe-c5e2b4df16b3/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F956895c4-e766-4a67-9afe-c5e2b4df16b3%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Сімейна PRO  для гарячого та холодного копчення, сушіння"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/cf790c36-aaf1-4961-86e1-9103cde3e74e/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fcf790c36-aaf1-4961-86e1-9103cde3e74e%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Сімейна PRO  для гарячого та холодного копчення, сушіння"
         }
       ],
@@ -1120,32 +1121,32 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/70dd1885-6e30-42e2-ae93-571d786d95d4/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F70dd1885-6e30-42e2-ae93-571d786d95d4%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Old School Класік для гарячого та холодного копчення,сушіння і варки"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/1249a4c4-51da-48af-9483-0939025e970f/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F1249a4c4-51da-48af-9483-0939025e970f%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Old School Класік для гарячого та холодного копчення,сушіння і варки"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/84733fe4-4152-48c9-8ffd-c749280c6ea2/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F84733fe4-4152-48c9-8ffd-c749280c6ea2%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Old School Класік для гарячого та холодного копчення,сушіння і варки"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/23475976-6225-4b44-9de0-431618db7290/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F23475976-6225-4b44-9de0-431618db7290%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Old School Класік для гарячого та холодного копчення,сушіння і варки"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/6a594df5-8922-4eaa-a320-f24bc9ba1d11/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F6a594df5-8922-4eaa-a320-f24bc9ba1d11%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Old School Класік для гарячого та холодного копчення,сушіння і варки"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/9dfbe11e-143c-4e36-8b7b-90bcae4df84a/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F9dfbe11e-143c-4e36-8b7b-90bcae4df84a%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Old School Класік для гарячого та холодного копчення,сушіння і варки"
         }
       ],
@@ -1231,32 +1232,32 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/23ea70f6-81c5-44a5-817b-3dd73ad2493e/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F23ea70f6-81c5-44a5-817b-3dd73ad2493e%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Old School Сімейна для гарячого та холодного копчення, сушіння і варки"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/7d81aa5d-8a32-48f4-a7a9-292704c4c0f4/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F7d81aa5d-8a32-48f4-a7a9-292704c4c0f4%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Old School Сімейна для гарячого та холодного копчення, сушіння і варки"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/16ab3e8d-5d28-4520-800f-0314d153ecb0/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F16ab3e8d-5d28-4520-800f-0314d153ecb0%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Old School Сімейна для гарячого та холодного копчення, сушіння і варки"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/c7e3eae4-a94a-48f2-82e3-b0c3fe2a8f28/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fc7e3eae4-a94a-48f2-82e3-b0c3fe2a8f28%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Old School Сімейна для гарячого та холодного копчення, сушіння і варки"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/c0f6f854-8a59-405c-9fa3-2c6da16d4531/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fc0f6f854-8a59-405c-9fa3-2c6da16d4531%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Old School Сімейна для гарячого та холодного копчення, сушіння і варки"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/ae3c2f33-3d2c-4760-80ad-240a1ef4a018/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fae3c2f33-3d2c-4760-80ad-240a1ef4a018%2Foriginal&output=jpg&q=90",
           "alt": "Коптильня Old School Сімейна для гарячого та холодного копчення, сушіння і варки"
         }
       ],
@@ -1350,27 +1351,27 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/cbd91696-3386-49e8-a8f3-8f0de97b8a84/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fcbd91696-3386-49e8-a8f3-8f0de97b8a84%2Foriginal&output=jpg&q=90",
           "alt": "Термодимокамера PROFI 100 з загрузкою продукта на 100 кг"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/cc36ef17-cb9a-4565-a8e2-d50dd72d50e8/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fcc36ef17-cb9a-4565-a8e2-d50dd72d50e8%2Foriginal&output=jpg&q=90",
           "alt": "Термодимокамера PROFI 100 з загрузкою продукта на 100 кг"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/7ac48c96-e714-47a5-991e-330ec50a3bce/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F7ac48c96-e714-47a5-991e-330ec50a3bce%2Foriginal&output=jpg&q=90",
           "alt": "Термодимокамера PROFI 100 з загрузкою продукта на 100 кг"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/51f8e793-5365-404e-967a-e3d73a494a0b/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F51f8e793-5365-404e-967a-e3d73a494a0b%2Foriginal&output=jpg&q=90",
           "alt": "Термодимокамера PROFI 100 з загрузкою продукта на 100 кг"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/dedb8526-77fc-49b2-8674-d47acc04dfff/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fdedb8526-77fc-49b2-8674-d47acc04dfff%2Foriginal&output=jpg&q=90",
           "alt": "Термодимокамера PROFI 100 з загрузкою продукта на 100 кг"
         }
       ],
@@ -1460,27 +1461,27 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/4c9e0b64-0889-4c9b-9098-801665a9d40d/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F4c9e0b64-0889-4c9b-9098-801665a9d40d%2Foriginal&output=jpg&q=90",
           "alt": "Термодимокамера PROFI 50 з загрузкою продукта на 50 кг"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/2a04acfc-779a-4bbb-8931-186cd3a50f5d/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F2a04acfc-779a-4bbb-8931-186cd3a50f5d%2Foriginal&output=jpg&q=90",
           "alt": "Термодимокамера PROFI 50 з загрузкою продукта на 50 кг"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/9b1929e1-68b6-4c9d-8734-6b71b29f88fd/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F9b1929e1-68b6-4c9d-8734-6b71b29f88fd%2Foriginal&output=jpg&q=90",
           "alt": "Термодимокамера PROFI 50 з загрузкою продукта на 50 кг"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/a2e845d5-3e59-4ed9-ab02-856e1ce349c4/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fa2e845d5-3e59-4ed9-ab02-856e1ce349c4%2Foriginal&output=jpg&q=90",
           "alt": "Термодимокамера PROFI 50 з загрузкою продукта на 50 кг"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/335aebc9-28f8-48a0-b9c9-3b42df7b2a87/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F335aebc9-28f8-48a0-b9c9-3b42df7b2a87%2Foriginal&output=jpg&q=90",
           "alt": "Термодимокамера PROFI 50 з загрузкою продукта на 50 кг"
         }
       ],
@@ -1578,37 +1579,37 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/e0e1a43e-47fb-4bdc-b705-705201768397/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fe0e1a43e-47fb-4bdc-b705-705201768397%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 25"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/8d3f1461-07cc-455f-ab47-966ce4043c84/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F8d3f1461-07cc-455f-ab47-966ce4043c84%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 25"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/0633ee8e-1d69-48f4-98ae-86e4cb676b81/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F0633ee8e-1d69-48f4-98ae-86e4cb676b81%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 25"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/8458bad3-eb3f-4eaa-8d28-32bc4826dd44/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F8458bad3-eb3f-4eaa-8d28-32bc4826dd44%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 25"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/179a0134-adf5-4f24-9c8f-b78dd264c414/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F179a0134-adf5-4f24-9c8f-b78dd264c414%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 25"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/7c01dd10-201c-4c6f-8e44-398840fbcda9/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F7c01dd10-201c-4c6f-8e44-398840fbcda9%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 25"
         },
         {
           "position": 7,
-          "src": "https://e-c.storage.googleapis.com/res/86d5b0e1-3981-4b2d-9171-9111eaed7098/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F86d5b0e1-3981-4b2d-9171-9111eaed7098%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 25"
         }
       ],
@@ -1719,37 +1720,37 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/3409e656-d834-422e-9e62-26f0a5901c44/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F3409e656-d834-422e-9e62-26f0a5901c44%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 50"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/1add8585-ea8d-449d-a774-70641732fda3/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F1add8585-ea8d-449d-a774-70641732fda3%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 50"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/7ad88017-9ccc-4062-ab7c-ee6583e00bb5/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F7ad88017-9ccc-4062-ab7c-ee6583e00bb5%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 50"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/695a8595-1edd-42e1-9af8-6ca749976c76/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F695a8595-1edd-42e1-9af8-6ca749976c76%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 50"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/e7c96941-e433-4048-8d56-7279a597e513/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fe7c96941-e433-4048-8d56-7279a597e513%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 50"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/39588ab1-1bd5-4273-a8cb-6ca9983ec97b/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F39588ab1-1bd5-4273-a8cb-6ca9983ec97b%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 50"
         },
         {
           "position": 7,
-          "src": "https://e-c.storage.googleapis.com/res/c28906b1-7534-42cc-9639-78f92d655ecd/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fc28906b1-7534-42cc-9639-78f92d655ecd%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 50"
         }
       ],
@@ -1856,32 +1857,32 @@
       "images": [
         {
           "position": 1,
-          "src": "https://e-c.storage.googleapis.com/res/990897d1-9468-415a-bc33-2343519c94dc/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F990897d1-9468-415a-bc33-2343519c94dc%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 80"
         },
         {
           "position": 2,
-          "src": "https://e-c.storage.googleapis.com/res/9151063b-87f0-4803-ab76-d9c380d2ea87/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F9151063b-87f0-4803-ab76-d9c380d2ea87%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 80"
         },
         {
           "position": 3,
-          "src": "https://e-c.storage.googleapis.com/res/f6f8c65b-15a6-4aa3-854e-7d7ac101338d/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Ff6f8c65b-15a6-4aa3-854e-7d7ac101338d%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 80"
         },
         {
           "position": 4,
-          "src": "https://e-c.storage.googleapis.com/res/6afea470-6f50-48c6-82c5-a32c658f078e/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F6afea470-6f50-48c6-82c5-a32c658f078e%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 80"
         },
         {
           "position": 5,
-          "src": "https://e-c.storage.googleapis.com/res/f0e13c2b-fe0a-449e-a4c6-b000fec5cfad/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Ff0e13c2b-fe0a-449e-a4c6-b000fec5cfad%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 80"
         },
         {
           "position": 6,
-          "src": "https://e-c.storage.googleapis.com/res/955419e7-c6d3-4ab0-9538-12af7a535afd/original",
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F955419e7-c6d3-4ab0-9538-12af7a535afd%2Foriginal&output=jpg&q=90",
           "alt": "SMOKE CHAMBER 80"
         }
       ],

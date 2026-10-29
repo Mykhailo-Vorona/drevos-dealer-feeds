@@ -1,16 +1,17 @@
 {
   "feed": "DREVOS universal dealer feed",
-  "version": "1.1",
+  "version": "1.2",
   "market": "PL",
   "language": "pl",
   "currency": "PLN",
-  "generated_at": "2026-10-29T12:29:28.899Z",
+  "generated_at": "2026-10-29T15:04:39.371Z",
   "statuses": [
     "active",
     "deleted"
   ],
   "stock_policy": "made_to_order; stock quantity is intentionally omitted",
   "price_policy": "regular public retail prices before source-site discounts; promotional prices are intentionally excluded",
+  "image_policy": "source product images; Weblium images use an HTTPS compatibility proxy so dealer browsers and importers can open them",
   "products": [
     {
       "id": "shopify:15865010389326",
@@ -187,7 +188,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T10:49:13+01:00",
+      "source_updated_at": "2026-10-29T16:07:29+01:00",
       "deleted_at": null
     },
     {
@@ -379,7 +380,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T10:49:13+01:00",
+      "source_updated_at": "2026-10-29T16:07:29+01:00",
       "deleted_at": null
     },
     {
@@ -583,7 +584,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T10:49:13+01:00",
+      "source_updated_at": "2026-10-29T16:07:29+01:00",
       "deleted_at": null
     },
     {
@@ -770,7 +771,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T10:49:13+01:00",
+      "source_updated_at": "2026-10-29T16:07:29+01:00",
       "deleted_at": null
     },
     {
@@ -957,7 +958,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T10:49:13+01:00",
+      "source_updated_at": "2026-10-29T16:07:29+01:00",
       "deleted_at": null
     },
     {
@@ -1139,7 +1140,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T10:49:13+01:00",
+      "source_updated_at": "2026-10-29T16:07:29+01:00",
       "deleted_at": null
     },
     {
@@ -1321,7 +1322,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T10:49:13+01:00",
+      "source_updated_at": "2026-10-29T16:07:29+01:00",
       "deleted_at": null
     },
     {
@@ -1501,7 +1502,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T10:49:13+01:00",
+      "source_updated_at": "2026-10-29T16:07:29+01:00",
       "deleted_at": null
     },
     {
@@ -1705,7 +1706,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T10:49:13+01:00",
+      "source_updated_at": "2026-10-29T16:07:29+01:00",
       "deleted_at": null
     },
     {
@@ -1910,7 +1911,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T10:49:13+01:00",
+      "source_updated_at": "2026-10-29T16:07:29+01:00",
       "deleted_at": null
     },
     {
@@ -2108,7 +2109,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T10:49:13+01:00",
+      "source_updated_at": "2026-10-29T16:07:29+01:00",
       "deleted_at": null
     },
     {
@@ -2280,7 +2281,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T10:49:13+01:00",
+      "source_updated_at": "2026-10-29T16:07:29+01:00",
       "deleted_at": null
     }
   ]

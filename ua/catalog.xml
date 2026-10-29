@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<drevosDealerFeed version="1.0" market="UA" language="uk" currency="UAH">
-  <generatedAt>2026-10-29T11:16:16.043Z</generatedAt>
+<drevosDealerFeed version="1.1" market="UA" language="uk" currency="UAH">
+  <generatedAt>2026-10-29T12:29:28.899Z</generatedAt>
   <statuses><status>active</status><status>deleted</status></statuses>
   <products count="16">
     <product id="weblium:66c13d6d-1af9-4bf2-a032-ea7a1f4cd139" status="active">
@@ -116,8 +116,8 @@
           <sku>Сімейна2.0</sku>
           <ean></ean>
           <title>Default</title>
-          <price currency="UAH">23400.00</price>
-          <compareAtPrice>26000.00</compareAtPrice>
+          <price currency="UAH">26000.00</price>
+          <compareAtPrice></compareAtPrice>
           <options></options>
         </variant>
       </variants>
@@ -290,8 +290,8 @@
           <sku>КласікPRO</sku>
           <ean></ean>
           <title>Default</title>
-          <price currency="UAH">45200.00</price>
-          <compareAtPrice>50200.00</compareAtPrice>
+          <price currency="UAH">50200.00</price>
+          <compareAtPrice></compareAtPrice>
           <options></options>
         </variant>
       </variants>

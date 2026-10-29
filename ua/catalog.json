@@ -1,16 +1,16 @@
 {
   "feed": "DREVOS universal dealer feed",
-  "version": "1.0",
+  "version": "1.1",
   "market": "UA",
   "language": "uk",
   "currency": "UAH",
-  "generated_at": "2026-10-29T11:16:16.043Z",
+  "generated_at": "2026-10-29T12:29:28.899Z",
   "statuses": [
     "active",
     "deleted"
   ],
   "stock_policy": "made_to_order; stock quantity is intentionally omitted",
-  "price_policy": "public retail prices from the source market",
+  "price_policy": "regular public retail prices before source-site discounts; promotional prices are intentionally excluded",
   "products": [
     {
       "id": "weblium:66c13d6d-1af9-4bf2-a032-ea7a1f4cd139",
@@ -240,8 +240,8 @@
           "ean": null,
           "title": "Default",
           "options": {},
-          "price": "23400.00",
-          "compare_at_price": "26000.00"
+          "price": "26000.00",
+          "compare_at_price": null
         }
       ],
       "source_updated_at": null,
@@ -585,8 +585,8 @@
           "ean": null,
           "title": "Default",
           "options": {},
-          "price": "45200.00",
-          "compare_at_price": "50200.00"
+          "price": "50200.00",
+          "compare_at_price": null
         }
       ],
       "source_updated_at": null,

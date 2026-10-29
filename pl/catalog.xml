@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<drevosDealerFeed version="1.0" market="PL" language="pl" currency="PLN">
-  <generatedAt>2026-10-29T11:16:16.043Z</generatedAt>
+<drevosDealerFeed version="1.1" market="PL" language="pl" currency="PLN">
+  <generatedAt>2026-10-29T12:29:28.899Z</generatedAt>
   <statuses><status>active</status><status>deleted</status></statuses>
   <products count="12">
     <product id="shopify:15865010389326" status="active">
@@ -416,8 +416,8 @@ Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce.
           <sku>CLASSICPRO</sku>
           <ean></ean>
           <title>Classic PRO</title>
-          <price currency="PLN">6930.00</price>
-          <compareAtPrice>7700.00</compareAtPrice>
+          <price currency="PLN">7700.00</price>
+          <compareAtPrice></compareAtPrice>
           <options><option name="Model">Classic PRO</option></options>
         </variant>
       </variants>
@@ -757,8 +757,8 @@ Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce.
           <sku>FAMILY</sku>
           <ean></ean>
           <title>Family</title>
-          <price currency="PLN">3800.00</price>
-          <compareAtPrice>4225.00</compareAtPrice>
+          <price currency="PLN">4225.00</price>
+          <compareAtPrice></compareAtPrice>
           <options><option name="Model">Family</option></options>
         </variant>
       </variants>

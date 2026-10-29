@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<drevosDealerFeed version="1.0" market="DE" language="de" currency="EUR">
-  <generatedAt>2026-10-29T11:16:16.043Z</generatedAt>
+<drevosDealerFeed version="1.1" market="DE" language="de" currency="EUR">
+  <generatedAt>2026-10-29T12:29:28.899Z</generatedAt>
   <statuses><status>active</status><status>deleted</status></statuses>
   <products count="11">
     <product id="shopify:15865010389326" status="active">
@@ -295,8 +295,8 @@ Lieferung und Support
           <sku>CLASSICPRO</sku>
           <ean></ean>
           <title>Classic PRO</title>
-          <price currency="EUR">1890.00</price>
-          <compareAtPrice>2100.00</compareAtPrice>
+          <price currency="EUR">2100.00</price>
+          <compareAtPrice></compareAtPrice>
           <options><option name="Model">Classic PRO</option></options>
         </variant>
       </variants>
@@ -368,8 +368,8 @@ Lieferung und Support
           <sku>FAMILY</sku>
           <ean></ean>
           <title>Family</title>
-          <price currency="EUR">1100.00</price>
-          <compareAtPrice>1220.00</compareAtPrice>
+          <price currency="EUR">1220.00</price>
+          <compareAtPrice></compareAtPrice>
           <options><option name="Model">Family</option></options>
         </variant>
       </variants>

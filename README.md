@@ -14,6 +14,6 @@ Feeds are generated daily at 03:20 UTC from the public DREVOS storefronts. GitHu
 
 Prices are public retail prices in each market's currency. Products are made to order; stock quantities are intentionally omitted. Removed products remain marked `deleted`. Review changes before importing into a production store.
 
-Only generated catalog files and the Pages deployment workflow are stored here. The generator, validation reports and Shopify theme source are maintained in a separate private repository. No credentials are required to download the feeds.
+Only generated catalog files and this README are stored here. The generator, validation reports and Shopify theme source are maintained in a separate private repository. No credentials are required to download the feeds.
 
 GitHub Pages publishes generated files from the root of `main` with its built-in deployment pipeline. A dedicated deploy key allows the private generator to update this repository without granting access to the theme repository.

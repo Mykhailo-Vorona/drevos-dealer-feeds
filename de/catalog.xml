@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <drevosDealerFeed version="1.2" market="DE" language="de" currency="EUR">
-  <generatedAt>2026-10-29T15:04:39.371Z</generatedAt>
+  <generatedAt>2026-10-30T10:13:22.525Z</generatedAt>
   <statuses><status>active</status><status>deleted</status></statuses>
   <products count="11">
-    <product id="shopify:15865010389326" status="active">
-      <sourceId>15865010389326</sourceId>
+    <product id="shopify:15864859492686" status="active">
+      <sourceId>15864859492686</sourceId>
       <platform>Shopify</platform>
-      <modelKey>big-2</modelKey>
-      <handle>big-2-0</handle>
-      <url>https://drevos.de/products/big-2-0</url>
-      <title>Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L</title>
+      <modelKey>mini-2</modelKey>
+      <handle>mini-2-0</handle>
+      <url>https://drevos.de/products/mini-2-0</url>
+      <title>Automatischer Räucherofen DREVOS Mini 3-in-1</title>
       <vendor>DREVOS</vendor>
       <productType>Elektrischer Räucherofen 3-in-1</productType>
-      <descriptionHtml>&lt;h2&gt;Big DREVOS&lt;/h2&gt;&lt;p&gt;Großes Modell für umfangreiche Chargen, Agrotourismus oder kleine Verkaufsproduktionen.&lt;/p&gt;&lt;h3&gt;Technische Kerndaten&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Kammervolumen: 484 L&lt;/li&gt;&lt;li&gt;Beladung pro Durchgang: 50–60 kg&lt;/li&gt;&lt;li&gt;Maximale Leistungsaufnahme des gesamten Geräts: 4,3 kW&lt;/li&gt;&lt;li&gt;Stromversorgung: 220–240 V~, 50 Hz, einphasig&lt;/li&gt;&lt;li&gt;Material: Holzkorpus mit Edelstahl-Innenfläche&lt;/li&gt;&lt;li&gt;Rauchführung: Standard-Rauchgenerator, bis zu 8 Stunden&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Funktionen&lt;/h3&gt;&lt;p&gt;Heißräuchern, Kalträuchern und Trocknen.&lt;/p&gt;&lt;h3&gt;Lieferung und Support&lt;/h3&gt;&lt;p&gt;24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.&lt;/p&gt;</descriptionHtml>
-      <descriptionText>Big DREVOS
-Großes Modell für umfangreiche Chargen, Agrotourismus oder kleine Verkaufsproduktionen.
+      <descriptionHtml>&lt;h2&gt;Mini DREVOS&lt;/h2&gt;&lt;p&gt;Kompaktes Einstiegsmodell für kleinere Chargen zu Hause oder im Garten.&lt;/p&gt;&lt;h3&gt;Technische Kerndaten&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Kammervolumen: 65 L&lt;/li&gt;&lt;li&gt;Beladung pro Durchgang: 5–7 kg&lt;/li&gt;&lt;li&gt;Maximale Leistungsaufnahme des gesamten Geräts: 2,3 kW&lt;/li&gt;&lt;li&gt;Stromversorgung: 220–240 V~, 50 Hz, einphasig&lt;/li&gt;&lt;li&gt;Material: Holzkorpus mit Edelstahl-Innenfläche&lt;/li&gt;&lt;li&gt;Rauchführung: Standard-Rauchgenerator, bis zu 8 Stunden&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Funktionen&lt;/h3&gt;&lt;p&gt;Heißräuchern, Kalträuchern und Trocknen.&lt;/p&gt;&lt;h3&gt;Lieferung und Support&lt;/h3&gt;&lt;p&gt;24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.&lt;/p&gt;</descriptionHtml>
+      <descriptionText>Mini DREVOS
+Kompaktes Einstiegsmodell für kleinere Chargen zu Hause oder im Garten.
 Technische Kerndaten
-Kammervolumen: 484 L
-Beladung pro Durchgang: 50–60 kg
-Maximale Leistungsaufnahme des gesamten Geräts: 4,3 kW
+Kammervolumen: 65 L
+Beladung pro Durchgang: 5–7 kg
+Maximale Leistungsaufnahme des gesamten Geräts: 2,3 kW
 Stromversorgung: 220–240 V~, 50 Hz, einphasig
 Material: Holzkorpus mit Edelstahl-Innenfläche
 Rauchführung: Standard-Rauchgenerator, bis zu 8 Stunden
@@ -27,51 +27,52 @@ Heißräuchern, Kalträuchern und Trocknen.
 Lieferung und Support
 24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</descriptionText>
       <categories><category>standard</category></categories>
-      <tags><tag>_badge_Duża_pojemność</tag><tag>Big</tag><tag>Polska</tag><tag>Seria: Standard</tag><tag>suszenie</tag><tag>wędzarnia drewniana</tag><tag>wędzenie na gorąco</tag><tag>wędzenie na zimno</tag></tags>
+      <tags><tag>_badge_Kompaktowy</tag><tag>Mini</tag><tag>Polska</tag><tag>Seria: Standard</tag><tag>suszenie</tag><tag>wędzarnia drewniana</tag><tag>wędzenie na gorąco</tag><tag>wędzenie na zimno</tag></tags>
       <attributes>
-        <attribute name="Fassungsvermögen der Kammer">484 l</attribute>
-        <attribute name="Einmalige Beladung">50–60 kg</attribute>
-        <attribute name="Außenmaße (B×T×H)">945 × 970 × 1700 mm</attribute>
-        <attribute name="Innenmaße (B×T×H)">635 × 610 × 1250 mm</attribute>
-        <attribute name="Maximale Leistungsaufnahme">4,3 kW</attribute>
+        <attribute name="Fassungsvermögen der Kammer">67 l</attribute>
+        <attribute name="Einmalige Beladung">5–7 kg</attribute>
+        <attribute name="Maximale Leistungsaufnahme">2,3 kW</attribute>
         <attribute name="Temperaturbereich">von +15 bis +100 °C</attribute>
         <attribute name="Stromversorgung">220–240 V~, 50 Hz, einphasig</attribute>
         <attribute name="Material des Gehäuses">Lindenholz 16 mm + Beschichtung auf Wasserbasis</attribute>
         <attribute name="Material der Kammer">Edelstahl 0,5 mm</attribute>
         <attribute name="Räuchergenerator">Standard, ohne Kühler, Behälter 2 l, bis zu 8 Stunden</attribute>
-        <attribute name="Funktionen">Trocknen, Heiß- und Kalträuchern</attribute>
-        <attribute name="Sicherheitszeichen">CE</attribute>
+        <attribute name="Betriebsarten">Heiß-/Kalträuchern + Trocknen</attribute>
+        <attribute name="Außenmaße (B×T×H)">670 × 655 × 1065 mm</attribute>
+        <attribute name="Innenmaße (B×T×H)">325 × 315 × 660 mm</attribute>
         <attribute name="Wand- / Isolierstärke">55 mm</attribute>
         <attribute name="Garantie">1 Jahr</attribute>
-        <attribute name="Ebenen für Einlegeböden">4 Ebenen</attribute>
+        <attribute name="Ebenen für Einlegeböden">1 Ebene</attribute>
       </attributes>
       <kit>
-        <item name="PID-Regler REX C100" quantity="1 Stk."/>
-        <item name="Räuchergenerator (2-l-Kolben) + Konvektion" quantity="1 Stk."/>
-        <item name="Stahlhaken + Schnur" quantity="25 Stk."/>
-        <item name="Querstangen" quantity="12 Stk."/>
-        <item name="Buchenholz für den Anfang" quantity="3 Pakete"/>
-        <item name="Anleitung (PL) + 3 Rezepte" quantity="1 Stk."/>
+        <item name="Standard-Räuchergenerator" quantity="1 Stk."/>
+        <item name="Haken" quantity="10 Stk."/>
+        <item name="Schornstein" quantity="1 Stk."/>
+        <item name="Querstangen" quantity="3 Stk."/>
+        <item name="Produktthermometer" quantity="1 Stk."/>
+        <item name="Anleitung" quantity="1 Stk."/>
+        <item name="Sammlung von Rezepten und Tipps" quantity="1 Stk."/>
+        <item name="Räucherchips" quantity="3 Pakete"/>
       </kit>
       <images>
-        <image position="1"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-02-panel.jpg?v=1780758153</url><alt>Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L</alt></image>
-        <image position="2"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-01-front.jpg?v=1780758152</url><alt>Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L</alt></image>
-        <image position="3"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-03-interior.jpg?v=1780758152</url><alt>Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L</alt></image>
-        <image position="4"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-04-side.jpg?v=1780758151</url><alt>Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L</alt></image>
-        <image position="5"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-05-detail.jpg?v=1780758152</url><alt>Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L</alt></image>
-        <image position="6"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-06-close.jpg?v=1780758152</url><alt>Big DREVOS – elektrischer Räucherofen 3-in-1, 484 L</alt></image>
+        <image position="1"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-02-panel.jpg?v=1780756831</url><alt>Automatischer Räucherofen DREVOS Mini 3-in-1</alt></image>
+        <image position="2"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-01-front.jpg?v=1780756831</url><alt>Automatischer Räucherofen DREVOS Mini 3-in-1</alt></image>
+        <image position="3"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-03-interior.jpg?v=1780756831</url><alt>Automatischer Räucherofen DREVOS Mini 3-in-1</alt></image>
+        <image position="4"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-04-side.jpg?v=1780756831</url><alt>Automatischer Räucherofen DREVOS Mini 3-in-1</alt></image>
+        <image position="5"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-05-detail.jpg?v=1780756831</url><alt>Automatischer Räucherofen DREVOS Mini 3-in-1</alt></image>
+        <image position="6"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-06-close.jpg?v=1780756831</url><alt>Automatischer Räucherofen DREVOS Mini 3-in-1</alt></image>
       </images>
       <options>
-        <option name="Model"><value>Big</value></option>
+        <option name="Model"><value>Mini</value></option>
       </options>
       <variants>
-        <variant id="59820667306318">
-          <sku>BIG</sku>
+        <variant id="59819977015630">
+          <sku>MINI</sku>
           <ean></ean>
-          <title>Big</title>
-          <price currency="EUR">1700.00</price>
+          <title>Mini</title>
+          <price currency="EUR">880.00</price>
           <compareAtPrice></compareAtPrice>
-          <options><option name="Model">Big</option></options>
+          <options><option name="Model">Mini</option></options>
         </variant>
       </variants>
     </product>
@@ -158,7 +159,7 @@ Lieferung und Support
       <url>https://drevos.de/products/classic-2-0</url>
       <title>Classic DREVOS – elektrischer Räucherofen 3-in-1, 225 L</title>
       <vendor>DREVOS</vendor>
-      <productType>Elektrischer Räucherofen 3-in-1</productType>
+      <productType>Elektrischer Räucherofen Classic 225 L | DREVOS</productType>
       <descriptionHtml>&lt;h2&gt;Classic DREVOS&lt;/h2&gt;&lt;p&gt;Modell für größere, regelmäßige Chargen zu Hause oder in einer kleinen Manufaktur.&lt;/p&gt;&lt;h3&gt;Technische Kerndaten&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Kammervolumen: 225 L&lt;/li&gt;&lt;li&gt;Beladung pro Durchgang: 20–25 kg&lt;/li&gt;&lt;li&gt;Maximale Leistungsaufnahme des gesamten Geräts: 2,3 kW&lt;/li&gt;&lt;li&gt;Stromversorgung: 220–240 V~, 50 Hz, einphasig&lt;/li&gt;&lt;li&gt;Material: Holzkorpus mit Edelstahl-Innenfläche&lt;/li&gt;&lt;li&gt;Rauchführung: Standard-Rauchgenerator, bis zu 8 Stunden&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Funktionen&lt;/h3&gt;&lt;p&gt;Heißräuchern, Kalträuchern und Trocknen.&lt;/p&gt;&lt;h3&gt;Lieferung und Support&lt;/h3&gt;&lt;p&gt;24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.&lt;/p&gt;</descriptionHtml>
       <descriptionText>Classic DREVOS
 Modell für größere, regelmäßige Chargen zu Hause oder in einer kleinen Manufaktur.
@@ -448,22 +449,22 @@ Lieferung und Support
         </variant>
       </variants>
     </product>
-    <product id="shopify:15864859492686" status="active">
-      <sourceId>15864859492686</sourceId>
+    <product id="shopify:15865010389326" status="active">
+      <sourceId>15865010389326</sourceId>
       <platform>Shopify</platform>
-      <modelKey>mini-2</modelKey>
-      <handle>mini-2-0</handle>
-      <url>https://drevos.de/products/mini-2-0</url>
-      <title>Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L</title>
+      <modelKey>big-2</modelKey>
+      <handle>big-2-0</handle>
+      <url>https://drevos.de/products/big-2-0</url>
+      <title>Großer elektrischer Räucherofen Big 484 L | DREVOS</title>
       <vendor>DREVOS</vendor>
       <productType>Elektrischer Räucherofen 3-in-1</productType>
-      <descriptionHtml>&lt;h2&gt;Mini DREVOS&lt;/h2&gt;&lt;p&gt;Kompaktes Einstiegsmodell für kleinere Chargen zu Hause oder im Garten.&lt;/p&gt;&lt;h3&gt;Technische Kerndaten&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Kammervolumen: 65 L&lt;/li&gt;&lt;li&gt;Beladung pro Durchgang: 5–7 kg&lt;/li&gt;&lt;li&gt;Maximale Leistungsaufnahme des gesamten Geräts: 2,3 kW&lt;/li&gt;&lt;li&gt;Stromversorgung: 220–240 V~, 50 Hz, einphasig&lt;/li&gt;&lt;li&gt;Material: Holzkorpus mit Edelstahl-Innenfläche&lt;/li&gt;&lt;li&gt;Rauchführung: Standard-Rauchgenerator, bis zu 8 Stunden&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Funktionen&lt;/h3&gt;&lt;p&gt;Heißräuchern, Kalträuchern und Trocknen.&lt;/p&gt;&lt;h3&gt;Lieferung und Support&lt;/h3&gt;&lt;p&gt;24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.&lt;/p&gt;</descriptionHtml>
-      <descriptionText>Mini DREVOS
-Kompaktes Einstiegsmodell für kleinere Chargen zu Hause oder im Garten.
+      <descriptionHtml>&lt;h2&gt;Big DREVOS&lt;/h2&gt;&lt;p&gt;Großes Modell für umfangreiche Chargen, Agrotourismus oder kleine Verkaufsproduktionen.&lt;/p&gt;&lt;h3&gt;Technische Kerndaten&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Kammervolumen: 484 L&lt;/li&gt;&lt;li&gt;Beladung pro Durchgang: 50–60 kg&lt;/li&gt;&lt;li&gt;Maximale Leistungsaufnahme des gesamten Geräts: 4,3 kW&lt;/li&gt;&lt;li&gt;Stromversorgung: 220–240 V~, 50 Hz, einphasig&lt;/li&gt;&lt;li&gt;Material: Holzkorpus mit Edelstahl-Innenfläche&lt;/li&gt;&lt;li&gt;Rauchführung: Standard-Rauchgenerator, bis zu 8 Stunden&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Funktionen&lt;/h3&gt;&lt;p&gt;Heißräuchern, Kalträuchern und Trocknen.&lt;/p&gt;&lt;h3&gt;Lieferung und Support&lt;/h3&gt;&lt;p&gt;24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.&lt;/p&gt;</descriptionHtml>
+      <descriptionText>Big DREVOS
+Großes Modell für umfangreiche Chargen, Agrotourismus oder kleine Verkaufsproduktionen.
 Technische Kerndaten
-Kammervolumen: 65 L
-Beladung pro Durchgang: 5–7 kg
-Maximale Leistungsaufnahme des gesamten Geräts: 2,3 kW
+Kammervolumen: 484 L
+Beladung pro Durchgang: 50–60 kg
+Maximale Leistungsaufnahme des gesamten Geräts: 4,3 kW
 Stromversorgung: 220–240 V~, 50 Hz, einphasig
 Material: Holzkorpus mit Edelstahl-Innenfläche
 Rauchführung: Standard-Rauchgenerator, bis zu 8 Stunden
@@ -472,52 +473,51 @@ Heißräuchern, Kalträuchern und Trocknen.
 Lieferung und Support
 24 Monate Garantie und Hersteller-Support. Vorbereitung und Transport richten sich nach Modell, Verfügbarkeit und Zielland; den konkreten Termin bestätigen wir für die Bestellung.</descriptionText>
       <categories><category>standard</category></categories>
-      <tags><tag>_badge_Kompaktowy</tag><tag>Mini</tag><tag>Polska</tag><tag>Seria: Standard</tag><tag>suszenie</tag><tag>wędzarnia drewniana</tag><tag>wędzenie na gorąco</tag><tag>wędzenie na zimno</tag></tags>
+      <tags><tag>_badge_Duża_pojemność</tag><tag>Big</tag><tag>Polska</tag><tag>Seria: Standard</tag><tag>suszenie</tag><tag>wędzarnia drewniana</tag><tag>wędzenie na gorąco</tag><tag>wędzenie na zimno</tag></tags>
       <attributes>
-        <attribute name="Fassungsvermögen der Kammer">67 l</attribute>
-        <attribute name="Einmalige Beladung">5–7 kg</attribute>
-        <attribute name="Maximale Leistungsaufnahme">2,3 kW</attribute>
+        <attribute name="Fassungsvermögen der Kammer">484 l</attribute>
+        <attribute name="Einmalige Beladung">50–60 kg</attribute>
+        <attribute name="Außenmaße (B×T×H)">945 × 970 × 1700 mm</attribute>
+        <attribute name="Innenmaße (B×T×H)">635 × 610 × 1250 mm</attribute>
+        <attribute name="Maximale Leistungsaufnahme">4,3 kW</attribute>
         <attribute name="Temperaturbereich">von +15 bis +100 °C</attribute>
         <attribute name="Stromversorgung">220–240 V~, 50 Hz, einphasig</attribute>
         <attribute name="Material des Gehäuses">Lindenholz 16 mm + Beschichtung auf Wasserbasis</attribute>
         <attribute name="Material der Kammer">Edelstahl 0,5 mm</attribute>
         <attribute name="Räuchergenerator">Standard, ohne Kühler, Behälter 2 l, bis zu 8 Stunden</attribute>
-        <attribute name="Betriebsarten">Heiß-/Kalträuchern + Trocknen</attribute>
-        <attribute name="Außenmaße (B×T×H)">670 × 655 × 1065 mm</attribute>
-        <attribute name="Innenmaße (B×T×H)">325 × 315 × 660 mm</attribute>
+        <attribute name="Funktionen">Trocknen, Heiß- und Kalträuchern</attribute>
+        <attribute name="Sicherheitszeichen">CE</attribute>
         <attribute name="Wand- / Isolierstärke">55 mm</attribute>
         <attribute name="Garantie">1 Jahr</attribute>
-        <attribute name="Ebenen für Einlegeböden">1 Ebene</attribute>
+        <attribute name="Ebenen für Einlegeböden">4 Ebenen</attribute>
       </attributes>
       <kit>
-        <item name="Standard-Räuchergenerator" quantity="1 Stk."/>
-        <item name="Haken" quantity="10 Stk."/>
-        <item name="Schornstein" quantity="1 Stk."/>
-        <item name="Querstangen" quantity="3 Stk."/>
-        <item name="Produktthermometer" quantity="1 Stk."/>
-        <item name="Anleitung" quantity="1 Stk."/>
-        <item name="Sammlung von Rezepten und Tipps" quantity="1 Stk."/>
-        <item name="Räucherchips" quantity="3 Pakete"/>
+        <item name="PID-Regler REX C100" quantity="1 Stk."/>
+        <item name="Räuchergenerator (2-l-Kolben) + Konvektion" quantity="1 Stk."/>
+        <item name="Stahlhaken + Schnur" quantity="25 Stk."/>
+        <item name="Querstangen" quantity="12 Stk."/>
+        <item name="Buchenholz für den Anfang" quantity="3 Pakete"/>
+        <item name="Anleitung (PL) + 3 Rezepte" quantity="1 Stk."/>
       </kit>
       <images>
-        <image position="1"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-02-panel.jpg?v=1780756831</url><alt>Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L</alt></image>
-        <image position="2"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-01-front.jpg?v=1780756831</url><alt>Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L</alt></image>
-        <image position="3"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-03-interior.jpg?v=1780756831</url><alt>Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L</alt></image>
-        <image position="4"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-04-side.jpg?v=1780756831</url><alt>Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L</alt></image>
-        <image position="5"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-05-detail.jpg?v=1780756831</url><alt>Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L</alt></image>
-        <image position="6"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/mini-06-close.jpg?v=1780756831</url><alt>Mini DREVOS – elektrischer Räucherofen 3-in-1, 65 L</alt></image>
+        <image position="1"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-02-panel.jpg?v=1780758153</url><alt>Großer elektrischer Räucherofen Big 484 L | DREVOS</alt></image>
+        <image position="2"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-01-front.jpg?v=1780758152</url><alt>Großer elektrischer Räucherofen Big 484 L | DREVOS</alt></image>
+        <image position="3"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-03-interior.jpg?v=1780758152</url><alt>Großer elektrischer Räucherofen Big 484 L | DREVOS</alt></image>
+        <image position="4"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-04-side.jpg?v=1780758151</url><alt>Großer elektrischer Räucherofen Big 484 L | DREVOS</alt></image>
+        <image position="5"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-05-detail.jpg?v=1780758152</url><alt>Großer elektrischer Räucherofen Big 484 L | DREVOS</alt></image>
+        <image position="6"><url>https://cdn.shopify.com/s/files/1/1039/9478/6126/files/big-06-close.jpg?v=1780758152</url><alt>Großer elektrischer Räucherofen Big 484 L | DREVOS</alt></image>
       </images>
       <options>
-        <option name="Model"><value>Mini</value></option>
+        <option name="Model"><value>Big</value></option>
       </options>
       <variants>
-        <variant id="59819977015630">
-          <sku>MINI</sku>
+        <variant id="59820667306318">
+          <sku>BIG</sku>
           <ean></ean>
-          <title>Mini</title>
-          <price currency="EUR">880.00</price>
+          <title>Big</title>
+          <price currency="EUR">1700.00</price>
           <compareAtPrice></compareAtPrice>
-          <options><option name="Model">Mini</option></options>
+          <options><option name="Model">Big</option></options>
         </variant>
       </variants>
     </product>

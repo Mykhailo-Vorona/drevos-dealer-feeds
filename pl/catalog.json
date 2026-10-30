@@ -4,7 +4,7 @@
   "market": "PL",
   "language": "pl",
   "currency": "PLN",
-  "generated_at": "2026-10-29T15:04:39.371Z",
+  "generated_at": "2026-10-30T10:13:22.525Z",
   "statuses": [
     "active",
     "deleted"
@@ -188,7 +188,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T16:07:29+01:00",
+      "source_updated_at": "2026-10-30T11:15:49+01:00",
       "deleted_at": null
     },
     {
@@ -380,7 +380,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T16:07:29+01:00",
+      "source_updated_at": "2026-10-30T11:15:50+01:00",
       "deleted_at": null
     },
     {
@@ -584,7 +584,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T16:07:29+01:00",
+      "source_updated_at": "2026-10-30T11:15:49+01:00",
       "deleted_at": null
     },
     {
@@ -771,7 +771,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T16:07:29+01:00",
+      "source_updated_at": "2026-10-30T11:15:50+01:00",
       "deleted_at": null
     },
     {
@@ -958,7 +958,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T16:07:29+01:00",
+      "source_updated_at": "2026-10-30T11:15:50+01:00",
       "deleted_at": null
     },
     {
@@ -1140,7 +1140,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T16:07:29+01:00",
+      "source_updated_at": "2026-10-30T11:15:49+01:00",
       "deleted_at": null
     },
     {
@@ -1322,7 +1322,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T16:07:29+01:00",
+      "source_updated_at": "2026-10-30T11:15:49+01:00",
       "deleted_at": null
     },
     {
@@ -1502,7 +1502,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T16:07:29+01:00",
+      "source_updated_at": "2026-10-30T11:15:50+01:00",
       "deleted_at": null
     },
     {
@@ -1706,7 +1706,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T16:07:29+01:00",
+      "source_updated_at": "2026-10-30T11:15:50+01:00",
       "deleted_at": null
     },
     {
@@ -1911,7 +1911,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T16:07:29+01:00",
+      "source_updated_at": "2026-10-30T11:15:50+01:00",
       "deleted_at": null
     },
     {
@@ -2109,7 +2109,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T16:07:29+01:00",
+      "source_updated_at": "2026-10-30T11:15:50+01:00",
       "deleted_at": null
     },
     {
@@ -2281,7 +2281,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-10-29T16:07:29+01:00",
+      "source_updated_at": "2026-10-30T11:15:49+01:00",
       "deleted_at": null
     }
   ]

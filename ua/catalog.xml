@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <drevosDealerFeed version="1.2" market="UA" language="uk" currency="UAH">
-  <generatedAt>2026-10-30T10:13:22.525Z</generatedAt>
+  <generatedAt>2026-10-31T09:48:07.700Z</generatedAt>
   <statuses><status>active</status><status>deleted</status></statuses>
   <products count="16">
     <product id="weblium:66c13d6d-1af9-4bf2-a032-ea7a1f4cd139" status="active">

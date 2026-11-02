@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <drevosDealerFeed version="1.2" market="PL" language="pl" currency="PLN">
-  <generatedAt>2026-11-01T10:38:31.182Z</generatedAt>
+  <generatedAt>2026-11-02T11:25:45.937Z</generatedAt>
   <statuses><status>active</status><status>deleted</status></statuses>
   <products count="12">
     <product id="shopify:15865010389326" status="active">
@@ -757,7 +757,7 @@ Zakup z fakturą VAT, 24 miesiące gwarancji, polska obsługa i serwis w Polsce.
           <sku>FAMILY</sku>
           <ean></ean>
           <title>Family</title>
-          <price currency="PLN">4225.00</price>
+          <price currency="PLN">3800.00</price>
           <compareAtPrice></compareAtPrice>
           <options><option name="Model">Family</option></options>
         </variant>

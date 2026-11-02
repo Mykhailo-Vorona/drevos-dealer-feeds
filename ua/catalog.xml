@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <drevosDealerFeed version="1.2" market="UA" language="uk" currency="UAH">
-  <generatedAt>2026-11-01T10:38:31.182Z</generatedAt>
+  <generatedAt>2026-11-02T11:25:45.937Z</generatedAt>
   <statuses><status>active</status><status>deleted</status></statuses>
   <products count="16">
     <product id="weblium:66c13d6d-1af9-4bf2-a032-ea7a1f4cd139" status="active">
@@ -116,7 +116,7 @@
           <sku>Сімейна2.0</sku>
           <ean></ean>
           <title>Default</title>
-          <price currency="UAH">26000.00</price>
+          <price currency="UAH">23400.00</price>
           <compareAtPrice></compareAtPrice>
           <options></options>
         </variant>

@@ -4,7 +4,7 @@
   "market": "UA",
   "language": "uk",
   "currency": "UAH",
-  "generated_at": "2026-11-01T10:38:31.182Z",
+  "generated_at": "2026-11-02T11:25:45.937Z",
   "statuses": [
     "active",
     "deleted"
@@ -241,7 +241,7 @@
           "ean": null,
           "title": "Default",
           "options": {},
-          "price": "26000.00",
+          "price": "23400.00",
           "compare_at_price": null
         }
       ],

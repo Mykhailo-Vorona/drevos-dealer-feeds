@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <drevosDealerFeed version="1.2" market="DE" language="de" currency="EUR">
-  <generatedAt>2026-11-08T10:34:26.172Z</generatedAt>
+  <generatedAt>2026-11-09T11:48:52.398Z</generatedAt>
   <statuses><status>active</status><status>deleted</status></statuses>
   <products count="11">
     <product id="shopify:15864859492686" status="active">

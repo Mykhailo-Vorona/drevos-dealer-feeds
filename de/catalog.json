@@ -4,7 +4,7 @@
   "market": "DE",
   "language": "de",
   "currency": "EUR",
-  "generated_at": "2026-11-11T11:12:04.451Z",
+  "generated_at": "2026-11-12T11:29:31.033Z",
   "statuses": [
     "active",
     "deleted"
@@ -192,7 +192,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-11-11T12:14:58+01:00",
+      "source_updated_at": "2026-11-12T12:33:45+01:00",
       "deleted_at": null
     },
     {
@@ -384,7 +384,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-11-11T12:14:58+01:00",
+      "source_updated_at": "2026-11-12T12:33:46+01:00",
       "deleted_at": null
     },
     {
@@ -588,7 +588,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-11-11T12:14:58+01:00",
+      "source_updated_at": "2026-11-12T12:33:45+01:00",
       "deleted_at": null
     },
     {
@@ -775,7 +775,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-11-11T12:14:58+01:00",
+      "source_updated_at": "2026-11-12T12:33:46+01:00",
       "deleted_at": null
     },
     {
@@ -957,7 +957,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-11-11T12:14:58+01:00",
+      "source_updated_at": "2026-11-12T12:33:45+01:00",
       "deleted_at": null
     },
     {
@@ -1144,7 +1144,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-11-11T12:14:58+01:00",
+      "source_updated_at": "2026-11-12T12:33:46+01:00",
       "deleted_at": null
     },
     {
@@ -1322,7 +1322,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-11-11T12:14:58+01:00",
+      "source_updated_at": "2026-11-12T12:33:45+01:00",
       "deleted_at": null
     },
     {
@@ -1526,7 +1526,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-11-11T12:14:58+01:00",
+      "source_updated_at": "2026-11-12T12:33:46+01:00",
       "deleted_at": null
     },
     {
@@ -1724,7 +1724,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-11-11T12:14:58+01:00",
+      "source_updated_at": "2026-11-12T12:33:46+01:00",
       "deleted_at": null
     },
     {
@@ -1929,7 +1929,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-11-11T12:14:58+01:00",
+      "source_updated_at": "2026-11-12T12:33:46+01:00",
       "deleted_at": null
     },
     {
@@ -2101,7 +2101,7 @@
           "compare_at_price": null
         }
       ],
-      "source_updated_at": "2026-11-11T12:14:58+01:00",
+      "source_updated_at": "2026-11-12T12:33:45+01:00",
       "deleted_at": null
     }
   ]

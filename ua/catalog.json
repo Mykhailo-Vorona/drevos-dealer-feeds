@@ -4,7 +4,7 @@
   "market": "UA",
   "language": "uk",
   "currency": "UAH",
-  "generated_at": "2026-11-20T01:17:53.892Z",
+  "generated_at": "2026-11-20T08:13:13.587Z",
   "statuses": [
     "active",
     "deleted"
@@ -1511,7 +1511,7 @@
       "model_key": "smoke-chamber-25",
       "handle": "smoke-chamber-25",
       "url": "https://drevos.ua/shop/smoke-chamber-25",
-      "title": "SMOKE CHAMBER 25",
+      "title": "SMOKE CHAMBER 25 без вікна",
       "vendor": "DREVOS",
       "product_type": "Коптильня",
       "categories": [
@@ -1571,8 +1571,7 @@
         {
           "name": "Вікно",
           "values": [
-            "Без вікна",
-            "З вікном"
+            "Без вікна"
           ]
         }
       ],
@@ -1580,37 +1579,37 @@
         {
           "position": 1,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fe0e1a43e-47fb-4bdc-b705-705201768397%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 25"
+          "alt": "SMOKE CHAMBER 25 без вікна"
         },
         {
           "position": 2,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F8d3f1461-07cc-455f-ab47-966ce4043c84%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 25"
+          "alt": "SMOKE CHAMBER 25 без вікна"
         },
         {
           "position": 3,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F0633ee8e-1d69-48f4-98ae-86e4cb676b81%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 25"
+          "alt": "SMOKE CHAMBER 25 без вікна"
         },
         {
           "position": 4,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F8458bad3-eb3f-4eaa-8d28-32bc4826dd44%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 25"
+          "alt": "SMOKE CHAMBER 25 без вікна"
         },
         {
           "position": 5,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F179a0134-adf5-4f24-9c8f-b78dd264c414%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 25"
+          "alt": "SMOKE CHAMBER 25 без вікна"
         },
         {
           "position": 6,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F7c01dd10-201c-4c6f-8e44-398840fbcda9%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 25"
+          "alt": "SMOKE CHAMBER 25 без вікна"
         },
         {
           "position": 7,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F86d5b0e1-3981-4b2d-9171-9111eaed7098%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 25"
+          "alt": "SMOKE CHAMBER 25 без вікна"
         }
       ],
       "variants": [
@@ -1624,9 +1623,127 @@
           },
           "price": "48400.00",
           "compare_at_price": null
+        }
+      ],
+      "source_updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": "weblium:ba7debfa-1113-4f1c-ab36-1df72dcd7479",
+      "source_id": "ba7debfa-1113-4f1c-ab36-1df72dcd7479",
+      "market": "UA",
+      "language": "uk",
+      "currency": "UAH",
+      "platform": "Weblium",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "smoke-chamber-25",
+      "handle": "smoke-chamber-25-z-viknom",
+      "url": "https://drevos.ua/shop/smoke-chamber-25-z-viknom",
+      "title": "SMOKE CHAMBER 25 з вікном",
+      "vendor": "DREVOS",
+      "product_type": "Коптильня",
+      "categories": [
+        "Коптильні з нержавіючої сталі",
+        "Серія Smoke Chamber 4 в 1"
+      ],
+      "tags": [],
+      "description_html": "<span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">Smoke Chamber 25 — це сучасна коптильня, яка поєднує функції холодного та гарячого копчення, сушіння, в’ялення, дегідрації та обсмажування. Завдяки широкому функціоналу, вона підходить як для професіоналів, так і для домашніх майстрів копчення, які прагнуть отримати стабільно високий результат.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">Камера повністю виготовлена з нержавіючої сталі, що забезпечує міцність, гігієнічність і довговічність.</span></span><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">У конструкцію входить вбудований крапельний парогенератор, димогенератор з конденсатозбірником, жирозбірник, а також ПІД-контроль температури, який дозволяє точно налаштовувати процес для кожного виду продукту.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">Завдяки конвекційному ТЕНу та вентилятору, дим і температура рівномірно розподіляються всередині камери, гарантуючи стабільне копчення й бездоганний смак.</span></span><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">Smoke Chamber 25 — це професійна якість у компактному форматі, створена для тих, хто не погоджується на компроміси.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">🔸 Переваги моделі:</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">1. Універсальність - гаряче та холодне копчення, дегідрація, в’ялення, варіння й обсмажування.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">2. Міцність і довговічність - корпус із нержавіючої сталі, стійкий до корозії.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">3. Ефективне копчення - конвекційний ТЕН і вентилятор для рівномірного прогріву.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">4. Точний контроль - ПІД-регулювання для автоматичного керування температурою.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">5. Зручність і гігієна - вбудований димогенератор з конденсатозбірником, жирозбірник і крапельний парогенератор.</span></span>",
+      "description_text": "Smoke Chamber 25 — це сучасна коптильня, яка поєднує функції холодного та гарячого копчення, сушіння, в’ялення, дегідрації та обсмажування. Завдяки широкому функціоналу, вона підходить як для професіоналів, так і для домашніх майстрів копчення, які прагнуть отримати стабільно високий результат.\nКамера повністю виготовлена з нержавіючої сталі, що забезпечує міцність, гігієнічність і довговічність.У конструкцію входить вбудований крапельний парогенератор, димогенератор з конденсатозбірником, жирозбірник, а також ПІД-контроль температури, який дозволяє точно налаштовувати процес для кожного виду продукту.\nЗавдяки конвекційному ТЕНу та вентилятору, дим і температура рівномірно розподіляються всередині камери, гарантуючи стабільне копчення й бездоганний смак.Smoke Chamber 25 — це професійна якість у компактному форматі, створена для тих, хто не погоджується на компроміси.\n🔸 Переваги моделі:\n1. Універсальність - гаряче та холодне копчення, дегідрація, в’ялення, варіння й обсмажування.\n2. Міцність і довговічність - корпус із нержавіючої сталі, стійкий до корозії.\n3. Ефективне копчення - конвекційний ТЕН і вентилятор для рівномірного прогріву.\n4. Точний контроль - ПІД-регулювання для автоматичного керування температурою.\n5. Зручність і гігієна - вбудований димогенератор з конденсатозбірником, жирозбірник і крапельний парогенератор.",
+      "seo": {
+        "title": "SMOKE CHAMBER 25 з вікном — коптильня DREVOS",
+        "description": "SMOKE CHAMBER 25 з оглядовим вікном. Коптильня з нержавіючої сталі для гарячого та холодного копчення. Дізнайтеся комплектацію та замовте у DREVOS."
+      },
+      "attributes": [
+        {
+          "name": "Гарантія",
+          "value": "1 рік"
         },
         {
-          "id": "45970d5d-c5e3-4475-9ed4-0fcbe0dd827f",
+          "name": "Комплектація",
+          "value": "Камера повністю з нержавіючої сталі, Покращений модульний блок керування (з'ємний) з ключем, Накладні двері, Авторські навіси і засувки, Трикутні поперечини 16 шт, Гачки 25 шт, Регульовані полиці за висотою 4 ряди, Вентилятор просушування із зовнішнім шибером, Злив для миття камери під кутом, Димогенератор з охолоджувачем та конденсатозбірником, Нагнітач повітря: равлик для димогенератора з можливістю працювати від павербанку 1 шт, Зовнішній датчик температури для продукта 1 шт, Регульований димар з виходом під гофру 1 шт, Інструкція з експлуатації 1 шт, Гарантійний талон 1 шт, Тріска 3 кг, Конвекційний тен 1 шт, Жирозбірник"
+        },
+        {
+          "name": "Зовнішні розміри",
+          "value": "860✕630✕1180 мм"
+        },
+        {
+          "name": "Внутрішні розміри",
+          "value": "440✕430✕830 мм"
+        },
+        {
+          "name": "Об'єм камери",
+          "value": "160 л"
+        },
+        {
+          "name": "Зможете закоптити за 1 раз",
+          "value": "до 25 кг"
+        },
+        {
+          "name": "Виготовлено з",
+          "value": "нержавіюча сталь"
+        },
+        {
+          "name": "Ступінь захисту",
+          "value": "ІР20"
+        },
+        {
+          "name": "Димогенератор з конденсатозбірником",
+          "value": "з охолоджувачем та конденсатозбірником, 2,75 л"
+        },
+        {
+          "name": "Потужність",
+          "value": "2,3 кВт"
+        }
+      ],
+      "options": [
+        {
+          "name": "Вікно",
+          "values": [
+            "З вікном"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fe0e1a43e-47fb-4bdc-b705-705201768397%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 25 з вікном"
+        },
+        {
+          "position": 2,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F8d3f1461-07cc-455f-ab47-966ce4043c84%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 25 з вікном"
+        },
+        {
+          "position": 3,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F0633ee8e-1d69-48f4-98ae-86e4cb676b81%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 25 з вікном"
+        },
+        {
+          "position": 4,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F8458bad3-eb3f-4eaa-8d28-32bc4826dd44%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 25 з вікном"
+        },
+        {
+          "position": 5,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F179a0134-adf5-4f24-9c8f-b78dd264c414%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 25 з вікном"
+        },
+        {
+          "position": 6,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F7c01dd10-201c-4c6f-8e44-398840fbcda9%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 25 з вікном"
+        },
+        {
+          "position": 7,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F86d5b0e1-3981-4b2d-9171-9111eaed7098%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 25 з вікном"
+        }
+      ],
+      "variants": [
+        {
+          "id": "d517c65c-94b5-4765-b400-934c9b61bc3b",
           "sku": "SMOKECHAMBER25-WINDOW",
           "ean": null,
           "title": "З вікном",
@@ -1652,7 +1769,7 @@
       "model_key": "smoke-chamber-50",
       "handle": "smoke-chamber-50",
       "url": "https://drevos.ua/shop/smoke-chamber-50",
-      "title": "SMOKE CHAMBER 50",
+      "title": "SMOKE CHAMBER 50 без вікна",
       "vendor": "DREVOS",
       "product_type": "Коптильня",
       "categories": [
@@ -1712,8 +1829,7 @@
         {
           "name": "Вікно",
           "values": [
-            "Без вікна",
-            "З вікном"
+            "Без вікна"
           ]
         }
       ],
@@ -1721,37 +1837,37 @@
         {
           "position": 1,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F3409e656-d834-422e-9e62-26f0a5901c44%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 50"
+          "alt": "SMOKE CHAMBER 50 без вікна"
         },
         {
           "position": 2,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F1add8585-ea8d-449d-a774-70641732fda3%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 50"
+          "alt": "SMOKE CHAMBER 50 без вікна"
         },
         {
           "position": 3,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F7ad88017-9ccc-4062-ab7c-ee6583e00bb5%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 50"
+          "alt": "SMOKE CHAMBER 50 без вікна"
         },
         {
           "position": 4,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F695a8595-1edd-42e1-9af8-6ca749976c76%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 50"
+          "alt": "SMOKE CHAMBER 50 без вікна"
         },
         {
           "position": 5,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fe7c96941-e433-4048-8d56-7279a597e513%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 50"
+          "alt": "SMOKE CHAMBER 50 без вікна"
         },
         {
           "position": 6,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F39588ab1-1bd5-4273-a8cb-6ca9983ec97b%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 50"
+          "alt": "SMOKE CHAMBER 50 без вікна"
         },
         {
           "position": 7,
           "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fc28906b1-7534-42cc-9639-78f92d655ecd%2Foriginal&output=jpg&q=90",
-          "alt": "SMOKE CHAMBER 50"
+          "alt": "SMOKE CHAMBER 50 без вікна"
         }
       ],
       "variants": [
@@ -1765,9 +1881,127 @@
           },
           "price": "59300.00",
           "compare_at_price": null
+        }
+      ],
+      "source_updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": "weblium:ce95a219-8f77-44fa-9e4d-73e26e268f33",
+      "source_id": "ce95a219-8f77-44fa-9e4d-73e26e268f33",
+      "market": "UA",
+      "language": "uk",
+      "currency": "UAH",
+      "platform": "Weblium",
+      "scope": "smoker",
+      "status": "active",
+      "model_key": "smoke-chamber-50",
+      "handle": "smoke-chamber-50-z-viknom",
+      "url": "https://drevos.ua/shop/smoke-chamber-50-z-viknom",
+      "title": "SMOKE CHAMBER 50 з вікном",
+      "vendor": "DREVOS",
+      "product_type": "Коптильня",
+      "categories": [
+        "Коптильні з нержавіючої сталі",
+        "Серія Smoke Chamber 4 в 1"
+      ],
+      "tags": [],
+      "description_html": "<span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">Smoke Chamber 50 — це вдосконалена версія моделі SC 25, розроблена для роботи з більшими партіями продукції. Камера об’ємом 360 літрів дозволяє коптити до 50 кг продуктів за цикл, забезпечуючи високу продуктивність без втрати якості.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">Модель підтримує гаряче та холодне копчення, сушіння, в’ялення, дегідрацію та варіння, тому підходить як для професійних цехів, так і для виробників, які прагнуть стабільності та точності у кожній партії.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">Камера повністю виготовлена з нержавіючої сталі, що гарантує довговічність, легке очищення та відповідність європейським стандартам харчової безпеки.</span></span><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">У конструкцію входить крапельний парогенератор, димогенератор з конденсатозбірником, жирозбірник, а також вентилятор і конвекційний ТЕН, які забезпечують рівномірний розподіл температури та диму.</span></span><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">Додатково передбачено можливість використання кліті для завішування продуктів та оглядове вікно для контролю процесу.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">Smoke Chamber 50 — це інструмент професіоналів, який поєднує функціональність, потужність і надійність у кожній деталі.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">🔸 Переваги моделі:</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">1. Великий об’єм - камера 360 л дозволяє коптити до 50 кг продуктів за раз — оптимально для середніх і великих виробництв.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">2. Універсальність - гаряче й холодне копчення, в’ялення, сушіння, дегідрація, варіння.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">3. Інноваційна система повітропотоку - вентилятор і конвекційний ТЕН забезпечують рівномірне прогрівання та стабільний результат.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">4. Професійна якість - корпус із нержавіючої сталі — довговічність, гігієна, легке обслуговування.</span></span><br /><span style=\"display:block\" class=\"w-text-block \"><span class=\"w-text-content\">5. Зручність і контроль - можливість використання кліті для продуктів та оглядове вікно для моніторингу процесу.</span></span>",
+      "description_text": "Smoke Chamber 50 — це вдосконалена версія моделі SC 25, розроблена для роботи з більшими партіями продукції. Камера об’ємом 360 літрів дозволяє коптити до 50 кг продуктів за цикл, забезпечуючи високу продуктивність без втрати якості.\nМодель підтримує гаряче та холодне копчення, сушіння, в’ялення, дегідрацію та варіння, тому підходить як для професійних цехів, так і для виробників, які прагнуть стабільності та точності у кожній партії.\nКамера повністю виготовлена з нержавіючої сталі, що гарантує довговічність, легке очищення та відповідність європейським стандартам харчової безпеки.У конструкцію входить крапельний парогенератор, димогенератор з конденсатозбірником, жирозбірник, а також вентилятор і конвекційний ТЕН, які забезпечують рівномірний розподіл температури та диму.Додатково передбачено можливість використання кліті для завішування продуктів та оглядове вікно для контролю процесу.\nSmoke Chamber 50 — це інструмент професіоналів, який поєднує функціональність, потужність і надійність у кожній деталі.\n🔸 Переваги моделі:\n1. Великий об’єм - камера 360 л дозволяє коптити до 50 кг продуктів за раз — оптимально для середніх і великих виробництв.\n2. Універсальність - гаряче й холодне копчення, в’ялення, сушіння, дегідрація, варіння.\n3. Інноваційна система повітропотоку - вентилятор і конвекційний ТЕН забезпечують рівномірне прогрівання та стабільний результат.\n4. Професійна якість - корпус із нержавіючої сталі — довговічність, гігієна, легке обслуговування.\n5. Зручність і контроль - можливість використання кліті для продуктів та оглядове вікно для моніторингу процесу.",
+      "seo": {
+        "title": "SMOKE CHAMBER 50 з вікном — коптильня DREVOS",
+        "description": "SMOKE CHAMBER 50 з оглядовим вікном. Професійна коптильня з нержавіючої сталі на 360 л. Дізнайтеся комплектацію та замовте у DREVOS."
+      },
+      "attributes": [
+        {
+          "name": "Гарантія",
+          "value": "1 рік"
         },
         {
-          "id": "ed30462a-dc93-4e8c-b17e-1029646593d3",
+          "name": "Зовнішні розміри",
+          "value": "1040✕780✕1370 мм"
+        },
+        {
+          "name": "Внутрішні розміри",
+          "value": "600✕600✕1000 мм"
+        },
+        {
+          "name": "Об'єм камери",
+          "value": "360 л"
+        },
+        {
+          "name": "Зможете закоптити за 1 раз",
+          "value": "до 50 кг"
+        },
+        {
+          "name": "Виготовлено з",
+          "value": "нержавіюча сталь"
+        },
+        {
+          "name": "Ступінь захисту",
+          "value": "ІР20"
+        },
+        {
+          "name": "Димогенератор з конденсатозбірником",
+          "value": "з охолоджувачем та конденсатозбірником, 2,75 л"
+        },
+        {
+          "name": "Потужність",
+          "value": "4,3 кВт"
+        },
+        {
+          "name": "Комплектація",
+          "value": "Камера повністю з нержавіючої сталі, Покращений модульний блок керування (з'ємний) з ключем, Накладні двері, Авторські навіси і засувки, Трикутні поперечини 20 шт, Гачки 25 шт, Регульовані полиці за висотою 4 ряди, Вентилятор просушування із зовнішнім шибером, Злив для миття камери під кутом, Димогенератор з охолоджувачем та конденсатозбірником, Нагнітач повітря: равлик для димогенератора з можливістю працювати від павербанку 1 шт, Зовнішній датчик температури для продукта 1 шт, Регульований димар з виходом під гофру 1 шт, Інструкція з експлуатації 1 шт, Гарантійний талон 1 шт, Тріска 3 кг, Конвекційний тен 1 шт, Жирозбірник"
+        }
+      ],
+      "options": [
+        {
+          "name": "Вікно",
+          "values": [
+            "З вікном"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "position": 1,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F3409e656-d834-422e-9e62-26f0a5901c44%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 50 з вікном"
+        },
+        {
+          "position": 2,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F1add8585-ea8d-449d-a774-70641732fda3%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 50 з вікном"
+        },
+        {
+          "position": 3,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F7ad88017-9ccc-4062-ab7c-ee6583e00bb5%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 50 з вікном"
+        },
+        {
+          "position": 4,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F695a8595-1edd-42e1-9af8-6ca749976c76%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 50 з вікном"
+        },
+        {
+          "position": 5,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fe7c96941-e433-4048-8d56-7279a597e513%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 50 з вікном"
+        },
+        {
+          "position": 6,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2F39588ab1-1bd5-4273-a8cb-6ca9983ec97b%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 50 з вікном"
+        },
+        {
+          "position": 7,
+          "src": "https://images.weserv.nl/?url=e-c.storage.googleapis.com%2Fres%2Fc28906b1-7534-42cc-9639-78f92d655ecd%2Foriginal&output=jpg&q=90",
+          "alt": "SMOKE CHAMBER 50 з вікном"
+        }
+      ],
+      "variants": [
+        {
+          "id": "a0c14822-bceb-4a32-a2ec-bd74ade580a7",
           "sku": "SMOKECHAMBER50-WINDOW",
           "ean": null,
           "title": "З вікном",
